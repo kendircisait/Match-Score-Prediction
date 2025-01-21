@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Match Score Prediction",
+    "\\Match Score Prediction\\Match Score Prediction",
+    "\\Match Score Prediction\\Match Score Prediction\\app",
+    "\\Match Score Prediction\\Match Score Prediction\\app\\templates",
+    "\\Match Score Prediction\\Match Score Prediction\\data",
+    "\\Match Score Prediction\\Match Score Prediction\\static",
+    "\\Match Score Prediction\\Match Score Prediction\\__pycache__"
+  ],
+  "SelectedNode": "\\Match Score Prediction\\Match Score Prediction\\app\\predictor.py",
+  "PreviewInSolutionExplorer": false
+}

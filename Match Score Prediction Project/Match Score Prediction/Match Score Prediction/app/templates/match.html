@@ -1,0 +1,62 @@
+{% extends "base.html" %} {% block content %}
+<div class="card">
+  <div class="card-header">
+    <h2 class="mb-0">Maç Sonucu Ekle</h2>
+  </div>
+  <div class="card-body">
+    <form method="POST">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label class="form-label">Ev Sahibi Takım</label>
+            <select name="home_team" class="form-select" required>
+              <option value="">Takım Seçin</option>
+              {% for team in teams %}
+              <option value="{{ team.id }}">{{ team.team_name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label class="form-label">Deplasman Takımı</label>
+            <select name="away_team" class="form-select" required>
+              <option value="">Takım Seçin</option>
+              {% for team in teams %}
+              <option value="{{ team.id }}">{{ team.team_name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label class="form-label">Ev Sahibi Golleri</label>
+            <input
+              type="number"
+              name="home_goals"
+              class="form-control"
+              required
+              min="0"
+            />
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label class="form-label">Deplasman Golleri</label>
+            <input
+              type="number"
+              name="away_goals"
+              class="form-control"
+              required
+              min="0"
+            />
+          </div>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Maç Sonucunu Kaydet</button>
+    </form>
+  </div>
+</div>
+{% endblock %}

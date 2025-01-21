@@ -1,0 +1,3421 @@
+home_team,away_team,home_goals,away_goals,match_no,match_date
+Adana Demirspor,Alanyaspor,1,2,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Alanyaspor,3,0,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Alanyaspor,1,2,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Alanyaspor,1,2,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Alanyaspor,1,1,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Alanyaspor,1,2,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Alanyaspor,3,2,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Alanyaspor,0,3,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Alanyaspor,0,1,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Alanyaspor,2,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Antalyaspor,0,0,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Antalyaspor,0,2,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Antalyaspor,1,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Antalyaspor,0,0,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Antalyaspor,2,1,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Antalyaspor,1,1,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Antalyaspor,1,2,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Antalyaspor,4,3,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Antalyaspor,1,1,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Antalyaspor,3,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Beşiktaş,1,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Beşiktaş,1,2,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Beşiktaş,2,2,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Beşiktaş,3,0,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Beşiktaş,2,2,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Beşiktaş,2,2,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Beşiktaş,1,2,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Beşiktaş,1,2,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Beşiktaş,1,0,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Beşiktaş,0,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Bodrum,2,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Bodrum,0,2,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Bodrum,1,0,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Bodrum,1,0,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Bodrum,2,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Bodrum,2,0,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Bodrum,1,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Bodrum,0,1,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Bodrum,1,1,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Bodrum,1,0,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,2,0,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,3,4,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,2,0,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,2,2,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,1,2,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,2,2,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,2,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,1,1,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,2,0,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Çaykur Rizespor,0,2,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Eyüpspor,0,0,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Eyüpspor,1,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Eyüpspor,3,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Eyüpspor,0,1,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Eyüpspor,2,1,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Eyüpspor,4,2,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Eyüpspor,2,2,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Eyüpspor,2,1,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Eyüpspor,0,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Eyüpspor,1,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Fenerbahçe,0,4,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Fenerbahçe,1,0,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Fenerbahçe,2,2,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Fenerbahçe,2,1,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Fenerbahçe,0,3,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Fenerbahçe,1,4,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Fenerbahçe,1,4,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Fenerbahçe,0,0,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Fenerbahçe,0,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Fenerbahçe,2,2,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Galatasaray,1,3,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Galatasaray,4,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Galatasaray,0,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Galatasaray,1,1,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Galatasaray,1,1,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Galatasaray,1,1,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Galatasaray,1,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Galatasaray,1,2,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Galatasaray,0,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Galatasaray,0,3,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Gaziantep,1,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Gaziantep,2,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Gaziantep,3,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Gaziantep,4,2,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Gaziantep,1,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Gaziantep,2,1,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Gaziantep,2,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Gaziantep,0,0,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Gaziantep,0,0,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Gaziantep,2,4,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Göztepe,2,3,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Göztepe,1,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Göztepe,1,2,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Göztepe,0,2,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Göztepe,1,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Göztepe,1,1,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Göztepe,0,0,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Göztepe,0,0,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Göztepe,2,1,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Göztepe,0,2,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Hatayspor,1,2,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Hatayspor,1,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Hatayspor,0,0,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Hatayspor,0,4,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Hatayspor,0,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Hatayspor,0,0,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Hatayspor,4,2,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Hatayspor,0,1,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Hatayspor,0,0,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Hatayspor,3,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,1,2,1,2024-01-01 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,1,0,2,2024-01-08 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,1,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,0,1,4,2024-01-22 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,1,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,2,2,6,2024-02-05 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,2,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,1,2,8,2024-02-19 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,1,1,9,2024-02-26 00:00:00.000000
+Adana Demirspor,İstanbul Başakşehir,0,0,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Kasımpaşa,1,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Kasımpaşa,2,0,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Kasımpaşa,3,0,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Kasımpaşa,1,1,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Kasımpaşa,2,2,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Kasımpaşa,0,1,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Kasımpaşa,1,0,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Kasımpaşa,1,2,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Kasımpaşa,1,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Kasımpaşa,2,0,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Kayserispor,2,2,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Kayserispor,2,2,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Kayserispor,2,0,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Kayserispor,1,0,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Kayserispor,0,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Kayserispor,3,4,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Kayserispor,1,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Kayserispor,1,0,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Kayserispor,0,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Kayserispor,2,0,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Konyaspor,4,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Konyaspor,0,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Konyaspor,1,2,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Konyaspor,0,2,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Konyaspor,1,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Konyaspor,1,0,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Konyaspor,3,4,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Konyaspor,2,0,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Konyaspor,2,0,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Konyaspor,0,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Samsunspor,3,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Samsunspor,2,0,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Samsunspor,1,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Samsunspor,2,1,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Samsunspor,0,2,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Samsunspor,1,0,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Samsunspor,2,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Samsunspor,1,1,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Samsunspor,2,0,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Samsunspor,2,2,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Sivasspor,0,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Sivasspor,1,2,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Sivasspor,2,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Sivasspor,3,0,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Sivasspor,1,0,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Sivasspor,1,1,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Sivasspor,1,1,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Sivasspor,1,3,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Sivasspor,2,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Sivasspor,1,1,10,2024-03-04 00:00:00.000000
+Adana Demirspor,Trabzonspor,0,1,1,2024-01-01 00:00:00.000000
+Adana Demirspor,Trabzonspor,1,1,2,2024-01-08 00:00:00.000000
+Adana Demirspor,Trabzonspor,2,1,3,2024-01-15 00:00:00.000000
+Adana Demirspor,Trabzonspor,0,3,4,2024-01-22 00:00:00.000000
+Adana Demirspor,Trabzonspor,1,1,5,2024-01-29 00:00:00.000000
+Adana Demirspor,Trabzonspor,2,4,6,2024-02-05 00:00:00.000000
+Adana Demirspor,Trabzonspor,0,2,7,2024-02-12 00:00:00.000000
+Adana Demirspor,Trabzonspor,2,3,8,2024-02-19 00:00:00.000000
+Adana Demirspor,Trabzonspor,0,2,9,2024-02-26 00:00:00.000000
+Adana Demirspor,Trabzonspor,1,4,10,2024-03-04 00:00:00.000000
+Alanyaspor,Adana Demirspor,1,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,Adana Demirspor,2,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+Alanyaspor,Adana Demirspor,1,1,4,2024-01-22 00:00:00.000000
+Alanyaspor,Adana Demirspor,0,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Adana Demirspor,3,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Adana Demirspor,3,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Adana Demirspor,0,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Adana Demirspor,2,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,Adana Demirspor,2,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Antalyaspor,2,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,Antalyaspor,2,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Antalyaspor,0,2,3,2024-01-15 00:00:00.000000
+Alanyaspor,Antalyaspor,1,1,4,2024-01-22 00:00:00.000000
+Alanyaspor,Antalyaspor,2,1,5,2024-01-29 00:00:00.000000
+Alanyaspor,Antalyaspor,2,1,6,2024-02-05 00:00:00.000000
+Alanyaspor,Antalyaspor,2,1,7,2024-02-12 00:00:00.000000
+Alanyaspor,Antalyaspor,2,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Antalyaspor,1,0,9,2024-02-26 00:00:00.000000
+Alanyaspor,Antalyaspor,2,4,10,2024-03-04 00:00:00.000000
+Alanyaspor,Beşiktaş,4,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,Beşiktaş,2,4,2,2024-01-08 00:00:00.000000
+Alanyaspor,Beşiktaş,3,0,3,2024-01-15 00:00:00.000000
+Alanyaspor,Beşiktaş,1,0,4,2024-01-22 00:00:00.000000
+Alanyaspor,Beşiktaş,1,3,5,2024-01-29 00:00:00.000000
+Alanyaspor,Beşiktaş,2,2,6,2024-02-05 00:00:00.000000
+Alanyaspor,Beşiktaş,2,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Beşiktaş,0,3,8,2024-02-19 00:00:00.000000
+Alanyaspor,Beşiktaş,1,1,9,2024-02-26 00:00:00.000000
+Alanyaspor,Beşiktaş,0,3,10,2024-03-04 00:00:00.000000
+Alanyaspor,Bodrum,1,0,1,2024-01-01 00:00:00.000000
+Alanyaspor,Bodrum,1,1,2,2024-01-08 00:00:00.000000
+Alanyaspor,Bodrum,3,3,3,2024-01-15 00:00:00.000000
+Alanyaspor,Bodrum,1,0,4,2024-01-22 00:00:00.000000
+Alanyaspor,Bodrum,0,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Bodrum,1,1,6,2024-02-05 00:00:00.000000
+Alanyaspor,Bodrum,3,1,7,2024-02-12 00:00:00.000000
+Alanyaspor,Bodrum,2,2,8,2024-02-19 00:00:00.000000
+Alanyaspor,Bodrum,3,0,9,2024-02-26 00:00:00.000000
+Alanyaspor,Bodrum,2,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,1,0,1,2024-01-01 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,3,1,2,2024-01-08 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,0,0,3,2024-01-15 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,4,1,4,2024-01-22 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,0,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,3,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,2,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,3,0,8,2024-02-19 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,2,1,9,2024-02-26 00:00:00.000000
+Alanyaspor,Çaykur Rizespor,2,0,10,2024-03-04 00:00:00.000000
+Alanyaspor,Eyüpspor,2,0,1,2024-01-01 00:00:00.000000
+Alanyaspor,Eyüpspor,2,3,2,2024-01-08 00:00:00.000000
+Alanyaspor,Eyüpspor,1,3,3,2024-01-15 00:00:00.000000
+Alanyaspor,Eyüpspor,3,2,4,2024-01-22 00:00:00.000000
+Alanyaspor,Eyüpspor,4,1,5,2024-01-29 00:00:00.000000
+Alanyaspor,Eyüpspor,2,1,6,2024-02-05 00:00:00.000000
+Alanyaspor,Eyüpspor,1,0,7,2024-02-12 00:00:00.000000
+Alanyaspor,Eyüpspor,1,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Eyüpspor,2,0,9,2024-02-26 00:00:00.000000
+Alanyaspor,Eyüpspor,0,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Fenerbahçe,1,1,1,2024-01-01 00:00:00.000000
+Alanyaspor,Fenerbahçe,2,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Fenerbahçe,1,3,3,2024-01-15 00:00:00.000000
+Alanyaspor,Fenerbahçe,1,3,4,2024-01-22 00:00:00.000000
+Alanyaspor,Fenerbahçe,1,0,5,2024-01-29 00:00:00.000000
+Alanyaspor,Fenerbahçe,4,2,6,2024-02-05 00:00:00.000000
+Alanyaspor,Fenerbahçe,2,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Fenerbahçe,0,2,8,2024-02-19 00:00:00.000000
+Alanyaspor,Fenerbahçe,1,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,Fenerbahçe,0,2,10,2024-03-04 00:00:00.000000
+Alanyaspor,Galatasaray,2,0,1,2024-01-01 00:00:00.000000
+Alanyaspor,Galatasaray,4,2,2,2024-01-08 00:00:00.000000
+Alanyaspor,Galatasaray,0,2,3,2024-01-15 00:00:00.000000
+Alanyaspor,Galatasaray,1,0,4,2024-01-22 00:00:00.000000
+Alanyaspor,Galatasaray,1,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Galatasaray,1,4,6,2024-02-05 00:00:00.000000
+Alanyaspor,Galatasaray,0,1,7,2024-02-12 00:00:00.000000
+Alanyaspor,Galatasaray,0,2,8,2024-02-19 00:00:00.000000
+Alanyaspor,Galatasaray,2,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,Galatasaray,1,3,10,2024-03-04 00:00:00.000000
+Alanyaspor,Gaziantep,1,1,1,2024-01-01 00:00:00.000000
+Alanyaspor,Gaziantep,2,1,2,2024-01-08 00:00:00.000000
+Alanyaspor,Gaziantep,1,2,3,2024-01-15 00:00:00.000000
+Alanyaspor,Gaziantep,0,3,4,2024-01-22 00:00:00.000000
+Alanyaspor,Gaziantep,1,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Gaziantep,1,1,6,2024-02-05 00:00:00.000000
+Alanyaspor,Gaziantep,0,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Gaziantep,0,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Gaziantep,2,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,Gaziantep,3,2,10,2024-03-04 00:00:00.000000
+Alanyaspor,Göztepe,2,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,Göztepe,4,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Göztepe,2,2,3,2024-01-15 00:00:00.000000
+Alanyaspor,Göztepe,1,0,4,2024-01-22 00:00:00.000000
+Alanyaspor,Göztepe,1,0,5,2024-01-29 00:00:00.000000
+Alanyaspor,Göztepe,1,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Göztepe,1,1,7,2024-02-12 00:00:00.000000
+Alanyaspor,Göztepe,1,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Göztepe,2,3,9,2024-02-26 00:00:00.000000
+Alanyaspor,Göztepe,1,0,10,2024-03-04 00:00:00.000000
+Alanyaspor,Hatayspor,0,1,1,2024-01-01 00:00:00.000000
+Alanyaspor,Hatayspor,2,1,2,2024-01-08 00:00:00.000000
+Alanyaspor,Hatayspor,1,0,3,2024-01-15 00:00:00.000000
+Alanyaspor,Hatayspor,1,2,4,2024-01-22 00:00:00.000000
+Alanyaspor,Hatayspor,2,1,5,2024-01-29 00:00:00.000000
+Alanyaspor,Hatayspor,1,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Hatayspor,2,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Hatayspor,1,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Hatayspor,2,0,9,2024-02-26 00:00:00.000000
+Alanyaspor,Hatayspor,1,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,3,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,2,1,2,2024-01-08 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,1,1,3,2024-01-15 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,1,0,4,2024-01-22 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,2,3,5,2024-01-29 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,3,1,6,2024-02-05 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,3,3,7,2024-02-12 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,4,0,8,2024-02-19 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,2,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,İstanbul Başakşehir,2,3,10,2024-03-04 00:00:00.000000
+Alanyaspor,Kasımpaşa,3,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,Kasımpaşa,2,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Kasımpaşa,0,1,3,2024-01-15 00:00:00.000000
+Alanyaspor,Kasımpaşa,3,1,4,2024-01-22 00:00:00.000000
+Alanyaspor,Kasımpaşa,4,0,5,2024-01-29 00:00:00.000000
+Alanyaspor,Kasımpaşa,1,2,6,2024-02-05 00:00:00.000000
+Alanyaspor,Kasımpaşa,1,0,7,2024-02-12 00:00:00.000000
+Alanyaspor,Kasımpaşa,1,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Kasımpaşa,2,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,Kasımpaşa,4,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Kayserispor,4,0,1,2024-01-01 00:00:00.000000
+Alanyaspor,Kayserispor,0,2,2,2024-01-08 00:00:00.000000
+Alanyaspor,Kayserispor,2,0,3,2024-01-15 00:00:00.000000
+Alanyaspor,Kayserispor,2,0,4,2024-01-22 00:00:00.000000
+Alanyaspor,Kayserispor,2,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Kayserispor,0,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Kayserispor,0,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Kayserispor,1,2,8,2024-02-19 00:00:00.000000
+Alanyaspor,Kayserispor,1,1,9,2024-02-26 00:00:00.000000
+Alanyaspor,Kayserispor,0,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Konyaspor,0,1,1,2024-01-01 00:00:00.000000
+Alanyaspor,Konyaspor,1,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Konyaspor,1,3,3,2024-01-15 00:00:00.000000
+Alanyaspor,Konyaspor,0,2,4,2024-01-22 00:00:00.000000
+Alanyaspor,Konyaspor,0,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Konyaspor,1,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Konyaspor,1,2,7,2024-02-12 00:00:00.000000
+Alanyaspor,Konyaspor,2,0,8,2024-02-19 00:00:00.000000
+Alanyaspor,Konyaspor,2,2,9,2024-02-26 00:00:00.000000
+Alanyaspor,Konyaspor,1,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Samsunspor,0,1,1,2024-01-01 00:00:00.000000
+Alanyaspor,Samsunspor,1,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Samsunspor,2,2,3,2024-01-15 00:00:00.000000
+Alanyaspor,Samsunspor,1,2,4,2024-01-22 00:00:00.000000
+Alanyaspor,Samsunspor,1,1,5,2024-01-29 00:00:00.000000
+Alanyaspor,Samsunspor,1,3,6,2024-02-05 00:00:00.000000
+Alanyaspor,Samsunspor,0,3,7,2024-02-12 00:00:00.000000
+Alanyaspor,Samsunspor,1,2,8,2024-02-19 00:00:00.000000
+Alanyaspor,Samsunspor,1,4,9,2024-02-26 00:00:00.000000
+Alanyaspor,Samsunspor,0,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Sivasspor,2,0,1,2024-01-01 00:00:00.000000
+Alanyaspor,Sivasspor,1,0,2,2024-01-08 00:00:00.000000
+Alanyaspor,Sivasspor,1,2,3,2024-01-15 00:00:00.000000
+Alanyaspor,Sivasspor,1,1,4,2024-01-22 00:00:00.000000
+Alanyaspor,Sivasspor,2,3,5,2024-01-29 00:00:00.000000
+Alanyaspor,Sivasspor,2,2,6,2024-02-05 00:00:00.000000
+Alanyaspor,Sivasspor,1,0,7,2024-02-12 00:00:00.000000
+Alanyaspor,Sivasspor,1,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Sivasspor,1,0,9,2024-02-26 00:00:00.000000
+Alanyaspor,Sivasspor,1,1,10,2024-03-04 00:00:00.000000
+Alanyaspor,Trabzonspor,2,2,1,2024-01-01 00:00:00.000000
+Alanyaspor,Trabzonspor,0,3,2,2024-01-08 00:00:00.000000
+Alanyaspor,Trabzonspor,0,3,3,2024-01-15 00:00:00.000000
+Alanyaspor,Trabzonspor,0,1,4,2024-01-22 00:00:00.000000
+Alanyaspor,Trabzonspor,3,2,5,2024-01-29 00:00:00.000000
+Alanyaspor,Trabzonspor,3,0,6,2024-02-05 00:00:00.000000
+Alanyaspor,Trabzonspor,2,1,7,2024-02-12 00:00:00.000000
+Alanyaspor,Trabzonspor,0,1,8,2024-02-19 00:00:00.000000
+Alanyaspor,Trabzonspor,0,0,9,2024-02-26 00:00:00.000000
+Alanyaspor,Trabzonspor,2,1,10,2024-03-04 00:00:00.000000
+Antalyaspor,Adana Demirspor,1,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,Adana Demirspor,1,4,2,2024-01-08 00:00:00.000000
+Antalyaspor,Adana Demirspor,1,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,Adana Demirspor,2,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Adana Demirspor,3,0,5,2024-01-29 00:00:00.000000
+Antalyaspor,Adana Demirspor,2,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Adana Demirspor,1,2,7,2024-02-12 00:00:00.000000
+Antalyaspor,Adana Demirspor,3,1,8,2024-02-19 00:00:00.000000
+Antalyaspor,Adana Demirspor,2,3,9,2024-02-26 00:00:00.000000
+Antalyaspor,Adana Demirspor,0,3,10,2024-03-04 00:00:00.000000
+Antalyaspor,Alanyaspor,2,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,Alanyaspor,2,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Alanyaspor,2,3,3,2024-01-15 00:00:00.000000
+Antalyaspor,Alanyaspor,3,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Alanyaspor,1,0,5,2024-01-29 00:00:00.000000
+Antalyaspor,Alanyaspor,2,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Alanyaspor,0,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Alanyaspor,1,1,8,2024-02-19 00:00:00.000000
+Antalyaspor,Alanyaspor,2,2,9,2024-02-26 00:00:00.000000
+Antalyaspor,Alanyaspor,3,1,10,2024-03-04 00:00:00.000000
+Antalyaspor,Beşiktaş,0,2,1,2024-01-01 00:00:00.000000
+Antalyaspor,Beşiktaş,1,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Beşiktaş,2,3,3,2024-01-15 00:00:00.000000
+Antalyaspor,Beşiktaş,0,0,4,2024-01-22 00:00:00.000000
+Antalyaspor,Beşiktaş,0,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Beşiktaş,3,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Beşiktaş,2,2,7,2024-02-12 00:00:00.000000
+Antalyaspor,Beşiktaş,4,1,8,2024-02-19 00:00:00.000000
+Antalyaspor,Beşiktaş,0,3,9,2024-02-26 00:00:00.000000
+Antalyaspor,Beşiktaş,1,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Bodrum,1,0,1,2024-01-01 00:00:00.000000
+Antalyaspor,Bodrum,2,0,2,2024-01-08 00:00:00.000000
+Antalyaspor,Bodrum,0,0,3,2024-01-15 00:00:00.000000
+Antalyaspor,Bodrum,3,3,4,2024-01-22 00:00:00.000000
+Antalyaspor,Bodrum,1,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Bodrum,1,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Bodrum,1,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Bodrum,0,2,8,2024-02-19 00:00:00.000000
+Antalyaspor,Bodrum,1,1,9,2024-02-26 00:00:00.000000
+Antalyaspor,Bodrum,2,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,1,2,1,2024-01-01 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,2,0,2,2024-01-08 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,2,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,1,1,4,2024-01-22 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,0,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,2,2,6,2024-02-05 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,3,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,3,0,8,2024-02-19 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,2,0,9,2024-02-26 00:00:00.000000
+Antalyaspor,Çaykur Rizespor,0,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Eyüpspor,2,0,1,2024-01-01 00:00:00.000000
+Antalyaspor,Eyüpspor,2,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Eyüpspor,4,2,3,2024-01-15 00:00:00.000000
+Antalyaspor,Eyüpspor,0,1,4,2024-01-22 00:00:00.000000
+Antalyaspor,Eyüpspor,1,2,5,2024-01-29 00:00:00.000000
+Antalyaspor,Eyüpspor,4,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Eyüpspor,3,2,7,2024-02-12 00:00:00.000000
+Antalyaspor,Eyüpspor,2,0,8,2024-02-19 00:00:00.000000
+Antalyaspor,Eyüpspor,4,2,9,2024-02-26 00:00:00.000000
+Antalyaspor,Eyüpspor,1,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Fenerbahçe,1,0,1,2024-01-01 00:00:00.000000
+Antalyaspor,Fenerbahçe,2,2,2,2024-01-08 00:00:00.000000
+Antalyaspor,Fenerbahçe,2,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,Fenerbahçe,3,1,4,2024-01-22 00:00:00.000000
+Antalyaspor,Fenerbahçe,1,3,5,2024-01-29 00:00:00.000000
+Antalyaspor,Fenerbahçe,3,0,6,2024-02-05 00:00:00.000000
+Antalyaspor,Fenerbahçe,1,2,7,2024-02-12 00:00:00.000000
+Antalyaspor,Fenerbahçe,0,0,8,2024-02-19 00:00:00.000000
+Antalyaspor,Fenerbahçe,2,3,9,2024-02-26 00:00:00.000000
+Antalyaspor,Fenerbahçe,0,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Galatasaray,2,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,Galatasaray,0,2,2,2024-01-08 00:00:00.000000
+Antalyaspor,Galatasaray,2,2,3,2024-01-15 00:00:00.000000
+Antalyaspor,Galatasaray,1,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Galatasaray,1,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Galatasaray,0,2,6,2024-02-05 00:00:00.000000
+Antalyaspor,Galatasaray,1,0,7,2024-02-12 00:00:00.000000
+Antalyaspor,Galatasaray,1,3,8,2024-02-19 00:00:00.000000
+Antalyaspor,Galatasaray,1,2,9,2024-02-26 00:00:00.000000
+Antalyaspor,Galatasaray,2,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Gaziantep,2,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,Gaziantep,2,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Gaziantep,2,0,3,2024-01-15 00:00:00.000000
+Antalyaspor,Gaziantep,3,0,4,2024-01-22 00:00:00.000000
+Antalyaspor,Gaziantep,1,2,5,2024-01-29 00:00:00.000000
+Antalyaspor,Gaziantep,3,0,6,2024-02-05 00:00:00.000000
+Antalyaspor,Gaziantep,0,0,7,2024-02-12 00:00:00.000000
+Antalyaspor,Gaziantep,1,4,8,2024-02-19 00:00:00.000000
+Antalyaspor,Gaziantep,2,1,9,2024-02-26 00:00:00.000000
+Antalyaspor,Gaziantep,1,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Göztepe,1,0,1,2024-01-01 00:00:00.000000
+Antalyaspor,Göztepe,4,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Göztepe,2,0,3,2024-01-15 00:00:00.000000
+Antalyaspor,Göztepe,1,0,4,2024-01-22 00:00:00.000000
+Antalyaspor,Göztepe,2,2,5,2024-01-29 00:00:00.000000
+Antalyaspor,Göztepe,1,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Göztepe,2,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Göztepe,1,2,8,2024-02-19 00:00:00.000000
+Antalyaspor,Göztepe,1,1,9,2024-02-26 00:00:00.000000
+Antalyaspor,Göztepe,2,1,10,2024-03-04 00:00:00.000000
+Antalyaspor,Hatayspor,0,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,Hatayspor,0,2,2,2024-01-08 00:00:00.000000
+Antalyaspor,Hatayspor,2,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,Hatayspor,2,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Hatayspor,3,0,5,2024-01-29 00:00:00.000000
+Antalyaspor,Hatayspor,2,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Hatayspor,2,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Hatayspor,0,4,8,2024-02-19 00:00:00.000000
+Antalyaspor,Hatayspor,1,2,9,2024-02-26 00:00:00.000000
+Antalyaspor,Hatayspor,2,0,10,2024-03-04 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,1,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,2,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,4,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,1,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,2,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,0,0,6,2024-02-05 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,1,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,0,1,8,2024-02-19 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,1,0,9,2024-02-26 00:00:00.000000
+Antalyaspor,İstanbul Başakşehir,0,1,10,2024-03-04 00:00:00.000000
+Antalyaspor,Kasımpaşa,2,1,1,2024-01-01 00:00:00.000000
+Antalyaspor,Kasımpaşa,1,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Kasımpaşa,1,0,3,2024-01-15 00:00:00.000000
+Antalyaspor,Kasımpaşa,1,0,4,2024-01-22 00:00:00.000000
+Antalyaspor,Kasımpaşa,2,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Kasımpaşa,2,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Kasımpaşa,1,4,7,2024-02-12 00:00:00.000000
+Antalyaspor,Kasımpaşa,0,1,8,2024-02-19 00:00:00.000000
+Antalyaspor,Kasımpaşa,1,1,9,2024-02-26 00:00:00.000000
+Antalyaspor,Kasımpaşa,2,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Kayserispor,2,0,1,2024-01-01 00:00:00.000000
+Antalyaspor,Kayserispor,0,0,2,2024-01-08 00:00:00.000000
+Antalyaspor,Kayserispor,0,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,Kayserispor,1,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Kayserispor,0,2,5,2024-01-29 00:00:00.000000
+Antalyaspor,Kayserispor,4,0,6,2024-02-05 00:00:00.000000
+Antalyaspor,Kayserispor,3,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Kayserispor,2,0,8,2024-02-19 00:00:00.000000
+Antalyaspor,Kayserispor,3,3,9,2024-02-26 00:00:00.000000
+Antalyaspor,Kayserispor,1,1,10,2024-03-04 00:00:00.000000
+Antalyaspor,Konyaspor,2,2,1,2024-01-01 00:00:00.000000
+Antalyaspor,Konyaspor,2,3,2,2024-01-08 00:00:00.000000
+Antalyaspor,Konyaspor,1,0,3,2024-01-15 00:00:00.000000
+Antalyaspor,Konyaspor,0,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Konyaspor,0,2,5,2024-01-29 00:00:00.000000
+Antalyaspor,Konyaspor,1,0,6,2024-02-05 00:00:00.000000
+Antalyaspor,Konyaspor,0,2,7,2024-02-12 00:00:00.000000
+Antalyaspor,Konyaspor,2,3,8,2024-02-19 00:00:00.000000
+Antalyaspor,Konyaspor,1,2,9,2024-02-26 00:00:00.000000
+Antalyaspor,Konyaspor,1,1,10,2024-03-04 00:00:00.000000
+Antalyaspor,Samsunspor,1,3,1,2024-01-01 00:00:00.000000
+Antalyaspor,Samsunspor,1,2,2,2024-01-08 00:00:00.000000
+Antalyaspor,Samsunspor,3,1,3,2024-01-15 00:00:00.000000
+Antalyaspor,Samsunspor,1,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Samsunspor,2,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Samsunspor,0,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Samsunspor,0,0,7,2024-02-12 00:00:00.000000
+Antalyaspor,Samsunspor,1,3,8,2024-02-19 00:00:00.000000
+Antalyaspor,Samsunspor,1,2,9,2024-02-26 00:00:00.000000
+Antalyaspor,Samsunspor,1,3,10,2024-03-04 00:00:00.000000
+Antalyaspor,Sivasspor,2,3,1,2024-01-01 00:00:00.000000
+Antalyaspor,Sivasspor,1,0,2,2024-01-08 00:00:00.000000
+Antalyaspor,Sivasspor,2,2,3,2024-01-15 00:00:00.000000
+Antalyaspor,Sivasspor,3,3,4,2024-01-22 00:00:00.000000
+Antalyaspor,Sivasspor,3,1,5,2024-01-29 00:00:00.000000
+Antalyaspor,Sivasspor,2,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Sivasspor,1,3,7,2024-02-12 00:00:00.000000
+Antalyaspor,Sivasspor,2,1,8,2024-02-19 00:00:00.000000
+Antalyaspor,Sivasspor,1,1,9,2024-02-26 00:00:00.000000
+Antalyaspor,Sivasspor,4,2,10,2024-03-04 00:00:00.000000
+Antalyaspor,Trabzonspor,2,3,1,2024-01-01 00:00:00.000000
+Antalyaspor,Trabzonspor,0,1,2,2024-01-08 00:00:00.000000
+Antalyaspor,Trabzonspor,1,3,3,2024-01-15 00:00:00.000000
+Antalyaspor,Trabzonspor,0,2,4,2024-01-22 00:00:00.000000
+Antalyaspor,Trabzonspor,0,2,5,2024-01-29 00:00:00.000000
+Antalyaspor,Trabzonspor,0,1,6,2024-02-05 00:00:00.000000
+Antalyaspor,Trabzonspor,3,1,7,2024-02-12 00:00:00.000000
+Antalyaspor,Trabzonspor,0,3,8,2024-02-19 00:00:00.000000
+Antalyaspor,Trabzonspor,0,0,9,2024-02-26 00:00:00.000000
+Antalyaspor,Trabzonspor,0,0,10,2024-03-04 00:00:00.000000
+Beşiktaş,Adana Demirspor,2,3,1,2024-01-01 00:00:00.000000
+Beşiktaş,Adana Demirspor,1,3,2,2024-01-08 00:00:00.000000
+Beşiktaş,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Adana Demirspor,3,0,4,2024-01-22 00:00:00.000000
+Beşiktaş,Adana Demirspor,3,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Adana Demirspor,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Adana Demirspor,2,1,7,2024-02-12 00:00:00.000000
+Beşiktaş,Adana Demirspor,1,1,8,2024-02-19 00:00:00.000000
+Beşiktaş,Adana Demirspor,2,0,9,2024-02-26 00:00:00.000000
+Beşiktaş,Adana Demirspor,2,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Alanyaspor,2,1,1,2024-01-01 00:00:00.000000
+Beşiktaş,Alanyaspor,3,1,2,2024-01-08 00:00:00.000000
+Beşiktaş,Alanyaspor,2,3,3,2024-01-15 00:00:00.000000
+Beşiktaş,Alanyaspor,1,0,4,2024-01-22 00:00:00.000000
+Beşiktaş,Alanyaspor,2,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,Alanyaspor,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Alanyaspor,2,4,7,2024-02-12 00:00:00.000000
+Beşiktaş,Alanyaspor,1,0,8,2024-02-19 00:00:00.000000
+Beşiktaş,Alanyaspor,2,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Alanyaspor,2,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Antalyaspor,0,0,1,2024-01-01 00:00:00.000000
+Beşiktaş,Antalyaspor,2,1,2,2024-01-08 00:00:00.000000
+Beşiktaş,Antalyaspor,1,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Antalyaspor,0,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Antalyaspor,2,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,Antalyaspor,1,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Antalyaspor,2,2,7,2024-02-12 00:00:00.000000
+Beşiktaş,Antalyaspor,1,0,8,2024-02-19 00:00:00.000000
+Beşiktaş,Antalyaspor,2,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Antalyaspor,2,2,10,2024-03-04 00:00:00.000000
+Beşiktaş,Bodrum,3,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Bodrum,0,1,2,2024-01-08 00:00:00.000000
+Beşiktaş,Bodrum,1,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Bodrum,2,0,4,2024-01-22 00:00:00.000000
+Beşiktaş,Bodrum,1,0,5,2024-01-29 00:00:00.000000
+Beşiktaş,Bodrum,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Bodrum,1,1,7,2024-02-12 00:00:00.000000
+Beşiktaş,Bodrum,0,2,8,2024-02-19 00:00:00.000000
+Beşiktaş,Bodrum,2,0,9,2024-02-26 00:00:00.000000
+Beşiktaş,Bodrum,3,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,2,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,2,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,1,0,3,2024-01-15 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,2,3,4,2024-01-22 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,2,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,1,2,6,2024-02-05 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,4,3,7,2024-02-12 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,2,2,8,2024-02-19 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,2,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Çaykur Rizespor,1,0,10,2024-03-04 00:00:00.000000
+Beşiktaş,Eyüpspor,2,3,1,2024-01-01 00:00:00.000000
+Beşiktaş,Eyüpspor,2,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Eyüpspor,2,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Eyüpspor,2,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Eyüpspor,3,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Eyüpspor,1,0,6,2024-02-05 00:00:00.000000
+Beşiktaş,Eyüpspor,1,1,7,2024-02-12 00:00:00.000000
+Beşiktaş,Eyüpspor,0,0,8,2024-02-19 00:00:00.000000
+Beşiktaş,Eyüpspor,2,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Eyüpspor,1,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Fenerbahçe,2,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Fenerbahçe,3,0,2,2024-01-08 00:00:00.000000
+Beşiktaş,Fenerbahçe,2,2,3,2024-01-15 00:00:00.000000
+Beşiktaş,Fenerbahçe,3,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Fenerbahçe,0,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Fenerbahçe,2,2,6,2024-02-05 00:00:00.000000
+Beşiktaş,Fenerbahçe,0,0,7,2024-02-12 00:00:00.000000
+Beşiktaş,Fenerbahçe,2,4,8,2024-02-19 00:00:00.000000
+Beşiktaş,Fenerbahçe,0,3,9,2024-02-26 00:00:00.000000
+Beşiktaş,Fenerbahçe,0,0,10,2024-03-04 00:00:00.000000
+Beşiktaş,Galatasaray,2,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Galatasaray,3,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Galatasaray,3,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Galatasaray,0,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Galatasaray,0,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Galatasaray,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Galatasaray,3,2,7,2024-02-12 00:00:00.000000
+Beşiktaş,Galatasaray,2,3,8,2024-02-19 00:00:00.000000
+Beşiktaş,Galatasaray,0,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Galatasaray,1,4,10,2024-03-04 00:00:00.000000
+Beşiktaş,Gaziantep,3,1,1,2024-01-01 00:00:00.000000
+Beşiktaş,Gaziantep,2,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Gaziantep,1,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Gaziantep,0,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Gaziantep,1,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,Gaziantep,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Gaziantep,2,3,7,2024-02-12 00:00:00.000000
+Beşiktaş,Gaziantep,2,3,8,2024-02-19 00:00:00.000000
+Beşiktaş,Gaziantep,3,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Gaziantep,3,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Göztepe,3,1,1,2024-01-01 00:00:00.000000
+Beşiktaş,Göztepe,3,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Göztepe,2,0,3,2024-01-15 00:00:00.000000
+Beşiktaş,Göztepe,2,1,4,2024-01-22 00:00:00.000000
+Beşiktaş,Göztepe,1,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,Göztepe,1,0,6,2024-02-05 00:00:00.000000
+Beşiktaş,Göztepe,4,2,7,2024-02-12 00:00:00.000000
+Beşiktaş,Göztepe,2,3,8,2024-02-19 00:00:00.000000
+Beşiktaş,Göztepe,3,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Göztepe,2,0,10,2024-03-04 00:00:00.000000
+Beşiktaş,Hatayspor,2,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Hatayspor,0,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Hatayspor,2,3,3,2024-01-15 00:00:00.000000
+Beşiktaş,Hatayspor,3,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Hatayspor,3,0,5,2024-01-29 00:00:00.000000
+Beşiktaş,Hatayspor,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Hatayspor,3,0,7,2024-02-12 00:00:00.000000
+Beşiktaş,Hatayspor,4,2,8,2024-02-19 00:00:00.000000
+Beşiktaş,Hatayspor,2,1,9,2024-02-26 00:00:00.000000
+Beşiktaş,Hatayspor,1,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,2,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,0,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,3,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,3,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,3,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,2,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,2,1,7,2024-02-12 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,3,2,8,2024-02-19 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,2,1,9,2024-02-26 00:00:00.000000
+Beşiktaş,İstanbul Başakşehir,0,0,10,2024-03-04 00:00:00.000000
+Beşiktaş,Kasımpaşa,2,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Kasımpaşa,1,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Kasımpaşa,3,2,3,2024-01-15 00:00:00.000000
+Beşiktaş,Kasımpaşa,2,1,4,2024-01-22 00:00:00.000000
+Beşiktaş,Kasımpaşa,0,0,5,2024-01-29 00:00:00.000000
+Beşiktaş,Kasımpaşa,1,2,6,2024-02-05 00:00:00.000000
+Beşiktaş,Kasımpaşa,3,3,7,2024-02-12 00:00:00.000000
+Beşiktaş,Kasımpaşa,1,0,8,2024-02-19 00:00:00.000000
+Beşiktaş,Kasımpaşa,1,1,9,2024-02-26 00:00:00.000000
+Beşiktaş,Kasımpaşa,2,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Kayserispor,3,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Kayserispor,0,0,2,2024-01-08 00:00:00.000000
+Beşiktaş,Kayserispor,1,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Kayserispor,2,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Kayserispor,2,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,Kayserispor,1,0,6,2024-02-05 00:00:00.000000
+Beşiktaş,Kayserispor,1,1,7,2024-02-12 00:00:00.000000
+Beşiktaş,Kayserispor,1,1,8,2024-02-19 00:00:00.000000
+Beşiktaş,Kayserispor,1,1,9,2024-02-26 00:00:00.000000
+Beşiktaş,Kayserispor,2,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Konyaspor,1,1,1,2024-01-01 00:00:00.000000
+Beşiktaş,Konyaspor,2,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Konyaspor,1,0,3,2024-01-15 00:00:00.000000
+Beşiktaş,Konyaspor,1,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Konyaspor,3,0,5,2024-01-29 00:00:00.000000
+Beşiktaş,Konyaspor,2,2,6,2024-02-05 00:00:00.000000
+Beşiktaş,Konyaspor,3,2,7,2024-02-12 00:00:00.000000
+Beşiktaş,Konyaspor,3,2,8,2024-02-19 00:00:00.000000
+Beşiktaş,Konyaspor,0,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Konyaspor,2,1,10,2024-03-04 00:00:00.000000
+Beşiktaş,Samsunspor,2,1,1,2024-01-01 00:00:00.000000
+Beşiktaş,Samsunspor,2,2,2,2024-01-08 00:00:00.000000
+Beşiktaş,Samsunspor,2,1,3,2024-01-15 00:00:00.000000
+Beşiktaş,Samsunspor,2,1,4,2024-01-22 00:00:00.000000
+Beşiktaş,Samsunspor,3,1,5,2024-01-29 00:00:00.000000
+Beşiktaş,Samsunspor,3,0,6,2024-02-05 00:00:00.000000
+Beşiktaş,Samsunspor,2,0,7,2024-02-12 00:00:00.000000
+Beşiktaş,Samsunspor,1,1,8,2024-02-19 00:00:00.000000
+Beşiktaş,Samsunspor,1,1,9,2024-02-26 00:00:00.000000
+Beşiktaş,Samsunspor,1,3,10,2024-03-04 00:00:00.000000
+Beşiktaş,Sivasspor,1,2,1,2024-01-01 00:00:00.000000
+Beşiktaş,Sivasspor,3,1,2,2024-01-08 00:00:00.000000
+Beşiktaş,Sivasspor,2,0,3,2024-01-15 00:00:00.000000
+Beşiktaş,Sivasspor,4,1,4,2024-01-22 00:00:00.000000
+Beşiktaş,Sivasspor,2,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Sivasspor,1,1,6,2024-02-05 00:00:00.000000
+Beşiktaş,Sivasspor,3,2,7,2024-02-12 00:00:00.000000
+Beşiktaş,Sivasspor,1,0,8,2024-02-19 00:00:00.000000
+Beşiktaş,Sivasspor,1,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Sivasspor,0,2,10,2024-03-04 00:00:00.000000
+Beşiktaş,Trabzonspor,2,0,1,2024-01-01 00:00:00.000000
+Beşiktaş,Trabzonspor,2,1,2,2024-01-08 00:00:00.000000
+Beşiktaş,Trabzonspor,3,0,3,2024-01-15 00:00:00.000000
+Beşiktaş,Trabzonspor,3,2,4,2024-01-22 00:00:00.000000
+Beşiktaş,Trabzonspor,2,2,5,2024-01-29 00:00:00.000000
+Beşiktaş,Trabzonspor,2,2,6,2024-02-05 00:00:00.000000
+Beşiktaş,Trabzonspor,3,3,7,2024-02-12 00:00:00.000000
+Beşiktaş,Trabzonspor,4,1,8,2024-02-19 00:00:00.000000
+Beşiktaş,Trabzonspor,1,2,9,2024-02-26 00:00:00.000000
+Beşiktaş,Trabzonspor,1,2,10,2024-03-04 00:00:00.000000
+Bodrum,Adana Demirspor,3,1,1,2024-01-01 00:00:00.000000
+Bodrum,Adana Demirspor,1,0,2,2024-01-08 00:00:00.000000
+Bodrum,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+Bodrum,Adana Demirspor,0,3,4,2024-01-22 00:00:00.000000
+Bodrum,Adana Demirspor,2,1,5,2024-01-29 00:00:00.000000
+Bodrum,Adana Demirspor,2,1,6,2024-02-05 00:00:00.000000
+Bodrum,Adana Demirspor,2,2,7,2024-02-12 00:00:00.000000
+Bodrum,Adana Demirspor,2,0,8,2024-02-19 00:00:00.000000
+Bodrum,Adana Demirspor,2,2,9,2024-02-26 00:00:00.000000
+Bodrum,Adana Demirspor,1,3,10,2024-03-04 00:00:00.000000
+Bodrum,Alanyaspor,3,1,1,2024-01-01 00:00:00.000000
+Bodrum,Alanyaspor,0,2,2,2024-01-08 00:00:00.000000
+Bodrum,Alanyaspor,1,1,3,2024-01-15 00:00:00.000000
+Bodrum,Alanyaspor,2,1,4,2024-01-22 00:00:00.000000
+Bodrum,Alanyaspor,1,2,5,2024-01-29 00:00:00.000000
+Bodrum,Alanyaspor,0,2,6,2024-02-05 00:00:00.000000
+Bodrum,Alanyaspor,2,0,7,2024-02-12 00:00:00.000000
+Bodrum,Alanyaspor,2,1,8,2024-02-19 00:00:00.000000
+Bodrum,Alanyaspor,2,0,9,2024-02-26 00:00:00.000000
+Bodrum,Alanyaspor,0,2,10,2024-03-04 00:00:00.000000
+Bodrum,Antalyaspor,0,1,1,2024-01-01 00:00:00.000000
+Bodrum,Antalyaspor,2,1,2,2024-01-08 00:00:00.000000
+Bodrum,Antalyaspor,2,2,3,2024-01-15 00:00:00.000000
+Bodrum,Antalyaspor,1,0,4,2024-01-22 00:00:00.000000
+Bodrum,Antalyaspor,2,2,5,2024-01-29 00:00:00.000000
+Bodrum,Antalyaspor,2,1,6,2024-02-05 00:00:00.000000
+Bodrum,Antalyaspor,0,1,7,2024-02-12 00:00:00.000000
+Bodrum,Antalyaspor,2,1,8,2024-02-19 00:00:00.000000
+Bodrum,Antalyaspor,3,0,9,2024-02-26 00:00:00.000000
+Bodrum,Antalyaspor,2,1,10,2024-03-04 00:00:00.000000
+Bodrum,Beşiktaş,1,1,1,2024-01-01 00:00:00.000000
+Bodrum,Beşiktaş,0,0,2,2024-01-08 00:00:00.000000
+Bodrum,Beşiktaş,1,2,3,2024-01-15 00:00:00.000000
+Bodrum,Beşiktaş,0,1,4,2024-01-22 00:00:00.000000
+Bodrum,Beşiktaş,2,1,5,2024-01-29 00:00:00.000000
+Bodrum,Beşiktaş,3,0,6,2024-02-05 00:00:00.000000
+Bodrum,Beşiktaş,3,0,7,2024-02-12 00:00:00.000000
+Bodrum,Beşiktaş,0,2,8,2024-02-19 00:00:00.000000
+Bodrum,Beşiktaş,2,0,9,2024-02-26 00:00:00.000000
+Bodrum,Beşiktaş,2,2,10,2024-03-04 00:00:00.000000
+Bodrum,Çaykur Rizespor,1,0,1,2024-01-01 00:00:00.000000
+Bodrum,Çaykur Rizespor,1,3,2,2024-01-08 00:00:00.000000
+Bodrum,Çaykur Rizespor,0,0,3,2024-01-15 00:00:00.000000
+Bodrum,Çaykur Rizespor,1,3,4,2024-01-22 00:00:00.000000
+Bodrum,Çaykur Rizespor,2,1,5,2024-01-29 00:00:00.000000
+Bodrum,Çaykur Rizespor,1,0,6,2024-02-05 00:00:00.000000
+Bodrum,Çaykur Rizespor,1,2,7,2024-02-12 00:00:00.000000
+Bodrum,Çaykur Rizespor,3,0,8,2024-02-19 00:00:00.000000
+Bodrum,Çaykur Rizespor,1,3,9,2024-02-26 00:00:00.000000
+Bodrum,Çaykur Rizespor,2,0,10,2024-03-04 00:00:00.000000
+Bodrum,Eyüpspor,0,2,1,2024-01-01 00:00:00.000000
+Bodrum,Eyüpspor,0,2,2,2024-01-08 00:00:00.000000
+Bodrum,Eyüpspor,2,1,3,2024-01-15 00:00:00.000000
+Bodrum,Eyüpspor,4,2,4,2024-01-22 00:00:00.000000
+Bodrum,Eyüpspor,1,3,5,2024-01-29 00:00:00.000000
+Bodrum,Eyüpspor,2,2,6,2024-02-05 00:00:00.000000
+Bodrum,Eyüpspor,2,2,7,2024-02-12 00:00:00.000000
+Bodrum,Eyüpspor,2,1,8,2024-02-19 00:00:00.000000
+Bodrum,Eyüpspor,1,0,9,2024-02-26 00:00:00.000000
+Bodrum,Eyüpspor,0,2,10,2024-03-04 00:00:00.000000
+Bodrum,Fenerbahçe,0,3,1,2024-01-01 00:00:00.000000
+Bodrum,Fenerbahçe,3,0,2,2024-01-08 00:00:00.000000
+Bodrum,Fenerbahçe,0,1,3,2024-01-15 00:00:00.000000
+Bodrum,Fenerbahçe,0,1,4,2024-01-22 00:00:00.000000
+Bodrum,Fenerbahçe,1,3,5,2024-01-29 00:00:00.000000
+Bodrum,Fenerbahçe,0,2,6,2024-02-05 00:00:00.000000
+Bodrum,Fenerbahçe,0,1,7,2024-02-12 00:00:00.000000
+Bodrum,Fenerbahçe,0,3,8,2024-02-19 00:00:00.000000
+Bodrum,Fenerbahçe,1,1,9,2024-02-26 00:00:00.000000
+Bodrum,Fenerbahçe,3,1,10,2024-03-04 00:00:00.000000
+Bodrum,Galatasaray,0,2,1,2024-01-01 00:00:00.000000
+Bodrum,Galatasaray,2,2,2,2024-01-08 00:00:00.000000
+Bodrum,Galatasaray,2,2,3,2024-01-15 00:00:00.000000
+Bodrum,Galatasaray,0,1,4,2024-01-22 00:00:00.000000
+Bodrum,Galatasaray,2,1,5,2024-01-29 00:00:00.000000
+Bodrum,Galatasaray,0,0,6,2024-02-05 00:00:00.000000
+Bodrum,Galatasaray,0,1,7,2024-02-12 00:00:00.000000
+Bodrum,Galatasaray,1,0,8,2024-02-19 00:00:00.000000
+Bodrum,Galatasaray,2,0,9,2024-02-26 00:00:00.000000
+Bodrum,Galatasaray,0,0,10,2024-03-04 00:00:00.000000
+Bodrum,Gaziantep,0,2,1,2024-01-01 00:00:00.000000
+Bodrum,Gaziantep,3,1,2,2024-01-08 00:00:00.000000
+Bodrum,Gaziantep,0,3,3,2024-01-15 00:00:00.000000
+Bodrum,Gaziantep,3,1,4,2024-01-22 00:00:00.000000
+Bodrum,Gaziantep,3,1,5,2024-01-29 00:00:00.000000
+Bodrum,Gaziantep,2,0,6,2024-02-05 00:00:00.000000
+Bodrum,Gaziantep,0,1,7,2024-02-12 00:00:00.000000
+Bodrum,Gaziantep,0,0,8,2024-02-19 00:00:00.000000
+Bodrum,Gaziantep,1,0,9,2024-02-26 00:00:00.000000
+Bodrum,Gaziantep,2,2,10,2024-03-04 00:00:00.000000
+Bodrum,Göztepe,3,2,1,2024-01-01 00:00:00.000000
+Bodrum,Göztepe,0,0,2,2024-01-08 00:00:00.000000
+Bodrum,Göztepe,2,1,3,2024-01-15 00:00:00.000000
+Bodrum,Göztepe,2,3,4,2024-01-22 00:00:00.000000
+Bodrum,Göztepe,0,2,5,2024-01-29 00:00:00.000000
+Bodrum,Göztepe,0,4,6,2024-02-05 00:00:00.000000
+Bodrum,Göztepe,4,0,7,2024-02-12 00:00:00.000000
+Bodrum,Göztepe,1,3,8,2024-02-19 00:00:00.000000
+Bodrum,Göztepe,0,0,9,2024-02-26 00:00:00.000000
+Bodrum,Göztepe,1,1,10,2024-03-04 00:00:00.000000
+Bodrum,Hatayspor,2,1,1,2024-01-01 00:00:00.000000
+Bodrum,Hatayspor,0,1,2,2024-01-08 00:00:00.000000
+Bodrum,Hatayspor,3,0,3,2024-01-15 00:00:00.000000
+Bodrum,Hatayspor,2,3,4,2024-01-22 00:00:00.000000
+Bodrum,Hatayspor,1,1,5,2024-01-29 00:00:00.000000
+Bodrum,Hatayspor,3,0,6,2024-02-05 00:00:00.000000
+Bodrum,Hatayspor,2,1,7,2024-02-12 00:00:00.000000
+Bodrum,Hatayspor,4,1,8,2024-02-19 00:00:00.000000
+Bodrum,Hatayspor,0,1,9,2024-02-26 00:00:00.000000
+Bodrum,Hatayspor,2,0,10,2024-03-04 00:00:00.000000
+Bodrum,İstanbul Başakşehir,1,1,1,2024-01-01 00:00:00.000000
+Bodrum,İstanbul Başakşehir,0,3,2,2024-01-08 00:00:00.000000
+Bodrum,İstanbul Başakşehir,2,0,3,2024-01-15 00:00:00.000000
+Bodrum,İstanbul Başakşehir,0,2,4,2024-01-22 00:00:00.000000
+Bodrum,İstanbul Başakşehir,0,2,5,2024-01-29 00:00:00.000000
+Bodrum,İstanbul Başakşehir,0,1,6,2024-02-05 00:00:00.000000
+Bodrum,İstanbul Başakşehir,3,2,7,2024-02-12 00:00:00.000000
+Bodrum,İstanbul Başakşehir,2,0,8,2024-02-19 00:00:00.000000
+Bodrum,İstanbul Başakşehir,1,0,9,2024-02-26 00:00:00.000000
+Bodrum,İstanbul Başakşehir,1,0,10,2024-03-04 00:00:00.000000
+Bodrum,Kasımpaşa,0,2,1,2024-01-01 00:00:00.000000
+Bodrum,Kasımpaşa,0,0,2,2024-01-08 00:00:00.000000
+Bodrum,Kasımpaşa,1,2,3,2024-01-15 00:00:00.000000
+Bodrum,Kasımpaşa,1,2,4,2024-01-22 00:00:00.000000
+Bodrum,Kasımpaşa,1,0,5,2024-01-29 00:00:00.000000
+Bodrum,Kasımpaşa,2,2,6,2024-02-05 00:00:00.000000
+Bodrum,Kasımpaşa,1,0,7,2024-02-12 00:00:00.000000
+Bodrum,Kasımpaşa,0,2,8,2024-02-19 00:00:00.000000
+Bodrum,Kasımpaşa,2,2,9,2024-02-26 00:00:00.000000
+Bodrum,Kasımpaşa,4,3,10,2024-03-04 00:00:00.000000
+Bodrum,Kayserispor,2,0,1,2024-01-01 00:00:00.000000
+Bodrum,Kayserispor,1,3,2,2024-01-08 00:00:00.000000
+Bodrum,Kayserispor,3,2,3,2024-01-15 00:00:00.000000
+Bodrum,Kayserispor,0,1,4,2024-01-22 00:00:00.000000
+Bodrum,Kayserispor,2,1,5,2024-01-29 00:00:00.000000
+Bodrum,Kayserispor,2,2,6,2024-02-05 00:00:00.000000
+Bodrum,Kayserispor,2,2,7,2024-02-12 00:00:00.000000
+Bodrum,Kayserispor,1,2,8,2024-02-19 00:00:00.000000
+Bodrum,Kayserispor,0,1,9,2024-02-26 00:00:00.000000
+Bodrum,Kayserispor,1,3,10,2024-03-04 00:00:00.000000
+Bodrum,Konyaspor,1,1,1,2024-01-01 00:00:00.000000
+Bodrum,Konyaspor,3,2,2,2024-01-08 00:00:00.000000
+Bodrum,Konyaspor,2,1,3,2024-01-15 00:00:00.000000
+Bodrum,Konyaspor,2,0,4,2024-01-22 00:00:00.000000
+Bodrum,Konyaspor,1,2,5,2024-01-29 00:00:00.000000
+Bodrum,Konyaspor,1,1,6,2024-02-05 00:00:00.000000
+Bodrum,Konyaspor,2,3,7,2024-02-12 00:00:00.000000
+Bodrum,Konyaspor,3,3,8,2024-02-19 00:00:00.000000
+Bodrum,Konyaspor,0,2,9,2024-02-26 00:00:00.000000
+Bodrum,Konyaspor,4,0,10,2024-03-04 00:00:00.000000
+Bodrum,Samsunspor,2,1,1,2024-01-01 00:00:00.000000
+Bodrum,Samsunspor,2,1,2,2024-01-08 00:00:00.000000
+Bodrum,Samsunspor,1,2,3,2024-01-15 00:00:00.000000
+Bodrum,Samsunspor,0,3,4,2024-01-22 00:00:00.000000
+Bodrum,Samsunspor,2,2,5,2024-01-29 00:00:00.000000
+Bodrum,Samsunspor,1,2,6,2024-02-05 00:00:00.000000
+Bodrum,Samsunspor,2,2,7,2024-02-12 00:00:00.000000
+Bodrum,Samsunspor,1,0,8,2024-02-19 00:00:00.000000
+Bodrum,Samsunspor,1,0,9,2024-02-26 00:00:00.000000
+Bodrum,Samsunspor,2,1,10,2024-03-04 00:00:00.000000
+Bodrum,Sivasspor,0,1,1,2024-01-01 00:00:00.000000
+Bodrum,Sivasspor,1,2,2,2024-01-08 00:00:00.000000
+Bodrum,Sivasspor,0,2,3,2024-01-15 00:00:00.000000
+Bodrum,Sivasspor,1,1,4,2024-01-22 00:00:00.000000
+Bodrum,Sivasspor,0,0,5,2024-01-29 00:00:00.000000
+Bodrum,Sivasspor,2,0,6,2024-02-05 00:00:00.000000
+Bodrum,Sivasspor,2,2,7,2024-02-12 00:00:00.000000
+Bodrum,Sivasspor,2,2,8,2024-02-19 00:00:00.000000
+Bodrum,Sivasspor,1,0,9,2024-02-26 00:00:00.000000
+Bodrum,Sivasspor,0,1,10,2024-03-04 00:00:00.000000
+Bodrum,Trabzonspor,1,3,1,2024-01-01 00:00:00.000000
+Bodrum,Trabzonspor,1,4,2,2024-01-08 00:00:00.000000
+Bodrum,Trabzonspor,1,3,3,2024-01-15 00:00:00.000000
+Bodrum,Trabzonspor,3,3,4,2024-01-22 00:00:00.000000
+Bodrum,Trabzonspor,0,0,5,2024-01-29 00:00:00.000000
+Bodrum,Trabzonspor,2,3,6,2024-02-05 00:00:00.000000
+Bodrum,Trabzonspor,3,3,7,2024-02-12 00:00:00.000000
+Bodrum,Trabzonspor,3,2,8,2024-02-19 00:00:00.000000
+Bodrum,Trabzonspor,1,3,9,2024-02-26 00:00:00.000000
+Bodrum,Trabzonspor,0,3,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,4,0,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,2,0,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,3,1,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,1,0,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,1,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,3,2,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,2,3,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,1,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,2,0,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Adana Demirspor,0,0,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,2,3,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,2,0,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,1,0,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,4,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,2,2,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,2,0,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,1,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,1,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,0,1,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Alanyaspor,1,2,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,2,1,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,0,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,1,0,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,1,3,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,3,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,1,0,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,2,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,4,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,2,1,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Antalyaspor,1,0,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,3,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,2,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,3,0,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,0,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,0,0,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,1,1,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,0,2,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,1,3,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,1,2,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Beşiktaş,2,2,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Bodrum,1,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Bodrum,1,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Bodrum,2,3,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Bodrum,2,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Bodrum,2,0,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Bodrum,0,2,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Bodrum,1,0,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Bodrum,4,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Bodrum,3,0,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Bodrum,2,3,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,1,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,2,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,0,3,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,1,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,2,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,3,1,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,2,2,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,3,0,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,4,2,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Eyüpspor,2,2,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,0,0,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,0,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,0,2,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,2,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,0,4,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,1,2,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,2,2,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,1,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,0,2,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Fenerbahçe,0,1,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Galatasaray,1,1,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Galatasaray,0,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Galatasaray,2,2,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Galatasaray,1,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Galatasaray,1,2,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Galatasaray,0,4,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Galatasaray,2,2,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Galatasaray,2,2,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Galatasaray,1,2,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Galatasaray,1,2,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Gaziantep,2,0,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Gaziantep,1,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Gaziantep,1,3,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Gaziantep,1,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Gaziantep,2,0,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Gaziantep,1,2,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Gaziantep,1,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Gaziantep,1,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Gaziantep,0,2,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Gaziantep,4,0,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Göztepe,0,1,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Göztepe,1,0,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Göztepe,1,0,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Göztepe,0,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Göztepe,1,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Göztepe,0,0,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Göztepe,2,0,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Göztepe,3,3,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Göztepe,1,1,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Göztepe,0,1,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Hatayspor,2,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Hatayspor,2,2,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Hatayspor,4,3,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Hatayspor,0,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Hatayspor,1,0,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Hatayspor,1,0,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Hatayspor,1,0,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Hatayspor,3,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Hatayspor,1,1,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Hatayspor,1,1,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,1,4,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,2,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,2,0,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,2,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,1,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,1,3,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,1,2,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,3,0,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,0,0,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,İstanbul Başakşehir,3,1,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,2,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,2,2,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,1,2,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,0,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,1,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,4,3,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,0,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,3,2,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,3,3,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Kasımpaşa,2,1,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Kayserispor,4,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Kayserispor,2,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Kayserispor,1,2,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Kayserispor,1,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Kayserispor,3,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Kayserispor,2,1,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Kayserispor,2,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Kayserispor,2,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Kayserispor,3,1,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Kayserispor,0,1,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Konyaspor,2,1,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Konyaspor,1,2,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Konyaspor,1,1,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Konyaspor,1,3,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Konyaspor,1,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Konyaspor,0,0,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Konyaspor,2,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Konyaspor,4,2,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Konyaspor,3,0,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Konyaspor,2,3,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Samsunspor,1,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Samsunspor,1,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Samsunspor,2,0,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Samsunspor,3,1,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Samsunspor,2,2,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Samsunspor,1,4,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Samsunspor,1,0,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Samsunspor,2,1,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Samsunspor,2,1,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Samsunspor,1,0,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Sivasspor,1,1,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Sivasspor,1,1,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Sivasspor,2,1,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Sivasspor,1,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Sivasspor,0,1,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Sivasspor,2,0,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Sivasspor,2,1,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Sivasspor,1,0,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Sivasspor,2,0,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Sivasspor,2,0,10,2024-03-04 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,0,2,1,2024-01-01 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,3,3,2,2024-01-08 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,1,2,3,2024-01-15 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,0,2,4,2024-01-22 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,1,2,5,2024-01-29 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,2,2,6,2024-02-05 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,0,2,7,2024-02-12 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,3,2,8,2024-02-19 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,3,2,9,2024-02-26 00:00:00.000000
+Çaykur Rizespor,Trabzonspor,3,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Adana Demirspor,1,2,1,2024-01-01 00:00:00.000000
+Eyüpspor,Adana Demirspor,2,2,2,2024-01-08 00:00:00.000000
+Eyüpspor,Adana Demirspor,0,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,Adana Demirspor,2,0,4,2024-01-22 00:00:00.000000
+Eyüpspor,Adana Demirspor,2,0,5,2024-01-29 00:00:00.000000
+Eyüpspor,Adana Demirspor,2,2,6,2024-02-05 00:00:00.000000
+Eyüpspor,Adana Demirspor,0,1,7,2024-02-12 00:00:00.000000
+Eyüpspor,Adana Demirspor,2,0,8,2024-02-19 00:00:00.000000
+Eyüpspor,Adana Demirspor,3,1,9,2024-02-26 00:00:00.000000
+Eyüpspor,Adana Demirspor,1,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Alanyaspor,0,1,1,2024-01-01 00:00:00.000000
+Eyüpspor,Alanyaspor,1,1,2,2024-01-08 00:00:00.000000
+Eyüpspor,Alanyaspor,2,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Alanyaspor,2,1,4,2024-01-22 00:00:00.000000
+Eyüpspor,Alanyaspor,1,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Alanyaspor,4,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Alanyaspor,4,0,7,2024-02-12 00:00:00.000000
+Eyüpspor,Alanyaspor,1,0,8,2024-02-19 00:00:00.000000
+Eyüpspor,Alanyaspor,0,1,9,2024-02-26 00:00:00.000000
+Eyüpspor,Alanyaspor,1,2,10,2024-03-04 00:00:00.000000
+Eyüpspor,Antalyaspor,0,0,1,2024-01-01 00:00:00.000000
+Eyüpspor,Antalyaspor,2,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Antalyaspor,1,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,Antalyaspor,0,0,4,2024-01-22 00:00:00.000000
+Eyüpspor,Antalyaspor,2,0,5,2024-01-29 00:00:00.000000
+Eyüpspor,Antalyaspor,1,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Antalyaspor,2,3,7,2024-02-12 00:00:00.000000
+Eyüpspor,Antalyaspor,1,3,8,2024-02-19 00:00:00.000000
+Eyüpspor,Antalyaspor,1,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Antalyaspor,1,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,Beşiktaş,0,4,1,2024-01-01 00:00:00.000000
+Eyüpspor,Beşiktaş,0,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Beşiktaş,0,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Beşiktaş,0,0,4,2024-01-22 00:00:00.000000
+Eyüpspor,Beşiktaş,2,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Beşiktaş,1,2,6,2024-02-05 00:00:00.000000
+Eyüpspor,Beşiktaş,1,1,7,2024-02-12 00:00:00.000000
+Eyüpspor,Beşiktaş,1,1,8,2024-02-19 00:00:00.000000
+Eyüpspor,Beşiktaş,0,3,9,2024-02-26 00:00:00.000000
+Eyüpspor,Beşiktaş,2,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,Bodrum,0,2,1,2024-01-01 00:00:00.000000
+Eyüpspor,Bodrum,3,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Bodrum,2,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Bodrum,1,2,4,2024-01-22 00:00:00.000000
+Eyüpspor,Bodrum,0,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Bodrum,1,2,6,2024-02-05 00:00:00.000000
+Eyüpspor,Bodrum,2,3,7,2024-02-12 00:00:00.000000
+Eyüpspor,Bodrum,1,1,8,2024-02-19 00:00:00.000000
+Eyüpspor,Bodrum,1,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Bodrum,1,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,0,1,1,2024-01-01 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,2,2,2,2024-01-08 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,3,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,3,2,4,2024-01-22 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,4,3,5,2024-01-29 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,1,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,0,0,7,2024-02-12 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,2,1,8,2024-02-19 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,3,2,9,2024-02-26 00:00:00.000000
+Eyüpspor,Çaykur Rizespor,2,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Fenerbahçe,1,2,1,2024-01-01 00:00:00.000000
+Eyüpspor,Fenerbahçe,1,4,2,2024-01-08 00:00:00.000000
+Eyüpspor,Fenerbahçe,2,0,3,2024-01-15 00:00:00.000000
+Eyüpspor,Fenerbahçe,0,2,4,2024-01-22 00:00:00.000000
+Eyüpspor,Fenerbahçe,1,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Fenerbahçe,1,2,6,2024-02-05 00:00:00.000000
+Eyüpspor,Fenerbahçe,1,4,7,2024-02-12 00:00:00.000000
+Eyüpspor,Fenerbahçe,1,3,8,2024-02-19 00:00:00.000000
+Eyüpspor,Fenerbahçe,4,2,9,2024-02-26 00:00:00.000000
+Eyüpspor,Fenerbahçe,0,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Galatasaray,0,3,1,2024-01-01 00:00:00.000000
+Eyüpspor,Galatasaray,2,4,2,2024-01-08 00:00:00.000000
+Eyüpspor,Galatasaray,0,4,3,2024-01-15 00:00:00.000000
+Eyüpspor,Galatasaray,2,2,4,2024-01-22 00:00:00.000000
+Eyüpspor,Galatasaray,1,3,5,2024-01-29 00:00:00.000000
+Eyüpspor,Galatasaray,0,1,6,2024-02-05 00:00:00.000000
+Eyüpspor,Galatasaray,2,0,7,2024-02-12 00:00:00.000000
+Eyüpspor,Galatasaray,2,2,8,2024-02-19 00:00:00.000000
+Eyüpspor,Galatasaray,0,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Galatasaray,0,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Gaziantep,1,2,1,2024-01-01 00:00:00.000000
+Eyüpspor,Gaziantep,2,1,2,2024-01-08 00:00:00.000000
+Eyüpspor,Gaziantep,0,0,3,2024-01-15 00:00:00.000000
+Eyüpspor,Gaziantep,2,2,4,2024-01-22 00:00:00.000000
+Eyüpspor,Gaziantep,0,0,5,2024-01-29 00:00:00.000000
+Eyüpspor,Gaziantep,1,1,6,2024-02-05 00:00:00.000000
+Eyüpspor,Gaziantep,3,3,7,2024-02-12 00:00:00.000000
+Eyüpspor,Gaziantep,2,1,8,2024-02-19 00:00:00.000000
+Eyüpspor,Gaziantep,2,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Gaziantep,4,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Göztepe,1,0,1,2024-01-01 00:00:00.000000
+Eyüpspor,Göztepe,0,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Göztepe,2,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,Göztepe,3,1,4,2024-01-22 00:00:00.000000
+Eyüpspor,Göztepe,1,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Göztepe,0,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Göztepe,1,2,7,2024-02-12 00:00:00.000000
+Eyüpspor,Göztepe,1,0,8,2024-02-19 00:00:00.000000
+Eyüpspor,Göztepe,4,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Göztepe,2,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,Hatayspor,4,0,1,2024-01-01 00:00:00.000000
+Eyüpspor,Hatayspor,2,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Hatayspor,1,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Hatayspor,0,2,4,2024-01-22 00:00:00.000000
+Eyüpspor,Hatayspor,0,0,5,2024-01-29 00:00:00.000000
+Eyüpspor,Hatayspor,1,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Hatayspor,1,1,7,2024-02-12 00:00:00.000000
+Eyüpspor,Hatayspor,2,2,8,2024-02-19 00:00:00.000000
+Eyüpspor,Hatayspor,1,1,9,2024-02-26 00:00:00.000000
+Eyüpspor,Hatayspor,0,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,2,2,1,2024-01-01 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,1,2,2,2024-01-08 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,2,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,4,1,4,2024-01-22 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,0,2,5,2024-01-29 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,3,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,0,0,7,2024-02-12 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,3,0,8,2024-02-19 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,1,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,İstanbul Başakşehir,2,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,Kasımpaşa,2,2,1,2024-01-01 00:00:00.000000
+Eyüpspor,Kasımpaşa,4,2,2,2024-01-08 00:00:00.000000
+Eyüpspor,Kasımpaşa,0,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Kasımpaşa,2,0,4,2024-01-22 00:00:00.000000
+Eyüpspor,Kasımpaşa,1,2,5,2024-01-29 00:00:00.000000
+Eyüpspor,Kasımpaşa,1,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Kasımpaşa,2,2,7,2024-02-12 00:00:00.000000
+Eyüpspor,Kasımpaşa,0,1,8,2024-02-19 00:00:00.000000
+Eyüpspor,Kasımpaşa,1,1,9,2024-02-26 00:00:00.000000
+Eyüpspor,Kasımpaşa,1,0,10,2024-03-04 00:00:00.000000
+Eyüpspor,Kayserispor,2,0,1,2024-01-01 00:00:00.000000
+Eyüpspor,Kayserispor,2,1,2,2024-01-08 00:00:00.000000
+Eyüpspor,Kayserispor,2,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,Kayserispor,0,1,4,2024-01-22 00:00:00.000000
+Eyüpspor,Kayserispor,1,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Kayserispor,1,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Kayserispor,1,2,7,2024-02-12 00:00:00.000000
+Eyüpspor,Kayserispor,1,3,8,2024-02-19 00:00:00.000000
+Eyüpspor,Kayserispor,1,1,9,2024-02-26 00:00:00.000000
+Eyüpspor,Kayserispor,2,2,10,2024-03-04 00:00:00.000000
+Eyüpspor,Konyaspor,2,1,1,2024-01-01 00:00:00.000000
+Eyüpspor,Konyaspor,1,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Konyaspor,2,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Konyaspor,1,1,4,2024-01-22 00:00:00.000000
+Eyüpspor,Konyaspor,1,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Konyaspor,2,4,6,2024-02-05 00:00:00.000000
+Eyüpspor,Konyaspor,2,2,7,2024-02-12 00:00:00.000000
+Eyüpspor,Konyaspor,2,2,8,2024-02-19 00:00:00.000000
+Eyüpspor,Konyaspor,2,4,9,2024-02-26 00:00:00.000000
+Eyüpspor,Konyaspor,2,2,10,2024-03-04 00:00:00.000000
+Eyüpspor,Samsunspor,2,0,1,2024-01-01 00:00:00.000000
+Eyüpspor,Samsunspor,2,1,2,2024-01-08 00:00:00.000000
+Eyüpspor,Samsunspor,0,0,3,2024-01-15 00:00:00.000000
+Eyüpspor,Samsunspor,1,0,4,2024-01-22 00:00:00.000000
+Eyüpspor,Samsunspor,0,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Samsunspor,1,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Samsunspor,2,0,7,2024-02-12 00:00:00.000000
+Eyüpspor,Samsunspor,0,0,8,2024-02-19 00:00:00.000000
+Eyüpspor,Samsunspor,1,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Samsunspor,3,2,10,2024-03-04 00:00:00.000000
+Eyüpspor,Sivasspor,3,3,1,2024-01-01 00:00:00.000000
+Eyüpspor,Sivasspor,2,0,2,2024-01-08 00:00:00.000000
+Eyüpspor,Sivasspor,1,2,3,2024-01-15 00:00:00.000000
+Eyüpspor,Sivasspor,1,1,4,2024-01-22 00:00:00.000000
+Eyüpspor,Sivasspor,1,2,5,2024-01-29 00:00:00.000000
+Eyüpspor,Sivasspor,0,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Sivasspor,4,1,7,2024-02-12 00:00:00.000000
+Eyüpspor,Sivasspor,1,0,8,2024-02-19 00:00:00.000000
+Eyüpspor,Sivasspor,0,3,9,2024-02-26 00:00:00.000000
+Eyüpspor,Sivasspor,1,1,10,2024-03-04 00:00:00.000000
+Eyüpspor,Trabzonspor,2,1,1,2024-01-01 00:00:00.000000
+Eyüpspor,Trabzonspor,0,3,2,2024-01-08 00:00:00.000000
+Eyüpspor,Trabzonspor,2,1,3,2024-01-15 00:00:00.000000
+Eyüpspor,Trabzonspor,1,3,4,2024-01-22 00:00:00.000000
+Eyüpspor,Trabzonspor,3,1,5,2024-01-29 00:00:00.000000
+Eyüpspor,Trabzonspor,3,0,6,2024-02-05 00:00:00.000000
+Eyüpspor,Trabzonspor,0,0,7,2024-02-12 00:00:00.000000
+Eyüpspor,Trabzonspor,4,1,8,2024-02-19 00:00:00.000000
+Eyüpspor,Trabzonspor,1,0,9,2024-02-26 00:00:00.000000
+Eyüpspor,Trabzonspor,2,1,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Adana Demirspor,2,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Adana Demirspor,0,2,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Adana Demirspor,1,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Adana Demirspor,1,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Adana Demirspor,2,0,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Adana Demirspor,1,2,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Adana Demirspor,2,0,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Adana Demirspor,2,0,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Adana Demirspor,2,1,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Adana Demirspor,1,2,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Alanyaspor,2,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Alanyaspor,2,3,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Alanyaspor,3,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Alanyaspor,4,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Alanyaspor,1,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Alanyaspor,2,3,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Alanyaspor,2,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Alanyaspor,2,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Alanyaspor,4,3,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Alanyaspor,2,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Antalyaspor,2,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Antalyaspor,1,2,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Antalyaspor,0,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Antalyaspor,1,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Antalyaspor,0,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Antalyaspor,2,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Antalyaspor,1,0,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Antalyaspor,1,1,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Antalyaspor,1,1,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Antalyaspor,3,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Beşiktaş,1,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Beşiktaş,2,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Beşiktaş,2,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Beşiktaş,2,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Beşiktaş,2,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Beşiktaş,1,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Beşiktaş,1,0,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Beşiktaş,2,3,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Beşiktaş,1,0,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Beşiktaş,0,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Bodrum,0,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Bodrum,1,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Bodrum,2,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Bodrum,3,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Bodrum,1,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Bodrum,2,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Bodrum,0,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Bodrum,2,0,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Bodrum,1,4,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Bodrum,4,2,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,0,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,1,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,0,0,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,1,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,2,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,2,2,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,3,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,3,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,2,0,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Çaykur Rizespor,1,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Eyüpspor,2,3,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Eyüpspor,2,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Eyüpspor,2,0,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Eyüpspor,0,0,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Eyüpspor,2,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Eyüpspor,1,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Eyüpspor,0,1,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Eyüpspor,2,1,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Eyüpspor,3,2,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Eyüpspor,1,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Galatasaray,1,0,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Galatasaray,2,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Galatasaray,1,0,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Galatasaray,2,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Galatasaray,1,3,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Galatasaray,1,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Galatasaray,2,0,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Galatasaray,1,1,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Galatasaray,2,2,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Galatasaray,0,2,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Gaziantep,2,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Gaziantep,1,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Gaziantep,2,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Gaziantep,3,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Gaziantep,3,0,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Gaziantep,3,2,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Gaziantep,2,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Gaziantep,2,0,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Gaziantep,2,2,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Gaziantep,2,1,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Göztepe,0,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Göztepe,2,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Göztepe,1,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Göztepe,1,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Göztepe,3,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Göztepe,2,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Göztepe,2,1,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Göztepe,1,1,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Göztepe,2,2,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Göztepe,1,3,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Hatayspor,2,3,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Hatayspor,3,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Hatayspor,2,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Hatayspor,1,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Hatayspor,2,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Hatayspor,2,2,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Hatayspor,2,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Hatayspor,2,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Hatayspor,2,1,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Hatayspor,1,2,10,2024-03-04 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,2,1,2024-01-01 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,4,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,4,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,2,6,2024-02-05 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,3,7,2024-02-12 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,2,2,9,2024-02-26 00:00:00.000000
+Fenerbahçe,İstanbul Başakşehir,3,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Kasımpaşa,1,0,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Kasımpaşa,1,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Kasımpaşa,3,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Kasımpaşa,2,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Kasımpaşa,2,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Kasımpaşa,2,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Kasımpaşa,3,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Kasımpaşa,2,1,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Kasımpaşa,3,1,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Kasımpaşa,1,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Kayserispor,2,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Kayserispor,3,2,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Kayserispor,4,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Kayserispor,2,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Kayserispor,2,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Kayserispor,2,3,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Kayserispor,3,2,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Kayserispor,3,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Kayserispor,2,1,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Kayserispor,2,1,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Konyaspor,0,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Konyaspor,3,0,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Konyaspor,3,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Konyaspor,0,2,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Konyaspor,1,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Konyaspor,3,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Konyaspor,0,1,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Konyaspor,1,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Konyaspor,1,1,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Konyaspor,2,3,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Samsunspor,2,4,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Samsunspor,2,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Samsunspor,1,1,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Samsunspor,0,1,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Samsunspor,2,1,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Samsunspor,1,4,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Samsunspor,2,1,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Samsunspor,2,2,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Samsunspor,1,3,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Samsunspor,3,1,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Sivasspor,2,1,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Sivasspor,1,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Sivasspor,2,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Sivasspor,3,0,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Sivasspor,4,2,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Sivasspor,1,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Sivasspor,2,0,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Sivasspor,4,1,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Sivasspor,2,0,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Sivasspor,4,0,10,2024-03-04 00:00:00.000000
+Fenerbahçe,Trabzonspor,2,0,1,2024-01-01 00:00:00.000000
+Fenerbahçe,Trabzonspor,0,1,2,2024-01-08 00:00:00.000000
+Fenerbahçe,Trabzonspor,2,2,3,2024-01-15 00:00:00.000000
+Fenerbahçe,Trabzonspor,3,0,4,2024-01-22 00:00:00.000000
+Fenerbahçe,Trabzonspor,4,0,5,2024-01-29 00:00:00.000000
+Fenerbahçe,Trabzonspor,0,1,6,2024-02-05 00:00:00.000000
+Fenerbahçe,Trabzonspor,3,1,7,2024-02-12 00:00:00.000000
+Fenerbahçe,Trabzonspor,2,0,8,2024-02-19 00:00:00.000000
+Fenerbahçe,Trabzonspor,3,3,9,2024-02-26 00:00:00.000000
+Fenerbahçe,Trabzonspor,4,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Adana Demirspor,1,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Adana Demirspor,2,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Adana Demirspor,0,1,3,2024-01-15 00:00:00.000000
+Galatasaray,Adana Demirspor,3,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Adana Demirspor,2,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Adana Demirspor,2,0,6,2024-02-05 00:00:00.000000
+Galatasaray,Adana Demirspor,2,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Adana Demirspor,1,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Adana Demirspor,1,1,9,2024-02-26 00:00:00.000000
+Galatasaray,Adana Demirspor,2,3,10,2024-03-04 00:00:00.000000
+Galatasaray,Alanyaspor,2,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Alanyaspor,1,1,2,2024-01-08 00:00:00.000000
+Galatasaray,Alanyaspor,2,0,3,2024-01-15 00:00:00.000000
+Galatasaray,Alanyaspor,1,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Alanyaspor,0,0,5,2024-01-29 00:00:00.000000
+Galatasaray,Alanyaspor,3,2,6,2024-02-05 00:00:00.000000
+Galatasaray,Alanyaspor,2,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Alanyaspor,1,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Alanyaspor,3,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Alanyaspor,1,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Antalyaspor,2,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Antalyaspor,3,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Antalyaspor,2,3,3,2024-01-15 00:00:00.000000
+Galatasaray,Antalyaspor,2,2,4,2024-01-22 00:00:00.000000
+Galatasaray,Antalyaspor,3,2,5,2024-01-29 00:00:00.000000
+Galatasaray,Antalyaspor,2,3,6,2024-02-05 00:00:00.000000
+Galatasaray,Antalyaspor,2,0,7,2024-02-12 00:00:00.000000
+Galatasaray,Antalyaspor,2,0,8,2024-02-19 00:00:00.000000
+Galatasaray,Antalyaspor,2,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Antalyaspor,1,0,10,2024-03-04 00:00:00.000000
+Galatasaray,Beşiktaş,1,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Beşiktaş,1,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Beşiktaş,1,1,3,2024-01-15 00:00:00.000000
+Galatasaray,Beşiktaş,0,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Beşiktaş,3,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Beşiktaş,1,0,6,2024-02-05 00:00:00.000000
+Galatasaray,Beşiktaş,2,1,7,2024-02-12 00:00:00.000000
+Galatasaray,Beşiktaş,1,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Beşiktaş,2,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Beşiktaş,2,1,10,2024-03-04 00:00:00.000000
+Galatasaray,Bodrum,2,0,1,2024-01-01 00:00:00.000000
+Galatasaray,Bodrum,3,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Bodrum,3,1,3,2024-01-15 00:00:00.000000
+Galatasaray,Bodrum,1,0,4,2024-01-22 00:00:00.000000
+Galatasaray,Bodrum,1,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Bodrum,1,1,6,2024-02-05 00:00:00.000000
+Galatasaray,Bodrum,2,1,7,2024-02-12 00:00:00.000000
+Galatasaray,Bodrum,3,2,8,2024-02-19 00:00:00.000000
+Galatasaray,Bodrum,3,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Bodrum,4,0,10,2024-03-04 00:00:00.000000
+Galatasaray,Çaykur Rizespor,3,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Çaykur Rizespor,1,1,2,2024-01-08 00:00:00.000000
+Galatasaray,Çaykur Rizespor,0,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Çaykur Rizespor,2,2,4,2024-01-22 00:00:00.000000
+Galatasaray,Çaykur Rizespor,2,0,5,2024-01-29 00:00:00.000000
+Galatasaray,Çaykur Rizespor,2,2,6,2024-02-05 00:00:00.000000
+Galatasaray,Çaykur Rizespor,2,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Çaykur Rizespor,1,2,8,2024-02-19 00:00:00.000000
+Galatasaray,Çaykur Rizespor,3,2,9,2024-02-26 00:00:00.000000
+Galatasaray,Çaykur Rizespor,4,0,10,2024-03-04 00:00:00.000000
+Galatasaray,Eyüpspor,2,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Eyüpspor,1,3,2,2024-01-08 00:00:00.000000
+Galatasaray,Eyüpspor,3,1,3,2024-01-15 00:00:00.000000
+Galatasaray,Eyüpspor,2,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Eyüpspor,2,0,5,2024-01-29 00:00:00.000000
+Galatasaray,Eyüpspor,3,1,6,2024-02-05 00:00:00.000000
+Galatasaray,Eyüpspor,0,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Eyüpspor,4,0,8,2024-02-19 00:00:00.000000
+Galatasaray,Eyüpspor,2,1,9,2024-02-26 00:00:00.000000
+Galatasaray,Eyüpspor,0,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Fenerbahçe,1,2,1,2024-01-01 00:00:00.000000
+Galatasaray,Fenerbahçe,4,4,2,2024-01-08 00:00:00.000000
+Galatasaray,Fenerbahçe,2,1,3,2024-01-15 00:00:00.000000
+Galatasaray,Fenerbahçe,2,3,4,2024-01-22 00:00:00.000000
+Galatasaray,Fenerbahçe,3,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Fenerbahçe,2,4,6,2024-02-05 00:00:00.000000
+Galatasaray,Fenerbahçe,2,0,7,2024-02-12 00:00:00.000000
+Galatasaray,Fenerbahçe,3,2,8,2024-02-19 00:00:00.000000
+Galatasaray,Fenerbahçe,3,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Fenerbahçe,2,3,10,2024-03-04 00:00:00.000000
+Galatasaray,Gaziantep,0,3,1,2024-01-01 00:00:00.000000
+Galatasaray,Gaziantep,1,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Gaziantep,3,0,3,2024-01-15 00:00:00.000000
+Galatasaray,Gaziantep,0,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Gaziantep,0,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Gaziantep,2,2,6,2024-02-05 00:00:00.000000
+Galatasaray,Gaziantep,4,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Gaziantep,4,0,8,2024-02-19 00:00:00.000000
+Galatasaray,Gaziantep,3,3,9,2024-02-26 00:00:00.000000
+Galatasaray,Gaziantep,2,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Göztepe,2,3,1,2024-01-01 00:00:00.000000
+Galatasaray,Göztepe,4,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Göztepe,3,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Göztepe,2,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Göztepe,2,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Göztepe,2,0,6,2024-02-05 00:00:00.000000
+Galatasaray,Göztepe,1,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Göztepe,2,2,8,2024-02-19 00:00:00.000000
+Galatasaray,Göztepe,4,3,9,2024-02-26 00:00:00.000000
+Galatasaray,Göztepe,3,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Hatayspor,2,0,1,2024-01-01 00:00:00.000000
+Galatasaray,Hatayspor,0,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Hatayspor,1,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Hatayspor,0,2,4,2024-01-22 00:00:00.000000
+Galatasaray,Hatayspor,1,0,5,2024-01-29 00:00:00.000000
+Galatasaray,Hatayspor,2,1,6,2024-02-05 00:00:00.000000
+Galatasaray,Hatayspor,3,0,7,2024-02-12 00:00:00.000000
+Galatasaray,Hatayspor,1,0,8,2024-02-19 00:00:00.000000
+Galatasaray,Hatayspor,3,2,9,2024-02-26 00:00:00.000000
+Galatasaray,Hatayspor,2,1,10,2024-03-04 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,3,0,1,2024-01-01 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,0,1,2,2024-01-08 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,2,2,3,2024-01-15 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,2,0,4,2024-01-22 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,2,0,5,2024-01-29 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,2,1,6,2024-02-05 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,2,0,7,2024-02-12 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,2,2,8,2024-02-19 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,3,2,9,2024-02-26 00:00:00.000000
+Galatasaray,İstanbul Başakşehir,1,4,10,2024-03-04 00:00:00.000000
+Galatasaray,Kasımpaşa,2,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Kasımpaşa,3,0,2,2024-01-08 00:00:00.000000
+Galatasaray,Kasımpaşa,3,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Kasımpaşa,3,2,4,2024-01-22 00:00:00.000000
+Galatasaray,Kasımpaşa,2,0,5,2024-01-29 00:00:00.000000
+Galatasaray,Kasımpaşa,2,0,6,2024-02-05 00:00:00.000000
+Galatasaray,Kasımpaşa,2,1,7,2024-02-12 00:00:00.000000
+Galatasaray,Kasımpaşa,0,0,8,2024-02-19 00:00:00.000000
+Galatasaray,Kasımpaşa,3,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Kasımpaşa,2,1,10,2024-03-04 00:00:00.000000
+Galatasaray,Kayserispor,3,1,1,2024-01-01 00:00:00.000000
+Galatasaray,Kayserispor,2,1,2,2024-01-08 00:00:00.000000
+Galatasaray,Kayserispor,2,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Kayserispor,2,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Kayserispor,3,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Kayserispor,1,2,6,2024-02-05 00:00:00.000000
+Galatasaray,Kayserispor,1,3,7,2024-02-12 00:00:00.000000
+Galatasaray,Kayserispor,1,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Kayserispor,3,2,9,2024-02-26 00:00:00.000000
+Galatasaray,Kayserispor,4,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Konyaspor,3,0,1,2024-01-01 00:00:00.000000
+Galatasaray,Konyaspor,1,1,2,2024-01-08 00:00:00.000000
+Galatasaray,Konyaspor,2,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Konyaspor,2,0,4,2024-01-22 00:00:00.000000
+Galatasaray,Konyaspor,4,0,5,2024-01-29 00:00:00.000000
+Galatasaray,Konyaspor,1,0,6,2024-02-05 00:00:00.000000
+Galatasaray,Konyaspor,1,1,7,2024-02-12 00:00:00.000000
+Galatasaray,Konyaspor,1,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Konyaspor,0,2,9,2024-02-26 00:00:00.000000
+Galatasaray,Konyaspor,1,0,10,2024-03-04 00:00:00.000000
+Galatasaray,Samsunspor,3,0,1,2024-01-01 00:00:00.000000
+Galatasaray,Samsunspor,4,2,2,2024-01-08 00:00:00.000000
+Galatasaray,Samsunspor,1,2,3,2024-01-15 00:00:00.000000
+Galatasaray,Samsunspor,2,1,4,2024-01-22 00:00:00.000000
+Galatasaray,Samsunspor,1,3,5,2024-01-29 00:00:00.000000
+Galatasaray,Samsunspor,3,2,6,2024-02-05 00:00:00.000000
+Galatasaray,Samsunspor,4,1,7,2024-02-12 00:00:00.000000
+Galatasaray,Samsunspor,2,4,8,2024-02-19 00:00:00.000000
+Galatasaray,Samsunspor,3,1,9,2024-02-26 00:00:00.000000
+Galatasaray,Samsunspor,3,2,10,2024-03-04 00:00:00.000000
+Galatasaray,Sivasspor,2,3,1,2024-01-01 00:00:00.000000
+Galatasaray,Sivasspor,2,1,2,2024-01-08 00:00:00.000000
+Galatasaray,Sivasspor,2,1,3,2024-01-15 00:00:00.000000
+Galatasaray,Sivasspor,3,0,4,2024-01-22 00:00:00.000000
+Galatasaray,Sivasspor,1,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Sivasspor,2,2,6,2024-02-05 00:00:00.000000
+Galatasaray,Sivasspor,0,2,7,2024-02-12 00:00:00.000000
+Galatasaray,Sivasspor,2,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Sivasspor,2,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Sivasspor,2,1,10,2024-03-04 00:00:00.000000
+Galatasaray,Trabzonspor,2,2,1,2024-01-01 00:00:00.000000
+Galatasaray,Trabzonspor,3,0,2,2024-01-08 00:00:00.000000
+Galatasaray,Trabzonspor,0,0,3,2024-01-15 00:00:00.000000
+Galatasaray,Trabzonspor,1,2,4,2024-01-22 00:00:00.000000
+Galatasaray,Trabzonspor,2,1,5,2024-01-29 00:00:00.000000
+Galatasaray,Trabzonspor,4,1,6,2024-02-05 00:00:00.000000
+Galatasaray,Trabzonspor,1,0,7,2024-02-12 00:00:00.000000
+Galatasaray,Trabzonspor,1,1,8,2024-02-19 00:00:00.000000
+Galatasaray,Trabzonspor,1,0,9,2024-02-26 00:00:00.000000
+Galatasaray,Trabzonspor,1,2,10,2024-03-04 00:00:00.000000
+Gaziantep,Adana Demirspor,4,3,1,2024-01-01 00:00:00.000000
+Gaziantep,Adana Demirspor,0,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Adana Demirspor,2,1,4,2024-01-22 00:00:00.000000
+Gaziantep,Adana Demirspor,0,2,5,2024-01-29 00:00:00.000000
+Gaziantep,Adana Demirspor,3,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Adana Demirspor,0,2,7,2024-02-12 00:00:00.000000
+Gaziantep,Adana Demirspor,1,1,8,2024-02-19 00:00:00.000000
+Gaziantep,Adana Demirspor,1,2,9,2024-02-26 00:00:00.000000
+Gaziantep,Adana Demirspor,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,Alanyaspor,0,0,1,2024-01-01 00:00:00.000000
+Gaziantep,Alanyaspor,1,0,2,2024-01-08 00:00:00.000000
+Gaziantep,Alanyaspor,0,0,3,2024-01-15 00:00:00.000000
+Gaziantep,Alanyaspor,1,2,4,2024-01-22 00:00:00.000000
+Gaziantep,Alanyaspor,0,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Alanyaspor,2,0,6,2024-02-05 00:00:00.000000
+Gaziantep,Alanyaspor,1,2,7,2024-02-12 00:00:00.000000
+Gaziantep,Alanyaspor,1,2,8,2024-02-19 00:00:00.000000
+Gaziantep,Alanyaspor,1,0,9,2024-02-26 00:00:00.000000
+Gaziantep,Alanyaspor,2,1,10,2024-03-04 00:00:00.000000
+Gaziantep,Antalyaspor,0,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Antalyaspor,4,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Antalyaspor,2,0,3,2024-01-15 00:00:00.000000
+Gaziantep,Antalyaspor,3,0,4,2024-01-22 00:00:00.000000
+Gaziantep,Antalyaspor,2,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Antalyaspor,4,0,6,2024-02-05 00:00:00.000000
+Gaziantep,Antalyaspor,2,0,7,2024-02-12 00:00:00.000000
+Gaziantep,Antalyaspor,0,0,8,2024-02-19 00:00:00.000000
+Gaziantep,Antalyaspor,1,3,9,2024-02-26 00:00:00.000000
+Gaziantep,Antalyaspor,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,Beşiktaş,1,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Beşiktaş,2,0,2,2024-01-08 00:00:00.000000
+Gaziantep,Beşiktaş,0,2,3,2024-01-15 00:00:00.000000
+Gaziantep,Beşiktaş,1,1,4,2024-01-22 00:00:00.000000
+Gaziantep,Beşiktaş,2,2,5,2024-01-29 00:00:00.000000
+Gaziantep,Beşiktaş,1,3,6,2024-02-05 00:00:00.000000
+Gaziantep,Beşiktaş,0,2,7,2024-02-12 00:00:00.000000
+Gaziantep,Beşiktaş,0,1,8,2024-02-19 00:00:00.000000
+Gaziantep,Beşiktaş,1,0,9,2024-02-26 00:00:00.000000
+Gaziantep,Beşiktaş,0,1,10,2024-03-04 00:00:00.000000
+Gaziantep,Bodrum,2,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Bodrum,0,3,2,2024-01-08 00:00:00.000000
+Gaziantep,Bodrum,0,0,3,2024-01-15 00:00:00.000000
+Gaziantep,Bodrum,1,1,4,2024-01-22 00:00:00.000000
+Gaziantep,Bodrum,2,0,5,2024-01-29 00:00:00.000000
+Gaziantep,Bodrum,2,2,6,2024-02-05 00:00:00.000000
+Gaziantep,Bodrum,1,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Bodrum,2,2,8,2024-02-19 00:00:00.000000
+Gaziantep,Bodrum,2,2,9,2024-02-26 00:00:00.000000
+Gaziantep,Bodrum,4,2,10,2024-03-04 00:00:00.000000
+Gaziantep,Çaykur Rizespor,0,0,1,2024-01-01 00:00:00.000000
+Gaziantep,Çaykur Rizespor,0,0,2,2024-01-08 00:00:00.000000
+Gaziantep,Çaykur Rizespor,2,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Çaykur Rizespor,1,1,4,2024-01-22 00:00:00.000000
+Gaziantep,Çaykur Rizespor,2,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Çaykur Rizespor,0,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Çaykur Rizespor,2,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Çaykur Rizespor,0,1,8,2024-02-19 00:00:00.000000
+Gaziantep,Çaykur Rizespor,2,1,9,2024-02-26 00:00:00.000000
+Gaziantep,Çaykur Rizespor,2,2,10,2024-03-04 00:00:00.000000
+Gaziantep,Eyüpspor,3,3,1,2024-01-01 00:00:00.000000
+Gaziantep,Eyüpspor,2,0,2,2024-01-08 00:00:00.000000
+Gaziantep,Eyüpspor,2,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Eyüpspor,1,0,4,2024-01-22 00:00:00.000000
+Gaziantep,Eyüpspor,4,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Eyüpspor,3,2,6,2024-02-05 00:00:00.000000
+Gaziantep,Eyüpspor,0,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Eyüpspor,2,1,8,2024-02-19 00:00:00.000000
+Gaziantep,Eyüpspor,1,2,9,2024-02-26 00:00:00.000000
+Gaziantep,Eyüpspor,2,4,10,2024-03-04 00:00:00.000000
+Gaziantep,Fenerbahçe,0,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Fenerbahçe,1,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Fenerbahçe,1,3,3,2024-01-15 00:00:00.000000
+Gaziantep,Fenerbahçe,0,1,4,2024-01-22 00:00:00.000000
+Gaziantep,Fenerbahçe,0,3,5,2024-01-29 00:00:00.000000
+Gaziantep,Fenerbahçe,1,0,6,2024-02-05 00:00:00.000000
+Gaziantep,Fenerbahçe,2,2,7,2024-02-12 00:00:00.000000
+Gaziantep,Fenerbahçe,2,2,8,2024-02-19 00:00:00.000000
+Gaziantep,Fenerbahçe,2,1,9,2024-02-26 00:00:00.000000
+Gaziantep,Fenerbahçe,0,3,10,2024-03-04 00:00:00.000000
+Gaziantep,Galatasaray,0,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Galatasaray,2,2,2,2024-01-08 00:00:00.000000
+Gaziantep,Galatasaray,0,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Galatasaray,1,3,4,2024-01-22 00:00:00.000000
+Gaziantep,Galatasaray,0,3,5,2024-01-29 00:00:00.000000
+Gaziantep,Galatasaray,0,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Galatasaray,0,4,7,2024-02-12 00:00:00.000000
+Gaziantep,Galatasaray,0,0,8,2024-02-19 00:00:00.000000
+Gaziantep,Galatasaray,0,2,9,2024-02-26 00:00:00.000000
+Gaziantep,Galatasaray,1,2,10,2024-03-04 00:00:00.000000
+Gaziantep,Göztepe,0,3,1,2024-01-01 00:00:00.000000
+Gaziantep,Göztepe,1,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Göztepe,0,0,3,2024-01-15 00:00:00.000000
+Gaziantep,Göztepe,2,0,4,2024-01-22 00:00:00.000000
+Gaziantep,Göztepe,2,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Göztepe,3,0,6,2024-02-05 00:00:00.000000
+Gaziantep,Göztepe,0,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Göztepe,1,0,8,2024-02-19 00:00:00.000000
+Gaziantep,Göztepe,4,1,9,2024-02-26 00:00:00.000000
+Gaziantep,Göztepe,0,2,10,2024-03-04 00:00:00.000000
+Gaziantep,Hatayspor,1,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Hatayspor,2,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Hatayspor,1,0,3,2024-01-15 00:00:00.000000
+Gaziantep,Hatayspor,0,2,4,2024-01-22 00:00:00.000000
+Gaziantep,Hatayspor,1,0,5,2024-01-29 00:00:00.000000
+Gaziantep,Hatayspor,1,0,6,2024-02-05 00:00:00.000000
+Gaziantep,Hatayspor,1,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Hatayspor,0,0,8,2024-02-19 00:00:00.000000
+Gaziantep,Hatayspor,4,3,9,2024-02-26 00:00:00.000000
+Gaziantep,Hatayspor,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,0,0,1,2024-01-01 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,1,0,2,2024-01-08 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,0,1,3,2024-01-15 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,2,0,4,2024-01-22 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,0,2,5,2024-01-29 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,1,1,6,2024-02-05 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,2,1,7,2024-02-12 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,1,0,8,2024-02-19 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,2,1,9,2024-02-26 00:00:00.000000
+Gaziantep,İstanbul Başakşehir,4,1,10,2024-03-04 00:00:00.000000
+Gaziantep,Kasımpaşa,1,1,1,2024-01-01 00:00:00.000000
+Gaziantep,Kasımpaşa,0,2,2,2024-01-08 00:00:00.000000
+Gaziantep,Kasımpaşa,2,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Kasımpaşa,2,0,4,2024-01-22 00:00:00.000000
+Gaziantep,Kasımpaşa,2,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Kasımpaşa,2,2,6,2024-02-05 00:00:00.000000
+Gaziantep,Kasımpaşa,3,2,7,2024-02-12 00:00:00.000000
+Gaziantep,Kasımpaşa,1,0,8,2024-02-19 00:00:00.000000
+Gaziantep,Kasımpaşa,0,2,9,2024-02-26 00:00:00.000000
+Gaziantep,Kasımpaşa,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,Kayserispor,2,0,1,2024-01-01 00:00:00.000000
+Gaziantep,Kayserispor,1,0,2,2024-01-08 00:00:00.000000
+Gaziantep,Kayserispor,2,3,3,2024-01-15 00:00:00.000000
+Gaziantep,Kayserispor,1,2,4,2024-01-22 00:00:00.000000
+Gaziantep,Kayserispor,2,1,5,2024-01-29 00:00:00.000000
+Gaziantep,Kayserispor,4,0,6,2024-02-05 00:00:00.000000
+Gaziantep,Kayserispor,2,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Kayserispor,1,2,8,2024-02-19 00:00:00.000000
+Gaziantep,Kayserispor,1,3,9,2024-02-26 00:00:00.000000
+Gaziantep,Kayserispor,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,Konyaspor,1,2,1,2024-01-01 00:00:00.000000
+Gaziantep,Konyaspor,1,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Konyaspor,2,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Konyaspor,2,1,4,2024-01-22 00:00:00.000000
+Gaziantep,Konyaspor,1,2,5,2024-01-29 00:00:00.000000
+Gaziantep,Konyaspor,3,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Konyaspor,1,0,7,2024-02-12 00:00:00.000000
+Gaziantep,Konyaspor,1,1,8,2024-02-19 00:00:00.000000
+Gaziantep,Konyaspor,1,2,9,2024-02-26 00:00:00.000000
+Gaziantep,Konyaspor,2,1,10,2024-03-04 00:00:00.000000
+Gaziantep,Samsunspor,4,3,1,2024-01-01 00:00:00.000000
+Gaziantep,Samsunspor,0,1,2,2024-01-08 00:00:00.000000
+Gaziantep,Samsunspor,2,1,3,2024-01-15 00:00:00.000000
+Gaziantep,Samsunspor,1,0,4,2024-01-22 00:00:00.000000
+Gaziantep,Samsunspor,3,0,5,2024-01-29 00:00:00.000000
+Gaziantep,Samsunspor,2,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Samsunspor,2,1,7,2024-02-12 00:00:00.000000
+Gaziantep,Samsunspor,2,0,8,2024-02-19 00:00:00.000000
+Gaziantep,Samsunspor,1,0,9,2024-02-26 00:00:00.000000
+Gaziantep,Samsunspor,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,Sivasspor,0,0,1,2024-01-01 00:00:00.000000
+Gaziantep,Sivasspor,0,3,2,2024-01-08 00:00:00.000000
+Gaziantep,Sivasspor,0,3,3,2024-01-15 00:00:00.000000
+Gaziantep,Sivasspor,2,0,4,2024-01-22 00:00:00.000000
+Gaziantep,Sivasspor,2,0,5,2024-01-29 00:00:00.000000
+Gaziantep,Sivasspor,1,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Sivasspor,1,0,7,2024-02-12 00:00:00.000000
+Gaziantep,Sivasspor,1,3,8,2024-02-19 00:00:00.000000
+Gaziantep,Sivasspor,2,0,9,2024-02-26 00:00:00.000000
+Gaziantep,Sivasspor,1,0,10,2024-03-04 00:00:00.000000
+Gaziantep,Trabzonspor,1,3,1,2024-01-01 00:00:00.000000
+Gaziantep,Trabzonspor,0,0,2,2024-01-08 00:00:00.000000
+Gaziantep,Trabzonspor,2,0,3,2024-01-15 00:00:00.000000
+Gaziantep,Trabzonspor,1,2,4,2024-01-22 00:00:00.000000
+Gaziantep,Trabzonspor,1,3,5,2024-01-29 00:00:00.000000
+Gaziantep,Trabzonspor,2,1,6,2024-02-05 00:00:00.000000
+Gaziantep,Trabzonspor,0,2,7,2024-02-12 00:00:00.000000
+Gaziantep,Trabzonspor,1,3,8,2024-02-19 00:00:00.000000
+Gaziantep,Trabzonspor,2,3,9,2024-02-26 00:00:00.000000
+Gaziantep,Trabzonspor,0,2,10,2024-03-04 00:00:00.000000
+Göztepe,Adana Demirspor,1,1,1,2024-01-01 00:00:00.000000
+Göztepe,Adana Demirspor,0,2,2,2024-01-08 00:00:00.000000
+Göztepe,Adana Demirspor,4,2,3,2024-01-15 00:00:00.000000
+Göztepe,Adana Demirspor,1,1,4,2024-01-22 00:00:00.000000
+Göztepe,Adana Demirspor,3,2,5,2024-01-29 00:00:00.000000
+Göztepe,Adana Demirspor,1,0,6,2024-02-05 00:00:00.000000
+Göztepe,Adana Demirspor,0,3,7,2024-02-12 00:00:00.000000
+Göztepe,Adana Demirspor,0,1,8,2024-02-19 00:00:00.000000
+Göztepe,Adana Demirspor,1,1,9,2024-02-26 00:00:00.000000
+Göztepe,Adana Demirspor,4,0,10,2024-03-04 00:00:00.000000
+Göztepe,Alanyaspor,2,2,1,2024-01-01 00:00:00.000000
+Göztepe,Alanyaspor,4,3,2,2024-01-08 00:00:00.000000
+Göztepe,Alanyaspor,2,1,3,2024-01-15 00:00:00.000000
+Göztepe,Alanyaspor,2,0,4,2024-01-22 00:00:00.000000
+Göztepe,Alanyaspor,2,2,5,2024-01-29 00:00:00.000000
+Göztepe,Alanyaspor,3,2,6,2024-02-05 00:00:00.000000
+Göztepe,Alanyaspor,4,2,7,2024-02-12 00:00:00.000000
+Göztepe,Alanyaspor,0,1,8,2024-02-19 00:00:00.000000
+Göztepe,Alanyaspor,1,1,9,2024-02-26 00:00:00.000000
+Göztepe,Alanyaspor,0,1,10,2024-03-04 00:00:00.000000
+Göztepe,Antalyaspor,1,1,1,2024-01-01 00:00:00.000000
+Göztepe,Antalyaspor,2,2,2,2024-01-08 00:00:00.000000
+Göztepe,Antalyaspor,4,0,3,2024-01-15 00:00:00.000000
+Göztepe,Antalyaspor,2,1,4,2024-01-22 00:00:00.000000
+Göztepe,Antalyaspor,2,2,5,2024-01-29 00:00:00.000000
+Göztepe,Antalyaspor,3,1,6,2024-02-05 00:00:00.000000
+Göztepe,Antalyaspor,2,1,7,2024-02-12 00:00:00.000000
+Göztepe,Antalyaspor,1,0,8,2024-02-19 00:00:00.000000
+Göztepe,Antalyaspor,2,1,9,2024-02-26 00:00:00.000000
+Göztepe,Antalyaspor,1,0,10,2024-03-04 00:00:00.000000
+Göztepe,Beşiktaş,2,2,1,2024-01-01 00:00:00.000000
+Göztepe,Beşiktaş,2,1,2,2024-01-08 00:00:00.000000
+Göztepe,Beşiktaş,1,0,3,2024-01-15 00:00:00.000000
+Göztepe,Beşiktaş,2,2,4,2024-01-22 00:00:00.000000
+Göztepe,Beşiktaş,1,0,5,2024-01-29 00:00:00.000000
+Göztepe,Beşiktaş,1,3,6,2024-02-05 00:00:00.000000
+Göztepe,Beşiktaş,0,1,7,2024-02-12 00:00:00.000000
+Göztepe,Beşiktaş,1,2,8,2024-02-19 00:00:00.000000
+Göztepe,Beşiktaş,2,2,9,2024-02-26 00:00:00.000000
+Göztepe,Beşiktaş,2,2,10,2024-03-04 00:00:00.000000
+Göztepe,Bodrum,2,1,1,2024-01-01 00:00:00.000000
+Göztepe,Bodrum,1,1,2,2024-01-08 00:00:00.000000
+Göztepe,Bodrum,1,1,3,2024-01-15 00:00:00.000000
+Göztepe,Bodrum,2,3,4,2024-01-22 00:00:00.000000
+Göztepe,Bodrum,2,0,5,2024-01-29 00:00:00.000000
+Göztepe,Bodrum,1,2,6,2024-02-05 00:00:00.000000
+Göztepe,Bodrum,2,0,7,2024-02-12 00:00:00.000000
+Göztepe,Bodrum,1,0,8,2024-02-19 00:00:00.000000
+Göztepe,Bodrum,1,2,9,2024-02-26 00:00:00.000000
+Göztepe,Bodrum,0,1,10,2024-03-04 00:00:00.000000
+Göztepe,Çaykur Rizespor,1,2,1,2024-01-01 00:00:00.000000
+Göztepe,Çaykur Rizespor,4,3,2,2024-01-08 00:00:00.000000
+Göztepe,Çaykur Rizespor,2,1,3,2024-01-15 00:00:00.000000
+Göztepe,Çaykur Rizespor,2,0,4,2024-01-22 00:00:00.000000
+Göztepe,Çaykur Rizespor,1,1,5,2024-01-29 00:00:00.000000
+Göztepe,Çaykur Rizespor,4,3,6,2024-02-05 00:00:00.000000
+Göztepe,Çaykur Rizespor,1,1,7,2024-02-12 00:00:00.000000
+Göztepe,Çaykur Rizespor,0,2,8,2024-02-19 00:00:00.000000
+Göztepe,Çaykur Rizespor,0,1,9,2024-02-26 00:00:00.000000
+Göztepe,Çaykur Rizespor,1,0,10,2024-03-04 00:00:00.000000
+Göztepe,Eyüpspor,2,1,1,2024-01-01 00:00:00.000000
+Göztepe,Eyüpspor,2,1,2,2024-01-08 00:00:00.000000
+Göztepe,Eyüpspor,0,0,3,2024-01-15 00:00:00.000000
+Göztepe,Eyüpspor,0,0,4,2024-01-22 00:00:00.000000
+Göztepe,Eyüpspor,2,0,5,2024-01-29 00:00:00.000000
+Göztepe,Eyüpspor,1,0,6,2024-02-05 00:00:00.000000
+Göztepe,Eyüpspor,2,2,7,2024-02-12 00:00:00.000000
+Göztepe,Eyüpspor,1,2,8,2024-02-19 00:00:00.000000
+Göztepe,Eyüpspor,2,1,9,2024-02-26 00:00:00.000000
+Göztepe,Eyüpspor,0,2,10,2024-03-04 00:00:00.000000
+Göztepe,Fenerbahçe,1,3,1,2024-01-01 00:00:00.000000
+Göztepe,Fenerbahçe,1,1,2,2024-01-08 00:00:00.000000
+Göztepe,Fenerbahçe,1,3,3,2024-01-15 00:00:00.000000
+Göztepe,Fenerbahçe,1,0,4,2024-01-22 00:00:00.000000
+Göztepe,Fenerbahçe,2,1,5,2024-01-29 00:00:00.000000
+Göztepe,Fenerbahçe,0,4,6,2024-02-05 00:00:00.000000
+Göztepe,Fenerbahçe,1,1,7,2024-02-12 00:00:00.000000
+Göztepe,Fenerbahçe,1,2,8,2024-02-19 00:00:00.000000
+Göztepe,Fenerbahçe,0,1,9,2024-02-26 00:00:00.000000
+Göztepe,Fenerbahçe,4,2,10,2024-03-04 00:00:00.000000
+Göztepe,Galatasaray,0,1,1,2024-01-01 00:00:00.000000
+Göztepe,Galatasaray,1,3,2,2024-01-08 00:00:00.000000
+Göztepe,Galatasaray,0,2,3,2024-01-15 00:00:00.000000
+Göztepe,Galatasaray,2,1,4,2024-01-22 00:00:00.000000
+Göztepe,Galatasaray,0,1,5,2024-01-29 00:00:00.000000
+Göztepe,Galatasaray,2,0,6,2024-02-05 00:00:00.000000
+Göztepe,Galatasaray,2,2,7,2024-02-12 00:00:00.000000
+Göztepe,Galatasaray,1,1,8,2024-02-19 00:00:00.000000
+Göztepe,Galatasaray,1,2,9,2024-02-26 00:00:00.000000
+Göztepe,Galatasaray,2,2,10,2024-03-04 00:00:00.000000
+Göztepe,Gaziantep,2,1,1,2024-01-01 00:00:00.000000
+Göztepe,Gaziantep,4,0,2,2024-01-08 00:00:00.000000
+Göztepe,Gaziantep,2,2,3,2024-01-15 00:00:00.000000
+Göztepe,Gaziantep,1,0,4,2024-01-22 00:00:00.000000
+Göztepe,Gaziantep,2,0,5,2024-01-29 00:00:00.000000
+Göztepe,Gaziantep,2,1,6,2024-02-05 00:00:00.000000
+Göztepe,Gaziantep,0,0,7,2024-02-12 00:00:00.000000
+Göztepe,Gaziantep,2,0,8,2024-02-19 00:00:00.000000
+Göztepe,Gaziantep,3,0,9,2024-02-26 00:00:00.000000
+Göztepe,Gaziantep,1,0,10,2024-03-04 00:00:00.000000
+Göztepe,Hatayspor,3,0,1,2024-01-01 00:00:00.000000
+Göztepe,Hatayspor,1,2,2,2024-01-08 00:00:00.000000
+Göztepe,Hatayspor,1,1,3,2024-01-15 00:00:00.000000
+Göztepe,Hatayspor,2,2,4,2024-01-22 00:00:00.000000
+Göztepe,Hatayspor,2,2,5,2024-01-29 00:00:00.000000
+Göztepe,Hatayspor,2,1,6,2024-02-05 00:00:00.000000
+Göztepe,Hatayspor,0,1,7,2024-02-12 00:00:00.000000
+Göztepe,Hatayspor,0,3,8,2024-02-19 00:00:00.000000
+Göztepe,Hatayspor,1,0,9,2024-02-26 00:00:00.000000
+Göztepe,Hatayspor,2,2,10,2024-03-04 00:00:00.000000
+Göztepe,İstanbul Başakşehir,1,0,1,2024-01-01 00:00:00.000000
+Göztepe,İstanbul Başakşehir,0,0,2,2024-01-08 00:00:00.000000
+Göztepe,İstanbul Başakşehir,0,0,3,2024-01-15 00:00:00.000000
+Göztepe,İstanbul Başakşehir,1,2,4,2024-01-22 00:00:00.000000
+Göztepe,İstanbul Başakşehir,4,0,5,2024-01-29 00:00:00.000000
+Göztepe,İstanbul Başakşehir,2,2,6,2024-02-05 00:00:00.000000
+Göztepe,İstanbul Başakşehir,3,1,7,2024-02-12 00:00:00.000000
+Göztepe,İstanbul Başakşehir,0,2,8,2024-02-19 00:00:00.000000
+Göztepe,İstanbul Başakşehir,0,1,9,2024-02-26 00:00:00.000000
+Göztepe,İstanbul Başakşehir,2,3,10,2024-03-04 00:00:00.000000
+Göztepe,Kasımpaşa,1,1,1,2024-01-01 00:00:00.000000
+Göztepe,Kasımpaşa,2,0,2,2024-01-08 00:00:00.000000
+Göztepe,Kasımpaşa,1,1,3,2024-01-15 00:00:00.000000
+Göztepe,Kasımpaşa,2,1,4,2024-01-22 00:00:00.000000
+Göztepe,Kasımpaşa,3,3,5,2024-01-29 00:00:00.000000
+Göztepe,Kasımpaşa,1,1,6,2024-02-05 00:00:00.000000
+Göztepe,Kasımpaşa,2,3,7,2024-02-12 00:00:00.000000
+Göztepe,Kasımpaşa,1,0,8,2024-02-19 00:00:00.000000
+Göztepe,Kasımpaşa,2,2,9,2024-02-26 00:00:00.000000
+Göztepe,Kasımpaşa,2,3,10,2024-03-04 00:00:00.000000
+Göztepe,Kayserispor,1,2,1,2024-01-01 00:00:00.000000
+Göztepe,Kayserispor,1,1,2,2024-01-08 00:00:00.000000
+Göztepe,Kayserispor,0,0,3,2024-01-15 00:00:00.000000
+Göztepe,Kayserispor,2,2,4,2024-01-22 00:00:00.000000
+Göztepe,Kayserispor,1,1,5,2024-01-29 00:00:00.000000
+Göztepe,Kayserispor,1,3,6,2024-02-05 00:00:00.000000
+Göztepe,Kayserispor,0,2,7,2024-02-12 00:00:00.000000
+Göztepe,Kayserispor,1,0,8,2024-02-19 00:00:00.000000
+Göztepe,Kayserispor,2,0,9,2024-02-26 00:00:00.000000
+Göztepe,Kayserispor,0,1,10,2024-03-04 00:00:00.000000
+Göztepe,Konyaspor,1,0,1,2024-01-01 00:00:00.000000
+Göztepe,Konyaspor,0,0,2,2024-01-08 00:00:00.000000
+Göztepe,Konyaspor,2,2,3,2024-01-15 00:00:00.000000
+Göztepe,Konyaspor,2,1,4,2024-01-22 00:00:00.000000
+Göztepe,Konyaspor,1,3,5,2024-01-29 00:00:00.000000
+Göztepe,Konyaspor,0,2,6,2024-02-05 00:00:00.000000
+Göztepe,Konyaspor,1,0,7,2024-02-12 00:00:00.000000
+Göztepe,Konyaspor,2,0,8,2024-02-19 00:00:00.000000
+Göztepe,Konyaspor,1,1,9,2024-02-26 00:00:00.000000
+Göztepe,Konyaspor,0,1,10,2024-03-04 00:00:00.000000
+Göztepe,Samsunspor,3,1,1,2024-01-01 00:00:00.000000
+Göztepe,Samsunspor,1,4,2,2024-01-08 00:00:00.000000
+Göztepe,Samsunspor,3,0,3,2024-01-15 00:00:00.000000
+Göztepe,Samsunspor,1,1,4,2024-01-22 00:00:00.000000
+Göztepe,Samsunspor,0,2,5,2024-01-29 00:00:00.000000
+Göztepe,Samsunspor,1,2,6,2024-02-05 00:00:00.000000
+Göztepe,Samsunspor,2,2,7,2024-02-12 00:00:00.000000
+Göztepe,Samsunspor,2,1,8,2024-02-19 00:00:00.000000
+Göztepe,Samsunspor,2,1,9,2024-02-26 00:00:00.000000
+Göztepe,Samsunspor,1,0,10,2024-03-04 00:00:00.000000
+Göztepe,Sivasspor,2,1,1,2024-01-01 00:00:00.000000
+Göztepe,Sivasspor,0,2,2,2024-01-08 00:00:00.000000
+Göztepe,Sivasspor,2,2,3,2024-01-15 00:00:00.000000
+Göztepe,Sivasspor,1,2,4,2024-01-22 00:00:00.000000
+Göztepe,Sivasspor,1,1,5,2024-01-29 00:00:00.000000
+Göztepe,Sivasspor,0,1,6,2024-02-05 00:00:00.000000
+Göztepe,Sivasspor,2,0,7,2024-02-12 00:00:00.000000
+Göztepe,Sivasspor,0,2,8,2024-02-19 00:00:00.000000
+Göztepe,Sivasspor,2,2,9,2024-02-26 00:00:00.000000
+Göztepe,Sivasspor,1,0,10,2024-03-04 00:00:00.000000
+Göztepe,Trabzonspor,1,2,1,2024-01-01 00:00:00.000000
+Göztepe,Trabzonspor,1,2,2,2024-01-08 00:00:00.000000
+Göztepe,Trabzonspor,0,1,3,2024-01-15 00:00:00.000000
+Göztepe,Trabzonspor,1,1,4,2024-01-22 00:00:00.000000
+Göztepe,Trabzonspor,1,2,5,2024-01-29 00:00:00.000000
+Göztepe,Trabzonspor,1,2,6,2024-02-05 00:00:00.000000
+Göztepe,Trabzonspor,2,1,7,2024-02-12 00:00:00.000000
+Göztepe,Trabzonspor,0,2,8,2024-02-19 00:00:00.000000
+Göztepe,Trabzonspor,2,2,9,2024-02-26 00:00:00.000000
+Göztepe,Trabzonspor,1,0,10,2024-03-04 00:00:00.000000
+Hatayspor,Adana Demirspor,4,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Adana Demirspor,1,2,2,2024-01-08 00:00:00.000000
+Hatayspor,Adana Demirspor,0,2,3,2024-01-15 00:00:00.000000
+Hatayspor,Adana Demirspor,1,2,4,2024-01-22 00:00:00.000000
+Hatayspor,Adana Demirspor,3,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Adana Demirspor,2,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Adana Demirspor,0,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Adana Demirspor,3,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Adana Demirspor,2,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Adana Demirspor,4,2,10,2024-03-04 00:00:00.000000
+Hatayspor,Alanyaspor,2,0,1,2024-01-01 00:00:00.000000
+Hatayspor,Alanyaspor,1,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Alanyaspor,1,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Alanyaspor,1,0,4,2024-01-22 00:00:00.000000
+Hatayspor,Alanyaspor,0,1,5,2024-01-29 00:00:00.000000
+Hatayspor,Alanyaspor,1,0,6,2024-02-05 00:00:00.000000
+Hatayspor,Alanyaspor,2,1,7,2024-02-12 00:00:00.000000
+Hatayspor,Alanyaspor,2,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Alanyaspor,2,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Alanyaspor,2,4,10,2024-03-04 00:00:00.000000
+Hatayspor,Antalyaspor,2,1,1,2024-01-01 00:00:00.000000
+Hatayspor,Antalyaspor,0,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Antalyaspor,1,2,3,2024-01-15 00:00:00.000000
+Hatayspor,Antalyaspor,1,1,4,2024-01-22 00:00:00.000000
+Hatayspor,Antalyaspor,0,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Antalyaspor,1,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Antalyaspor,1,1,7,2024-02-12 00:00:00.000000
+Hatayspor,Antalyaspor,2,4,8,2024-02-19 00:00:00.000000
+Hatayspor,Antalyaspor,3,0,9,2024-02-26 00:00:00.000000
+Hatayspor,Antalyaspor,1,2,10,2024-03-04 00:00:00.000000
+Hatayspor,Beşiktaş,1,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Beşiktaş,2,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Beşiktaş,0,2,3,2024-01-15 00:00:00.000000
+Hatayspor,Beşiktaş,0,2,4,2024-01-22 00:00:00.000000
+Hatayspor,Beşiktaş,1,2,5,2024-01-29 00:00:00.000000
+Hatayspor,Beşiktaş,1,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Beşiktaş,1,3,7,2024-02-12 00:00:00.000000
+Hatayspor,Beşiktaş,2,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Beşiktaş,1,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Beşiktaş,0,2,10,2024-03-04 00:00:00.000000
+Hatayspor,Bodrum,3,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Bodrum,2,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Bodrum,1,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Bodrum,1,0,4,2024-01-22 00:00:00.000000
+Hatayspor,Bodrum,2,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Bodrum,1,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Bodrum,1,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Bodrum,1,1,8,2024-02-19 00:00:00.000000
+Hatayspor,Bodrum,2,2,9,2024-02-26 00:00:00.000000
+Hatayspor,Bodrum,1,1,10,2024-03-04 00:00:00.000000
+Hatayspor,Çaykur Rizespor,3,1,1,2024-01-01 00:00:00.000000
+Hatayspor,Çaykur Rizespor,2,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Çaykur Rizespor,2,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Çaykur Rizespor,0,2,4,2024-01-22 00:00:00.000000
+Hatayspor,Çaykur Rizespor,3,1,5,2024-01-29 00:00:00.000000
+Hatayspor,Çaykur Rizespor,1,2,6,2024-02-05 00:00:00.000000
+Hatayspor,Çaykur Rizespor,1,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Çaykur Rizespor,1,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Çaykur Rizespor,2,2,9,2024-02-26 00:00:00.000000
+Hatayspor,Çaykur Rizespor,0,1,10,2024-03-04 00:00:00.000000
+Hatayspor,Eyüpspor,0,1,1,2024-01-01 00:00:00.000000
+Hatayspor,Eyüpspor,0,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Eyüpspor,1,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Eyüpspor,0,0,4,2024-01-22 00:00:00.000000
+Hatayspor,Eyüpspor,1,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Eyüpspor,1,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Eyüpspor,1,1,7,2024-02-12 00:00:00.000000
+Hatayspor,Eyüpspor,0,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Eyüpspor,2,3,9,2024-02-26 00:00:00.000000
+Hatayspor,Eyüpspor,1,0,10,2024-03-04 00:00:00.000000
+Hatayspor,Fenerbahçe,2,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Fenerbahçe,0,2,2,2024-01-08 00:00:00.000000
+Hatayspor,Fenerbahçe,0,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Fenerbahçe,0,3,4,2024-01-22 00:00:00.000000
+Hatayspor,Fenerbahçe,0,1,5,2024-01-29 00:00:00.000000
+Hatayspor,Fenerbahçe,3,2,6,2024-02-05 00:00:00.000000
+Hatayspor,Fenerbahçe,1,3,7,2024-02-12 00:00:00.000000
+Hatayspor,Fenerbahçe,1,3,8,2024-02-19 00:00:00.000000
+Hatayspor,Fenerbahçe,0,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Fenerbahçe,2,4,10,2024-03-04 00:00:00.000000
+Hatayspor,Galatasaray,2,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Galatasaray,1,2,2,2024-01-08 00:00:00.000000
+Hatayspor,Galatasaray,2,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Galatasaray,0,1,4,2024-01-22 00:00:00.000000
+Hatayspor,Galatasaray,1,3,5,2024-01-29 00:00:00.000000
+Hatayspor,Galatasaray,2,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Galatasaray,0,3,7,2024-02-12 00:00:00.000000
+Hatayspor,Galatasaray,1,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Galatasaray,2,4,9,2024-02-26 00:00:00.000000
+Hatayspor,Galatasaray,2,1,10,2024-03-04 00:00:00.000000
+Hatayspor,Gaziantep,1,0,1,2024-01-01 00:00:00.000000
+Hatayspor,Gaziantep,2,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Gaziantep,1,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Gaziantep,2,1,4,2024-01-22 00:00:00.000000
+Hatayspor,Gaziantep,1,1,5,2024-01-29 00:00:00.000000
+Hatayspor,Gaziantep,1,2,6,2024-02-05 00:00:00.000000
+Hatayspor,Gaziantep,0,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Gaziantep,2,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Gaziantep,2,4,9,2024-02-26 00:00:00.000000
+Hatayspor,Gaziantep,2,0,10,2024-03-04 00:00:00.000000
+Hatayspor,Göztepe,1,3,1,2024-01-01 00:00:00.000000
+Hatayspor,Göztepe,2,1,2,2024-01-08 00:00:00.000000
+Hatayspor,Göztepe,1,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Göztepe,2,3,4,2024-01-22 00:00:00.000000
+Hatayspor,Göztepe,0,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Göztepe,2,2,6,2024-02-05 00:00:00.000000
+Hatayspor,Göztepe,1,1,7,2024-02-12 00:00:00.000000
+Hatayspor,Göztepe,3,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Göztepe,3,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Göztepe,0,2,10,2024-03-04 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,2,0,1,2024-01-01 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,1,2,2,2024-01-08 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,3,1,3,2024-01-15 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,0,2,4,2024-01-22 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,1,0,5,2024-01-29 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,0,0,6,2024-02-05 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,1,1,7,2024-02-12 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,0,0,8,2024-02-19 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,3,2,9,2024-02-26 00:00:00.000000
+Hatayspor,İstanbul Başakşehir,0,1,10,2024-03-04 00:00:00.000000
+Hatayspor,Kasımpaşa,4,0,1,2024-01-01 00:00:00.000000
+Hatayspor,Kasımpaşa,0,2,2,2024-01-08 00:00:00.000000
+Hatayspor,Kasımpaşa,0,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Kasımpaşa,2,2,4,2024-01-22 00:00:00.000000
+Hatayspor,Kasımpaşa,0,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Kasımpaşa,2,0,6,2024-02-05 00:00:00.000000
+Hatayspor,Kasımpaşa,3,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Kasımpaşa,2,1,8,2024-02-19 00:00:00.000000
+Hatayspor,Kasımpaşa,0,0,9,2024-02-26 00:00:00.000000
+Hatayspor,Kasımpaşa,2,2,10,2024-03-04 00:00:00.000000
+Hatayspor,Kayserispor,1,1,1,2024-01-01 00:00:00.000000
+Hatayspor,Kayserispor,1,2,2,2024-01-08 00:00:00.000000
+Hatayspor,Kayserispor,1,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Kayserispor,2,0,4,2024-01-22 00:00:00.000000
+Hatayspor,Kayserispor,2,0,5,2024-01-29 00:00:00.000000
+Hatayspor,Kayserispor,2,2,6,2024-02-05 00:00:00.000000
+Hatayspor,Kayserispor,1,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Kayserispor,1,1,8,2024-02-19 00:00:00.000000
+Hatayspor,Kayserispor,2,0,9,2024-02-26 00:00:00.000000
+Hatayspor,Kayserispor,1,1,10,2024-03-04 00:00:00.000000
+Hatayspor,Konyaspor,0,0,1,2024-01-01 00:00:00.000000
+Hatayspor,Konyaspor,4,2,2,2024-01-08 00:00:00.000000
+Hatayspor,Konyaspor,0,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Konyaspor,3,1,4,2024-01-22 00:00:00.000000
+Hatayspor,Konyaspor,1,4,5,2024-01-29 00:00:00.000000
+Hatayspor,Konyaspor,1,0,6,2024-02-05 00:00:00.000000
+Hatayspor,Konyaspor,4,3,7,2024-02-12 00:00:00.000000
+Hatayspor,Konyaspor,1,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Konyaspor,1,2,9,2024-02-26 00:00:00.000000
+Hatayspor,Konyaspor,2,1,10,2024-03-04 00:00:00.000000
+Hatayspor,Samsunspor,2,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Samsunspor,3,0,2,2024-01-08 00:00:00.000000
+Hatayspor,Samsunspor,1,0,3,2024-01-15 00:00:00.000000
+Hatayspor,Samsunspor,1,1,4,2024-01-22 00:00:00.000000
+Hatayspor,Samsunspor,0,1,5,2024-01-29 00:00:00.000000
+Hatayspor,Samsunspor,1,1,6,2024-02-05 00:00:00.000000
+Hatayspor,Samsunspor,1,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Samsunspor,1,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Samsunspor,1,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Samsunspor,0,2,10,2024-03-04 00:00:00.000000
+Hatayspor,Sivasspor,2,1,1,2024-01-01 00:00:00.000000
+Hatayspor,Sivasspor,1,0,2,2024-01-08 00:00:00.000000
+Hatayspor,Sivasspor,0,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Sivasspor,1,1,4,2024-01-22 00:00:00.000000
+Hatayspor,Sivasspor,1,4,5,2024-01-29 00:00:00.000000
+Hatayspor,Sivasspor,2,0,6,2024-02-05 00:00:00.000000
+Hatayspor,Sivasspor,1,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Sivasspor,0,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Sivasspor,0,1,9,2024-02-26 00:00:00.000000
+Hatayspor,Sivasspor,0,2,10,2024-03-04 00:00:00.000000
+Hatayspor,Trabzonspor,0,2,1,2024-01-01 00:00:00.000000
+Hatayspor,Trabzonspor,1,0,2,2024-01-08 00:00:00.000000
+Hatayspor,Trabzonspor,2,1,3,2024-01-15 00:00:00.000000
+Hatayspor,Trabzonspor,1,3,4,2024-01-22 00:00:00.000000
+Hatayspor,Trabzonspor,2,3,5,2024-01-29 00:00:00.000000
+Hatayspor,Trabzonspor,1,2,6,2024-02-05 00:00:00.000000
+Hatayspor,Trabzonspor,0,2,7,2024-02-12 00:00:00.000000
+Hatayspor,Trabzonspor,1,0,8,2024-02-19 00:00:00.000000
+Hatayspor,Trabzonspor,1,2,9,2024-02-26 00:00:00.000000
+Hatayspor,Trabzonspor,0,3,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,0,2,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,0,1,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,1,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,1,1,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,1,2,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,1,2,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,0,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,2,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Adana Demirspor,1,0,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,0,1,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,0,0,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,0,0,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,2,1,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,1,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,1,2,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,1,3,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,1,0,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,3,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Alanyaspor,2,0,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,1,2,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,0,0,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,2,0,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,4,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,1,3,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,3,2,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,1,2,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,0,0,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,2,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Antalyaspor,0,1,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,2,2,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,2,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,2,3,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,0,3,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,2,3,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,2,4,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,0,1,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,1,2,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,0,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Beşiktaş,1,0,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Bodrum,2,0,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Bodrum,3,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Bodrum,2,2,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Bodrum,0,1,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Bodrum,0,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Bodrum,2,1,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Bodrum,0,0,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Bodrum,2,0,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Bodrum,1,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Bodrum,1,2,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,0,0,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,1,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,2,2,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,3,3,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,0,1,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,1,1,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,0,0,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,4,0,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,4,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Çaykur Rizespor,2,1,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,3,0,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,4,0,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,1,1,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,3,1,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,3,2,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,1,2,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,1,3,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,1,2,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,0,2,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Eyüpspor,2,0,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,2,1,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,0,0,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,0,1,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,2,1,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,1,1,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,0,1,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,3,1,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,1,2,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,0,2,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Fenerbahçe,2,1,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,0,1,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,0,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,2,2,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,1,2,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,0,2,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,1,4,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,3,0,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,1,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,0,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Galatasaray,0,1,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,0,2,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,0,1,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,1,4,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,0,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,2,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,0,0,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,2,0,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,0,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,4,2,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Gaziantep,4,2,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Göztepe,1,1,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Göztepe,2,0,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Göztepe,0,0,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Göztepe,1,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Göztepe,4,2,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Göztepe,2,0,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Göztepe,2,4,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Göztepe,0,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Göztepe,2,0,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Göztepe,3,0,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,0,1,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,3,1,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,1,0,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,1,1,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,3,2,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,0,1,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,2,2,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,2,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,1,2,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Hatayspor,1,4,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,2,0,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,1,1,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,1,2,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,0,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,1,4,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,4,0,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,1,1,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,1,2,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,4,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Kasımpaşa,1,2,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,1,2,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,2,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,1,2,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,1,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,1,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,0,0,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,0,0,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,2,2,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,2,0,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Kayserispor,0,2,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,4,0,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,2,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,1,1,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,1,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,1,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,1,0,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,0,3,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,1,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,3,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Konyaspor,1,1,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,1,1,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,1,2,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,1,4,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,1,4,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,2,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,1,1,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,0,2,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,3,0,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,1,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Samsunspor,0,1,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,2,0,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,1,0,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,2,1,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,2,0,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,1,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,3,3,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,2,1,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,1,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,2,1,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Sivasspor,4,0,10,2024-03-04 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,1,2,1,2024-01-01 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,0,3,2,2024-01-08 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,1,1,3,2024-01-15 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,2,3,4,2024-01-22 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,1,0,5,2024-01-29 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,2,4,6,2024-02-05 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,0,0,7,2024-02-12 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,0,1,8,2024-02-19 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,1,3,9,2024-02-26 00:00:00.000000
+İstanbul Başakşehir,Trabzonspor,1,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Adana Demirspor,2,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Adana Demirspor,1,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Adana Demirspor,1,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Adana Demirspor,2,1,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Adana Demirspor,0,1,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Adana Demirspor,2,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Adana Demirspor,0,2,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Adana Demirspor,1,1,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Adana Demirspor,2,0,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Adana Demirspor,2,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Alanyaspor,1,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Alanyaspor,2,0,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Alanyaspor,3,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Alanyaspor,1,2,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Alanyaspor,0,3,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Alanyaspor,2,0,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Alanyaspor,2,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Alanyaspor,4,2,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Alanyaspor,4,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Alanyaspor,2,2,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Antalyaspor,3,0,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Antalyaspor,3,0,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Antalyaspor,0,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Antalyaspor,0,1,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Antalyaspor,1,2,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Antalyaspor,3,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Antalyaspor,1,2,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Antalyaspor,2,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Antalyaspor,1,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Antalyaspor,2,2,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Beşiktaş,3,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Beşiktaş,2,3,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Beşiktaş,1,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Beşiktaş,1,2,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Beşiktaş,1,1,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Beşiktaş,4,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Beşiktaş,2,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Beşiktaş,3,3,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Beşiktaş,2,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Beşiktaş,2,0,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Bodrum,3,0,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Bodrum,2,0,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Bodrum,0,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Bodrum,1,3,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Bodrum,2,2,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Bodrum,4,0,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Bodrum,2,1,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Bodrum,4,3,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Bodrum,3,0,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Bodrum,0,0,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,1,0,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,2,2,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,2,0,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,4,0,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,2,0,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,2,0,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,2,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,1,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,1,0,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Çaykur Rizespor,1,3,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Eyüpspor,3,0,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Eyüpspor,4,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Eyüpspor,0,0,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Eyüpspor,2,1,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Eyüpspor,3,2,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Eyüpspor,1,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Eyüpspor,2,1,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Eyüpspor,1,1,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Eyüpspor,0,1,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Eyüpspor,3,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Fenerbahçe,2,3,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Fenerbahçe,1,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Fenerbahçe,1,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Fenerbahçe,2,3,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Fenerbahçe,2,1,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Fenerbahçe,1,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Fenerbahçe,1,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Fenerbahçe,0,2,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Fenerbahçe,1,0,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Fenerbahçe,1,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Galatasaray,1,3,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Galatasaray,0,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Galatasaray,0,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Galatasaray,1,2,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Galatasaray,2,4,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Galatasaray,0,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Galatasaray,0,3,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Galatasaray,0,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Galatasaray,2,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Galatasaray,2,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Gaziantep,1,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Gaziantep,0,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Gaziantep,4,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Gaziantep,1,0,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Gaziantep,0,2,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Gaziantep,1,2,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Gaziantep,4,2,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Gaziantep,0,2,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Gaziantep,2,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Gaziantep,1,0,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Göztepe,1,3,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Göztepe,4,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Göztepe,0,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Göztepe,0,1,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Göztepe,0,0,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Göztepe,2,2,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Göztepe,2,1,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Göztepe,1,1,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Göztepe,3,1,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Göztepe,3,0,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Hatayspor,2,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Hatayspor,1,3,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Hatayspor,1,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Hatayspor,0,3,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Hatayspor,2,3,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Hatayspor,2,2,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Hatayspor,2,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Hatayspor,1,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Hatayspor,0,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Hatayspor,0,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,1,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,1,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,2,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,1,2,4,2024-01-22 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,1,2,5,2024-01-29 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,2,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,4,3,7,2024-02-12 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,1,2,8,2024-02-19 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,2,1,9,2024-02-26 00:00:00.000000
+Kasımpaşa,İstanbul Başakşehir,1,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Kayserispor,0,4,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Kayserispor,2,0,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Kayserispor,1,2,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Kayserispor,0,1,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Kayserispor,2,1,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Kayserispor,1,0,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Kayserispor,0,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Kayserispor,1,1,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Kayserispor,0,1,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Kayserispor,0,2,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Konyaspor,0,0,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Konyaspor,1,2,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Konyaspor,1,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Konyaspor,2,2,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Konyaspor,4,0,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Konyaspor,2,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Konyaspor,2,0,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Konyaspor,3,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Konyaspor,1,0,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Konyaspor,0,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Samsunspor,1,1,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Samsunspor,0,1,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Samsunspor,3,3,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Samsunspor,1,0,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Samsunspor,0,1,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Samsunspor,1,1,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Samsunspor,2,1,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Samsunspor,1,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Samsunspor,1,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Samsunspor,2,1,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Sivasspor,2,0,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Sivasspor,2,2,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Sivasspor,2,1,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Sivasspor,1,0,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Sivasspor,1,3,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Sivasspor,1,0,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Sivasspor,1,1,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Sivasspor,0,2,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Sivasspor,1,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Sivasspor,3,0,10,2024-03-04 00:00:00.000000
+Kasımpaşa,Trabzonspor,3,2,1,2024-01-01 00:00:00.000000
+Kasımpaşa,Trabzonspor,1,0,2,2024-01-08 00:00:00.000000
+Kasımpaşa,Trabzonspor,3,4,3,2024-01-15 00:00:00.000000
+Kasımpaşa,Trabzonspor,1,2,4,2024-01-22 00:00:00.000000
+Kasımpaşa,Trabzonspor,0,1,5,2024-01-29 00:00:00.000000
+Kasımpaşa,Trabzonspor,2,2,6,2024-02-05 00:00:00.000000
+Kasımpaşa,Trabzonspor,0,2,7,2024-02-12 00:00:00.000000
+Kasımpaşa,Trabzonspor,1,0,8,2024-02-19 00:00:00.000000
+Kasımpaşa,Trabzonspor,2,2,9,2024-02-26 00:00:00.000000
+Kasımpaşa,Trabzonspor,1,4,10,2024-03-04 00:00:00.000000
+Kayserispor,Adana Demirspor,0,2,1,2024-01-01 00:00:00.000000
+Kayserispor,Adana Demirspor,1,2,2,2024-01-08 00:00:00.000000
+Kayserispor,Adana Demirspor,3,0,3,2024-01-15 00:00:00.000000
+Kayserispor,Adana Demirspor,2,2,4,2024-01-22 00:00:00.000000
+Kayserispor,Adana Demirspor,1,2,5,2024-01-29 00:00:00.000000
+Kayserispor,Adana Demirspor,3,2,6,2024-02-05 00:00:00.000000
+Kayserispor,Adana Demirspor,2,2,7,2024-02-12 00:00:00.000000
+Kayserispor,Adana Demirspor,1,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Adana Demirspor,1,1,9,2024-02-26 00:00:00.000000
+Kayserispor,Adana Demirspor,0,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Alanyaspor,2,2,1,2024-01-01 00:00:00.000000
+Kayserispor,Alanyaspor,0,0,2,2024-01-08 00:00:00.000000
+Kayserispor,Alanyaspor,4,1,3,2024-01-15 00:00:00.000000
+Kayserispor,Alanyaspor,2,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Alanyaspor,2,3,5,2024-01-29 00:00:00.000000
+Kayserispor,Alanyaspor,0,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Alanyaspor,2,0,7,2024-02-12 00:00:00.000000
+Kayserispor,Alanyaspor,3,4,8,2024-02-19 00:00:00.000000
+Kayserispor,Alanyaspor,0,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Alanyaspor,0,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Antalyaspor,0,0,1,2024-01-01 00:00:00.000000
+Kayserispor,Antalyaspor,0,1,2,2024-01-08 00:00:00.000000
+Kayserispor,Antalyaspor,0,1,3,2024-01-15 00:00:00.000000
+Kayserispor,Antalyaspor,3,0,4,2024-01-22 00:00:00.000000
+Kayserispor,Antalyaspor,2,0,5,2024-01-29 00:00:00.000000
+Kayserispor,Antalyaspor,1,3,6,2024-02-05 00:00:00.000000
+Kayserispor,Antalyaspor,2,1,7,2024-02-12 00:00:00.000000
+Kayserispor,Antalyaspor,0,0,8,2024-02-19 00:00:00.000000
+Kayserispor,Antalyaspor,1,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Antalyaspor,2,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Beşiktaş,0,4,1,2024-01-01 00:00:00.000000
+Kayserispor,Beşiktaş,1,0,2,2024-01-08 00:00:00.000000
+Kayserispor,Beşiktaş,0,1,3,2024-01-15 00:00:00.000000
+Kayserispor,Beşiktaş,2,2,4,2024-01-22 00:00:00.000000
+Kayserispor,Beşiktaş,0,1,5,2024-01-29 00:00:00.000000
+Kayserispor,Beşiktaş,2,0,6,2024-02-05 00:00:00.000000
+Kayserispor,Beşiktaş,1,1,7,2024-02-12 00:00:00.000000
+Kayserispor,Beşiktaş,1,4,8,2024-02-19 00:00:00.000000
+Kayserispor,Beşiktaş,0,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Beşiktaş,1,1,10,2024-03-04 00:00:00.000000
+Kayserispor,Bodrum,0,2,1,2024-01-01 00:00:00.000000
+Kayserispor,Bodrum,0,2,2,2024-01-08 00:00:00.000000
+Kayserispor,Bodrum,0,3,3,2024-01-15 00:00:00.000000
+Kayserispor,Bodrum,1,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Bodrum,0,1,5,2024-01-29 00:00:00.000000
+Kayserispor,Bodrum,3,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Bodrum,0,2,7,2024-02-12 00:00:00.000000
+Kayserispor,Bodrum,2,2,8,2024-02-19 00:00:00.000000
+Kayserispor,Bodrum,1,0,9,2024-02-26 00:00:00.000000
+Kayserispor,Bodrum,2,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Çaykur Rizespor,2,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Çaykur Rizespor,1,3,2,2024-01-08 00:00:00.000000
+Kayserispor,Çaykur Rizespor,0,3,3,2024-01-15 00:00:00.000000
+Kayserispor,Çaykur Rizespor,1,0,4,2024-01-22 00:00:00.000000
+Kayserispor,Çaykur Rizespor,0,2,5,2024-01-29 00:00:00.000000
+Kayserispor,Çaykur Rizespor,1,3,6,2024-02-05 00:00:00.000000
+Kayserispor,Çaykur Rizespor,0,1,7,2024-02-12 00:00:00.000000
+Kayserispor,Çaykur Rizespor,1,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Çaykur Rizespor,1,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Çaykur Rizespor,2,2,10,2024-03-04 00:00:00.000000
+Kayserispor,Eyüpspor,1,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Eyüpspor,0,1,2,2024-01-08 00:00:00.000000
+Kayserispor,Eyüpspor,1,2,3,2024-01-15 00:00:00.000000
+Kayserispor,Eyüpspor,2,0,4,2024-01-22 00:00:00.000000
+Kayserispor,Eyüpspor,0,2,5,2024-01-29 00:00:00.000000
+Kayserispor,Eyüpspor,1,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Eyüpspor,1,0,7,2024-02-12 00:00:00.000000
+Kayserispor,Eyüpspor,2,0,8,2024-02-19 00:00:00.000000
+Kayserispor,Eyüpspor,2,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Eyüpspor,3,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Fenerbahçe,2,3,1,2024-01-01 00:00:00.000000
+Kayserispor,Fenerbahçe,1,2,2,2024-01-08 00:00:00.000000
+Kayserispor,Fenerbahçe,0,2,3,2024-01-15 00:00:00.000000
+Kayserispor,Fenerbahçe,3,0,4,2024-01-22 00:00:00.000000
+Kayserispor,Fenerbahçe,3,2,5,2024-01-29 00:00:00.000000
+Kayserispor,Fenerbahçe,2,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Fenerbahçe,1,1,7,2024-02-12 00:00:00.000000
+Kayserispor,Fenerbahçe,0,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Fenerbahçe,2,1,9,2024-02-26 00:00:00.000000
+Kayserispor,Fenerbahçe,1,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Galatasaray,1,2,1,2024-01-01 00:00:00.000000
+Kayserispor,Galatasaray,0,1,2,2024-01-08 00:00:00.000000
+Kayserispor,Galatasaray,3,2,3,2024-01-15 00:00:00.000000
+Kayserispor,Galatasaray,1,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Galatasaray,0,3,5,2024-01-29 00:00:00.000000
+Kayserispor,Galatasaray,4,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Galatasaray,2,0,7,2024-02-12 00:00:00.000000
+Kayserispor,Galatasaray,0,3,8,2024-02-19 00:00:00.000000
+Kayserispor,Galatasaray,1,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Galatasaray,3,4,10,2024-03-04 00:00:00.000000
+Kayserispor,Gaziantep,2,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Gaziantep,0,2,2,2024-01-08 00:00:00.000000
+Kayserispor,Gaziantep,0,2,3,2024-01-15 00:00:00.000000
+Kayserispor,Gaziantep,0,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Gaziantep,1,0,5,2024-01-29 00:00:00.000000
+Kayserispor,Gaziantep,1,2,6,2024-02-05 00:00:00.000000
+Kayserispor,Gaziantep,2,2,7,2024-02-12 00:00:00.000000
+Kayserispor,Gaziantep,1,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Gaziantep,3,0,9,2024-02-26 00:00:00.000000
+Kayserispor,Gaziantep,1,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Göztepe,2,0,1,2024-01-01 00:00:00.000000
+Kayserispor,Göztepe,2,1,2,2024-01-08 00:00:00.000000
+Kayserispor,Göztepe,0,0,3,2024-01-15 00:00:00.000000
+Kayserispor,Göztepe,0,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Göztepe,0,1,5,2024-01-29 00:00:00.000000
+Kayserispor,Göztepe,1,0,6,2024-02-05 00:00:00.000000
+Kayserispor,Göztepe,2,0,7,2024-02-12 00:00:00.000000
+Kayserispor,Göztepe,3,2,8,2024-02-19 00:00:00.000000
+Kayserispor,Göztepe,2,0,9,2024-02-26 00:00:00.000000
+Kayserispor,Göztepe,2,1,10,2024-03-04 00:00:00.000000
+Kayserispor,Hatayspor,2,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Hatayspor,3,2,2,2024-01-08 00:00:00.000000
+Kayserispor,Hatayspor,3,1,3,2024-01-15 00:00:00.000000
+Kayserispor,Hatayspor,3,0,4,2024-01-22 00:00:00.000000
+Kayserispor,Hatayspor,2,1,5,2024-01-29 00:00:00.000000
+Kayserispor,Hatayspor,1,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Hatayspor,2,1,7,2024-02-12 00:00:00.000000
+Kayserispor,Hatayspor,2,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Hatayspor,2,3,9,2024-02-26 00:00:00.000000
+Kayserispor,Hatayspor,1,1,10,2024-03-04 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,2,1,1,2024-01-01 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,1,2,2,2024-01-08 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,2,0,3,2024-01-15 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,0,0,4,2024-01-22 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,1,0,5,2024-01-29 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,1,1,6,2024-02-05 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,0,2,7,2024-02-12 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,1,2,8,2024-02-19 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,0,3,9,2024-02-26 00:00:00.000000
+Kayserispor,İstanbul Başakşehir,1,1,10,2024-03-04 00:00:00.000000
+Kayserispor,Kasımpaşa,1,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Kasımpaşa,0,2,2,2024-01-08 00:00:00.000000
+Kayserispor,Kasımpaşa,2,0,3,2024-01-15 00:00:00.000000
+Kayserispor,Kasımpaşa,3,2,4,2024-01-22 00:00:00.000000
+Kayserispor,Kasımpaşa,1,0,5,2024-01-29 00:00:00.000000
+Kayserispor,Kasımpaşa,0,3,6,2024-02-05 00:00:00.000000
+Kayserispor,Kasımpaşa,2,2,7,2024-02-12 00:00:00.000000
+Kayserispor,Kasımpaşa,1,2,8,2024-02-19 00:00:00.000000
+Kayserispor,Kasımpaşa,2,3,9,2024-02-26 00:00:00.000000
+Kayserispor,Kasımpaşa,1,1,10,2024-03-04 00:00:00.000000
+Kayserispor,Konyaspor,2,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Konyaspor,1,0,2,2024-01-08 00:00:00.000000
+Kayserispor,Konyaspor,1,1,3,2024-01-15 00:00:00.000000
+Kayserispor,Konyaspor,1,2,4,2024-01-22 00:00:00.000000
+Kayserispor,Konyaspor,2,1,5,2024-01-29 00:00:00.000000
+Kayserispor,Konyaspor,1,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Konyaspor,1,0,7,2024-02-12 00:00:00.000000
+Kayserispor,Konyaspor,1,0,8,2024-02-19 00:00:00.000000
+Kayserispor,Konyaspor,2,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Konyaspor,4,0,10,2024-03-04 00:00:00.000000
+Kayserispor,Samsunspor,1,3,1,2024-01-01 00:00:00.000000
+Kayserispor,Samsunspor,2,1,2,2024-01-08 00:00:00.000000
+Kayserispor,Samsunspor,4,2,3,2024-01-15 00:00:00.000000
+Kayserispor,Samsunspor,0,2,4,2024-01-22 00:00:00.000000
+Kayserispor,Samsunspor,2,3,5,2024-01-29 00:00:00.000000
+Kayserispor,Samsunspor,4,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Samsunspor,2,1,7,2024-02-12 00:00:00.000000
+Kayserispor,Samsunspor,0,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Samsunspor,2,0,9,2024-02-26 00:00:00.000000
+Kayserispor,Samsunspor,1,2,10,2024-03-04 00:00:00.000000
+Kayserispor,Sivasspor,2,1,1,2024-01-01 00:00:00.000000
+Kayserispor,Sivasspor,0,1,2,2024-01-08 00:00:00.000000
+Kayserispor,Sivasspor,2,4,3,2024-01-15 00:00:00.000000
+Kayserispor,Sivasspor,4,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Sivasspor,0,0,5,2024-01-29 00:00:00.000000
+Kayserispor,Sivasspor,2,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Sivasspor,1,2,7,2024-02-12 00:00:00.000000
+Kayserispor,Sivasspor,4,1,8,2024-02-19 00:00:00.000000
+Kayserispor,Sivasspor,1,2,9,2024-02-26 00:00:00.000000
+Kayserispor,Sivasspor,2,2,10,2024-03-04 00:00:00.000000
+Kayserispor,Trabzonspor,2,2,1,2024-01-01 00:00:00.000000
+Kayserispor,Trabzonspor,1,3,2,2024-01-08 00:00:00.000000
+Kayserispor,Trabzonspor,3,1,3,2024-01-15 00:00:00.000000
+Kayserispor,Trabzonspor,1,1,4,2024-01-22 00:00:00.000000
+Kayserispor,Trabzonspor,1,2,5,2024-01-29 00:00:00.000000
+Kayserispor,Trabzonspor,2,1,6,2024-02-05 00:00:00.000000
+Kayserispor,Trabzonspor,1,3,7,2024-02-12 00:00:00.000000
+Kayserispor,Trabzonspor,3,3,8,2024-02-19 00:00:00.000000
+Kayserispor,Trabzonspor,1,1,9,2024-02-26 00:00:00.000000
+Kayserispor,Trabzonspor,1,1,10,2024-03-04 00:00:00.000000
+Konyaspor,Adana Demirspor,2,1,1,2024-01-01 00:00:00.000000
+Konyaspor,Adana Demirspor,2,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Adana Demirspor,1,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Adana Demirspor,1,0,4,2024-01-22 00:00:00.000000
+Konyaspor,Adana Demirspor,3,0,5,2024-01-29 00:00:00.000000
+Konyaspor,Adana Demirspor,1,2,6,2024-02-05 00:00:00.000000
+Konyaspor,Adana Demirspor,3,3,7,2024-02-12 00:00:00.000000
+Konyaspor,Adana Demirspor,4,3,8,2024-02-19 00:00:00.000000
+Konyaspor,Adana Demirspor,2,1,9,2024-02-26 00:00:00.000000
+Konyaspor,Adana Demirspor,0,1,10,2024-03-04 00:00:00.000000
+Konyaspor,Alanyaspor,3,1,1,2024-01-01 00:00:00.000000
+Konyaspor,Alanyaspor,2,0,2,2024-01-08 00:00:00.000000
+Konyaspor,Alanyaspor,0,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Alanyaspor,2,0,4,2024-01-22 00:00:00.000000
+Konyaspor,Alanyaspor,2,0,5,2024-01-29 00:00:00.000000
+Konyaspor,Alanyaspor,1,1,6,2024-02-05 00:00:00.000000
+Konyaspor,Alanyaspor,0,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Alanyaspor,2,0,8,2024-02-19 00:00:00.000000
+Konyaspor,Alanyaspor,1,2,9,2024-02-26 00:00:00.000000
+Konyaspor,Alanyaspor,1,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Antalyaspor,0,2,1,2024-01-01 00:00:00.000000
+Konyaspor,Antalyaspor,1,0,2,2024-01-08 00:00:00.000000
+Konyaspor,Antalyaspor,1,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Antalyaspor,2,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Antalyaspor,1,3,5,2024-01-29 00:00:00.000000
+Konyaspor,Antalyaspor,2,2,6,2024-02-05 00:00:00.000000
+Konyaspor,Antalyaspor,0,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Antalyaspor,1,0,8,2024-02-19 00:00:00.000000
+Konyaspor,Antalyaspor,2,1,9,2024-02-26 00:00:00.000000
+Konyaspor,Antalyaspor,2,1,10,2024-03-04 00:00:00.000000
+Konyaspor,Beşiktaş,1,4,1,2024-01-01 00:00:00.000000
+Konyaspor,Beşiktaş,2,4,2,2024-01-08 00:00:00.000000
+Konyaspor,Beşiktaş,0,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Beşiktaş,2,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Beşiktaş,0,2,5,2024-01-29 00:00:00.000000
+Konyaspor,Beşiktaş,1,1,6,2024-02-05 00:00:00.000000
+Konyaspor,Beşiktaş,0,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Beşiktaş,1,2,8,2024-02-19 00:00:00.000000
+Konyaspor,Beşiktaş,3,2,9,2024-02-26 00:00:00.000000
+Konyaspor,Beşiktaş,2,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Bodrum,1,2,1,2024-01-01 00:00:00.000000
+Konyaspor,Bodrum,0,0,2,2024-01-08 00:00:00.000000
+Konyaspor,Bodrum,2,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Bodrum,2,1,4,2024-01-22 00:00:00.000000
+Konyaspor,Bodrum,0,0,5,2024-01-29 00:00:00.000000
+Konyaspor,Bodrum,0,1,6,2024-02-05 00:00:00.000000
+Konyaspor,Bodrum,2,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Bodrum,1,1,8,2024-02-19 00:00:00.000000
+Konyaspor,Bodrum,2,0,9,2024-02-26 00:00:00.000000
+Konyaspor,Bodrum,1,2,10,2024-03-04 00:00:00.000000
+Konyaspor,Çaykur Rizespor,2,0,1,2024-01-01 00:00:00.000000
+Konyaspor,Çaykur Rizespor,2,0,2,2024-01-08 00:00:00.000000
+Konyaspor,Çaykur Rizespor,0,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Çaykur Rizespor,0,1,4,2024-01-22 00:00:00.000000
+Konyaspor,Çaykur Rizespor,1,3,5,2024-01-29 00:00:00.000000
+Konyaspor,Çaykur Rizespor,4,3,6,2024-02-05 00:00:00.000000
+Konyaspor,Çaykur Rizespor,2,0,7,2024-02-12 00:00:00.000000
+Konyaspor,Çaykur Rizespor,1,3,8,2024-02-19 00:00:00.000000
+Konyaspor,Çaykur Rizespor,1,0,9,2024-02-26 00:00:00.000000
+Konyaspor,Çaykur Rizespor,1,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Eyüpspor,2,0,1,2024-01-01 00:00:00.000000
+Konyaspor,Eyüpspor,1,0,2,2024-01-08 00:00:00.000000
+Konyaspor,Eyüpspor,2,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Eyüpspor,1,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Eyüpspor,0,1,5,2024-01-29 00:00:00.000000
+Konyaspor,Eyüpspor,0,2,6,2024-02-05 00:00:00.000000
+Konyaspor,Eyüpspor,1,1,7,2024-02-12 00:00:00.000000
+Konyaspor,Eyüpspor,4,1,8,2024-02-19 00:00:00.000000
+Konyaspor,Eyüpspor,2,1,9,2024-02-26 00:00:00.000000
+Konyaspor,Eyüpspor,0,1,10,2024-03-04 00:00:00.000000
+Konyaspor,Fenerbahçe,1,2,1,2024-01-01 00:00:00.000000
+Konyaspor,Fenerbahçe,0,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Fenerbahçe,0,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Fenerbahçe,1,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Fenerbahçe,0,3,5,2024-01-29 00:00:00.000000
+Konyaspor,Fenerbahçe,0,1,6,2024-02-05 00:00:00.000000
+Konyaspor,Fenerbahçe,1,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Fenerbahçe,0,3,8,2024-02-19 00:00:00.000000
+Konyaspor,Fenerbahçe,0,2,9,2024-02-26 00:00:00.000000
+Konyaspor,Fenerbahçe,2,2,10,2024-03-04 00:00:00.000000
+Konyaspor,Galatasaray,0,1,1,2024-01-01 00:00:00.000000
+Konyaspor,Galatasaray,1,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Galatasaray,1,2,3,2024-01-15 00:00:00.000000
+Konyaspor,Galatasaray,1,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Galatasaray,0,1,5,2024-01-29 00:00:00.000000
+Konyaspor,Galatasaray,2,2,6,2024-02-05 00:00:00.000000
+Konyaspor,Galatasaray,1,0,7,2024-02-12 00:00:00.000000
+Konyaspor,Galatasaray,1,4,8,2024-02-19 00:00:00.000000
+Konyaspor,Galatasaray,0,1,9,2024-02-26 00:00:00.000000
+Konyaspor,Galatasaray,0,2,10,2024-03-04 00:00:00.000000
+Konyaspor,Gaziantep,1,2,1,2024-01-01 00:00:00.000000
+Konyaspor,Gaziantep,1,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Gaziantep,2,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Gaziantep,2,0,4,2024-01-22 00:00:00.000000
+Konyaspor,Gaziantep,2,2,5,2024-01-29 00:00:00.000000
+Konyaspor,Gaziantep,1,1,6,2024-02-05 00:00:00.000000
+Konyaspor,Gaziantep,2,0,7,2024-02-12 00:00:00.000000
+Konyaspor,Gaziantep,2,3,8,2024-02-19 00:00:00.000000
+Konyaspor,Gaziantep,4,1,9,2024-02-26 00:00:00.000000
+Konyaspor,Gaziantep,2,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Göztepe,2,2,1,2024-01-01 00:00:00.000000
+Konyaspor,Göztepe,1,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Göztepe,2,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Göztepe,1,1,4,2024-01-22 00:00:00.000000
+Konyaspor,Göztepe,1,1,5,2024-01-29 00:00:00.000000
+Konyaspor,Göztepe,2,3,6,2024-02-05 00:00:00.000000
+Konyaspor,Göztepe,2,0,7,2024-02-12 00:00:00.000000
+Konyaspor,Göztepe,1,0,8,2024-02-19 00:00:00.000000
+Konyaspor,Göztepe,2,3,9,2024-02-26 00:00:00.000000
+Konyaspor,Göztepe,1,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Hatayspor,1,2,1,2024-01-01 00:00:00.000000
+Konyaspor,Hatayspor,2,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Hatayspor,4,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Hatayspor,0,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Hatayspor,1,1,5,2024-01-29 00:00:00.000000
+Konyaspor,Hatayspor,2,0,6,2024-02-05 00:00:00.000000
+Konyaspor,Hatayspor,1,0,7,2024-02-12 00:00:00.000000
+Konyaspor,Hatayspor,2,1,8,2024-02-19 00:00:00.000000
+Konyaspor,Hatayspor,0,1,9,2024-02-26 00:00:00.000000
+Konyaspor,Hatayspor,0,2,10,2024-03-04 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,1,0,1,2024-01-01 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,1,1,2,2024-01-08 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,0,1,3,2024-01-15 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,2,2,4,2024-01-22 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,2,3,5,2024-01-29 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,1,1,6,2024-02-05 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,0,3,7,2024-02-12 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,1,2,8,2024-02-19 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,1,1,9,2024-02-26 00:00:00.000000
+Konyaspor,İstanbul Başakşehir,2,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Kasımpaşa,1,3,1,2024-01-01 00:00:00.000000
+Konyaspor,Kasımpaşa,0,0,2,2024-01-08 00:00:00.000000
+Konyaspor,Kasımpaşa,1,0,3,2024-01-15 00:00:00.000000
+Konyaspor,Kasımpaşa,0,1,4,2024-01-22 00:00:00.000000
+Konyaspor,Kasımpaşa,3,1,5,2024-01-29 00:00:00.000000
+Konyaspor,Kasımpaşa,1,1,6,2024-02-05 00:00:00.000000
+Konyaspor,Kasımpaşa,1,0,7,2024-02-12 00:00:00.000000
+Konyaspor,Kasımpaşa,1,3,8,2024-02-19 00:00:00.000000
+Konyaspor,Kasımpaşa,2,2,9,2024-02-26 00:00:00.000000
+Konyaspor,Kasımpaşa,0,0,10,2024-03-04 00:00:00.000000
+Konyaspor,Kayserispor,2,0,1,2024-01-01 00:00:00.000000
+Konyaspor,Kayserispor,1,1,2,2024-01-08 00:00:00.000000
+Konyaspor,Kayserispor,2,3,3,2024-01-15 00:00:00.000000
+Konyaspor,Kayserispor,1,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Kayserispor,1,0,5,2024-01-29 00:00:00.000000
+Konyaspor,Kayserispor,2,0,6,2024-02-05 00:00:00.000000
+Konyaspor,Kayserispor,1,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Kayserispor,2,2,8,2024-02-19 00:00:00.000000
+Konyaspor,Kayserispor,1,0,9,2024-02-26 00:00:00.000000
+Konyaspor,Kayserispor,1,3,10,2024-03-04 00:00:00.000000
+Konyaspor,Samsunspor,0,0,1,2024-01-01 00:00:00.000000
+Konyaspor,Samsunspor,1,2,2,2024-01-08 00:00:00.000000
+Konyaspor,Samsunspor,3,2,3,2024-01-15 00:00:00.000000
+Konyaspor,Samsunspor,1,2,4,2024-01-22 00:00:00.000000
+Konyaspor,Samsunspor,4,0,5,2024-01-29 00:00:00.000000
+Konyaspor,Samsunspor,2,3,6,2024-02-05 00:00:00.000000
+Konyaspor,Samsunspor,2,1,7,2024-02-12 00:00:00.000000
+Konyaspor,Samsunspor,2,1,8,2024-02-19 00:00:00.000000
+Konyaspor,Samsunspor,1,0,9,2024-02-26 00:00:00.000000
+Konyaspor,Samsunspor,1,1,10,2024-03-04 00:00:00.000000
+Konyaspor,Sivasspor,1,0,1,2024-01-01 00:00:00.000000
+Konyaspor,Sivasspor,1,3,2,2024-01-08 00:00:00.000000
+Konyaspor,Sivasspor,1,1,3,2024-01-15 00:00:00.000000
+Konyaspor,Sivasspor,0,0,4,2024-01-22 00:00:00.000000
+Konyaspor,Sivasspor,0,1,5,2024-01-29 00:00:00.000000
+Konyaspor,Sivasspor,1,2,6,2024-02-05 00:00:00.000000
+Konyaspor,Sivasspor,1,1,7,2024-02-12 00:00:00.000000
+Konyaspor,Sivasspor,3,0,8,2024-02-19 00:00:00.000000
+Konyaspor,Sivasspor,1,2,9,2024-02-26 00:00:00.000000
+Konyaspor,Sivasspor,0,3,10,2024-03-04 00:00:00.000000
+Konyaspor,Trabzonspor,2,3,1,2024-01-01 00:00:00.000000
+Konyaspor,Trabzonspor,1,3,2,2024-01-08 00:00:00.000000
+Konyaspor,Trabzonspor,1,0,3,2024-01-15 00:00:00.000000
+Konyaspor,Trabzonspor,0,3,4,2024-01-22 00:00:00.000000
+Konyaspor,Trabzonspor,1,2,5,2024-01-29 00:00:00.000000
+Konyaspor,Trabzonspor,2,2,6,2024-02-05 00:00:00.000000
+Konyaspor,Trabzonspor,3,2,7,2024-02-12 00:00:00.000000
+Konyaspor,Trabzonspor,1,3,8,2024-02-19 00:00:00.000000
+Konyaspor,Trabzonspor,0,2,9,2024-02-26 00:00:00.000000
+Konyaspor,Trabzonspor,1,1,10,2024-03-04 00:00:00.000000
+Samsunspor,Adana Demirspor,1,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Adana Demirspor,2,2,2,2024-01-08 00:00:00.000000
+Samsunspor,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Adana Demirspor,3,1,4,2024-01-22 00:00:00.000000
+Samsunspor,Adana Demirspor,2,1,5,2024-01-29 00:00:00.000000
+Samsunspor,Adana Demirspor,1,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Adana Demirspor,2,0,7,2024-02-12 00:00:00.000000
+Samsunspor,Adana Demirspor,2,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Adana Demirspor,1,4,9,2024-02-26 00:00:00.000000
+Samsunspor,Adana Demirspor,4,4,10,2024-03-04 00:00:00.000000
+Samsunspor,Alanyaspor,2,1,1,2024-01-01 00:00:00.000000
+Samsunspor,Alanyaspor,2,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Alanyaspor,0,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Alanyaspor,1,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Alanyaspor,2,2,5,2024-01-29 00:00:00.000000
+Samsunspor,Alanyaspor,2,1,6,2024-02-05 00:00:00.000000
+Samsunspor,Alanyaspor,2,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Alanyaspor,1,0,8,2024-02-19 00:00:00.000000
+Samsunspor,Alanyaspor,3,2,9,2024-02-26 00:00:00.000000
+Samsunspor,Alanyaspor,2,0,10,2024-03-04 00:00:00.000000
+Samsunspor,Antalyaspor,1,3,1,2024-01-01 00:00:00.000000
+Samsunspor,Antalyaspor,2,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Antalyaspor,2,0,3,2024-01-15 00:00:00.000000
+Samsunspor,Antalyaspor,1,1,4,2024-01-22 00:00:00.000000
+Samsunspor,Antalyaspor,1,1,5,2024-01-29 00:00:00.000000
+Samsunspor,Antalyaspor,2,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Antalyaspor,2,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Antalyaspor,2,1,8,2024-02-19 00:00:00.000000
+Samsunspor,Antalyaspor,2,0,9,2024-02-26 00:00:00.000000
+Samsunspor,Antalyaspor,1,2,10,2024-03-04 00:00:00.000000
+Samsunspor,Beşiktaş,2,2,1,2024-01-01 00:00:00.000000
+Samsunspor,Beşiktaş,2,0,2,2024-01-08 00:00:00.000000
+Samsunspor,Beşiktaş,3,2,3,2024-01-15 00:00:00.000000
+Samsunspor,Beşiktaş,2,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Beşiktaş,2,1,5,2024-01-29 00:00:00.000000
+Samsunspor,Beşiktaş,1,2,6,2024-02-05 00:00:00.000000
+Samsunspor,Beşiktaş,0,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Beşiktaş,0,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Beşiktaş,2,0,9,2024-02-26 00:00:00.000000
+Samsunspor,Beşiktaş,1,2,10,2024-03-04 00:00:00.000000
+Samsunspor,Bodrum,2,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Bodrum,1,0,2,2024-01-08 00:00:00.000000
+Samsunspor,Bodrum,2,0,3,2024-01-15 00:00:00.000000
+Samsunspor,Bodrum,0,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Bodrum,1,3,5,2024-01-29 00:00:00.000000
+Samsunspor,Bodrum,4,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Bodrum,2,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Bodrum,1,1,8,2024-02-19 00:00:00.000000
+Samsunspor,Bodrum,0,1,9,2024-02-26 00:00:00.000000
+Samsunspor,Bodrum,3,1,10,2024-03-04 00:00:00.000000
+Samsunspor,Çaykur Rizespor,0,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Çaykur Rizespor,1,0,2,2024-01-08 00:00:00.000000
+Samsunspor,Çaykur Rizespor,1,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Çaykur Rizespor,2,0,4,2024-01-22 00:00:00.000000
+Samsunspor,Çaykur Rizespor,0,0,5,2024-01-29 00:00:00.000000
+Samsunspor,Çaykur Rizespor,1,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Çaykur Rizespor,0,2,7,2024-02-12 00:00:00.000000
+Samsunspor,Çaykur Rizespor,2,0,8,2024-02-19 00:00:00.000000
+Samsunspor,Çaykur Rizespor,2,3,9,2024-02-26 00:00:00.000000
+Samsunspor,Çaykur Rizespor,0,1,10,2024-03-04 00:00:00.000000
+Samsunspor,Eyüpspor,2,2,1,2024-01-01 00:00:00.000000
+Samsunspor,Eyüpspor,2,2,2,2024-01-08 00:00:00.000000
+Samsunspor,Eyüpspor,1,0,3,2024-01-15 00:00:00.000000
+Samsunspor,Eyüpspor,2,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Eyüpspor,2,2,5,2024-01-29 00:00:00.000000
+Samsunspor,Eyüpspor,0,2,6,2024-02-05 00:00:00.000000
+Samsunspor,Eyüpspor,3,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Eyüpspor,2,3,8,2024-02-19 00:00:00.000000
+Samsunspor,Eyüpspor,2,0,9,2024-02-26 00:00:00.000000
+Samsunspor,Eyüpspor,3,4,10,2024-03-04 00:00:00.000000
+Samsunspor,Fenerbahçe,1,1,1,2024-01-01 00:00:00.000000
+Samsunspor,Fenerbahçe,0,4,2,2024-01-08 00:00:00.000000
+Samsunspor,Fenerbahçe,2,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Fenerbahçe,0,3,4,2024-01-22 00:00:00.000000
+Samsunspor,Fenerbahçe,0,2,5,2024-01-29 00:00:00.000000
+Samsunspor,Fenerbahçe,0,1,6,2024-02-05 00:00:00.000000
+Samsunspor,Fenerbahçe,1,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Fenerbahçe,0,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Fenerbahçe,1,1,9,2024-02-26 00:00:00.000000
+Samsunspor,Fenerbahçe,3,3,10,2024-03-04 00:00:00.000000
+Samsunspor,Galatasaray,0,1,1,2024-01-01 00:00:00.000000
+Samsunspor,Galatasaray,1,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Galatasaray,0,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Galatasaray,0,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Galatasaray,1,0,5,2024-01-29 00:00:00.000000
+Samsunspor,Galatasaray,1,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Galatasaray,3,2,7,2024-02-12 00:00:00.000000
+Samsunspor,Galatasaray,0,1,8,2024-02-19 00:00:00.000000
+Samsunspor,Galatasaray,0,2,9,2024-02-26 00:00:00.000000
+Samsunspor,Galatasaray,1,4,10,2024-03-04 00:00:00.000000
+Samsunspor,Gaziantep,2,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Gaziantep,2,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Gaziantep,0,2,3,2024-01-15 00:00:00.000000
+Samsunspor,Gaziantep,1,0,4,2024-01-22 00:00:00.000000
+Samsunspor,Gaziantep,0,1,5,2024-01-29 00:00:00.000000
+Samsunspor,Gaziantep,1,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Gaziantep,2,2,7,2024-02-12 00:00:00.000000
+Samsunspor,Gaziantep,4,1,8,2024-02-19 00:00:00.000000
+Samsunspor,Gaziantep,0,1,9,2024-02-26 00:00:00.000000
+Samsunspor,Gaziantep,2,1,10,2024-03-04 00:00:00.000000
+Samsunspor,Göztepe,1,2,1,2024-01-01 00:00:00.000000
+Samsunspor,Göztepe,1,0,2,2024-01-08 00:00:00.000000
+Samsunspor,Göztepe,1,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Göztepe,0,1,4,2024-01-22 00:00:00.000000
+Samsunspor,Göztepe,3,2,5,2024-01-29 00:00:00.000000
+Samsunspor,Göztepe,0,1,6,2024-02-05 00:00:00.000000
+Samsunspor,Göztepe,0,0,7,2024-02-12 00:00:00.000000
+Samsunspor,Göztepe,1,1,8,2024-02-19 00:00:00.000000
+Samsunspor,Göztepe,1,2,9,2024-02-26 00:00:00.000000
+Samsunspor,Göztepe,0,1,10,2024-03-04 00:00:00.000000
+Samsunspor,Hatayspor,1,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Hatayspor,0,2,2,2024-01-08 00:00:00.000000
+Samsunspor,Hatayspor,1,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Hatayspor,2,3,4,2024-01-22 00:00:00.000000
+Samsunspor,Hatayspor,1,3,5,2024-01-29 00:00:00.000000
+Samsunspor,Hatayspor,2,1,6,2024-02-05 00:00:00.000000
+Samsunspor,Hatayspor,1,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Hatayspor,1,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Hatayspor,0,2,9,2024-02-26 00:00:00.000000
+Samsunspor,Hatayspor,1,0,10,2024-03-04 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,2,2,1,2024-01-01 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,2,2,2,2024-01-08 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,2,2,3,2024-01-15 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,1,3,4,2024-01-22 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,4,2,5,2024-01-29 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,2,1,6,2024-02-05 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,1,1,7,2024-02-12 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,0,1,8,2024-02-19 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,1,0,9,2024-02-26 00:00:00.000000
+Samsunspor,İstanbul Başakşehir,2,2,10,2024-03-04 00:00:00.000000
+Samsunspor,Kasımpaşa,0,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Kasımpaşa,0,0,2,2024-01-08 00:00:00.000000
+Samsunspor,Kasımpaşa,0,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Kasımpaşa,2,0,4,2024-01-22 00:00:00.000000
+Samsunspor,Kasımpaşa,3,0,5,2024-01-29 00:00:00.000000
+Samsunspor,Kasımpaşa,0,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Kasımpaşa,0,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Kasımpaşa,0,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Kasımpaşa,0,0,9,2024-02-26 00:00:00.000000
+Samsunspor,Kasımpaşa,3,0,10,2024-03-04 00:00:00.000000
+Samsunspor,Kayserispor,3,0,1,2024-01-01 00:00:00.000000
+Samsunspor,Kayserispor,2,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Kayserispor,2,0,3,2024-01-15 00:00:00.000000
+Samsunspor,Kayserispor,2,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Kayserispor,3,0,5,2024-01-29 00:00:00.000000
+Samsunspor,Kayserispor,3,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Kayserispor,1,1,7,2024-02-12 00:00:00.000000
+Samsunspor,Kayserispor,2,3,8,2024-02-19 00:00:00.000000
+Samsunspor,Kayserispor,2,1,9,2024-02-26 00:00:00.000000
+Samsunspor,Kayserispor,2,3,10,2024-03-04 00:00:00.000000
+Samsunspor,Konyaspor,1,2,1,2024-01-01 00:00:00.000000
+Samsunspor,Konyaspor,2,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Konyaspor,1,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Konyaspor,3,2,4,2024-01-22 00:00:00.000000
+Samsunspor,Konyaspor,3,1,5,2024-01-29 00:00:00.000000
+Samsunspor,Konyaspor,2,0,6,2024-02-05 00:00:00.000000
+Samsunspor,Konyaspor,2,2,7,2024-02-12 00:00:00.000000
+Samsunspor,Konyaspor,1,1,8,2024-02-19 00:00:00.000000
+Samsunspor,Konyaspor,4,0,9,2024-02-26 00:00:00.000000
+Samsunspor,Konyaspor,2,2,10,2024-03-04 00:00:00.000000
+Samsunspor,Sivasspor,0,1,1,2024-01-01 00:00:00.000000
+Samsunspor,Sivasspor,0,1,2,2024-01-08 00:00:00.000000
+Samsunspor,Sivasspor,1,2,3,2024-01-15 00:00:00.000000
+Samsunspor,Sivasspor,1,1,4,2024-01-22 00:00:00.000000
+Samsunspor,Sivasspor,3,3,5,2024-01-29 00:00:00.000000
+Samsunspor,Sivasspor,1,2,6,2024-02-05 00:00:00.000000
+Samsunspor,Sivasspor,2,3,7,2024-02-12 00:00:00.000000
+Samsunspor,Sivasspor,1,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Sivasspor,1,1,9,2024-02-26 00:00:00.000000
+Samsunspor,Sivasspor,0,0,10,2024-03-04 00:00:00.000000
+Samsunspor,Trabzonspor,1,1,1,2024-01-01 00:00:00.000000
+Samsunspor,Trabzonspor,0,0,2,2024-01-08 00:00:00.000000
+Samsunspor,Trabzonspor,3,1,3,2024-01-15 00:00:00.000000
+Samsunspor,Trabzonspor,3,1,4,2024-01-22 00:00:00.000000
+Samsunspor,Trabzonspor,0,2,5,2024-01-29 00:00:00.000000
+Samsunspor,Trabzonspor,3,3,6,2024-02-05 00:00:00.000000
+Samsunspor,Trabzonspor,0,2,7,2024-02-12 00:00:00.000000
+Samsunspor,Trabzonspor,1,2,8,2024-02-19 00:00:00.000000
+Samsunspor,Trabzonspor,1,1,9,2024-02-26 00:00:00.000000
+Samsunspor,Trabzonspor,1,4,10,2024-03-04 00:00:00.000000
+Sivasspor,Adana Demirspor,1,0,1,2024-01-01 00:00:00.000000
+Sivasspor,Adana Demirspor,3,1,2,2024-01-08 00:00:00.000000
+Sivasspor,Adana Demirspor,2,0,3,2024-01-15 00:00:00.000000
+Sivasspor,Adana Demirspor,0,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Adana Demirspor,1,0,5,2024-01-29 00:00:00.000000
+Sivasspor,Adana Demirspor,1,2,6,2024-02-05 00:00:00.000000
+Sivasspor,Adana Demirspor,3,3,7,2024-02-12 00:00:00.000000
+Sivasspor,Adana Demirspor,2,0,8,2024-02-19 00:00:00.000000
+Sivasspor,Adana Demirspor,4,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Adana Demirspor,1,2,10,2024-03-04 00:00:00.000000
+Sivasspor,Alanyaspor,1,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Alanyaspor,0,1,2,2024-01-08 00:00:00.000000
+Sivasspor,Alanyaspor,0,0,3,2024-01-15 00:00:00.000000
+Sivasspor,Alanyaspor,1,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Alanyaspor,0,2,5,2024-01-29 00:00:00.000000
+Sivasspor,Alanyaspor,1,1,6,2024-02-05 00:00:00.000000
+Sivasspor,Alanyaspor,0,3,7,2024-02-12 00:00:00.000000
+Sivasspor,Alanyaspor,1,0,8,2024-02-19 00:00:00.000000
+Sivasspor,Alanyaspor,0,3,9,2024-02-26 00:00:00.000000
+Sivasspor,Alanyaspor,2,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Antalyaspor,0,1,1,2024-01-01 00:00:00.000000
+Sivasspor,Antalyaspor,1,0,2,2024-01-08 00:00:00.000000
+Sivasspor,Antalyaspor,1,2,3,2024-01-15 00:00:00.000000
+Sivasspor,Antalyaspor,1,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Antalyaspor,2,2,5,2024-01-29 00:00:00.000000
+Sivasspor,Antalyaspor,4,1,6,2024-02-05 00:00:00.000000
+Sivasspor,Antalyaspor,1,0,7,2024-02-12 00:00:00.000000
+Sivasspor,Antalyaspor,1,1,8,2024-02-19 00:00:00.000000
+Sivasspor,Antalyaspor,4,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Antalyaspor,0,3,10,2024-03-04 00:00:00.000000
+Sivasspor,Beşiktaş,2,3,1,2024-01-01 00:00:00.000000
+Sivasspor,Beşiktaş,3,2,2,2024-01-08 00:00:00.000000
+Sivasspor,Beşiktaş,1,3,3,2024-01-15 00:00:00.000000
+Sivasspor,Beşiktaş,0,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Beşiktaş,2,2,5,2024-01-29 00:00:00.000000
+Sivasspor,Beşiktaş,0,4,6,2024-02-05 00:00:00.000000
+Sivasspor,Beşiktaş,0,3,7,2024-02-12 00:00:00.000000
+Sivasspor,Beşiktaş,1,3,8,2024-02-19 00:00:00.000000
+Sivasspor,Beşiktaş,0,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Beşiktaş,1,0,10,2024-03-04 00:00:00.000000
+Sivasspor,Bodrum,2,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Bodrum,1,2,2,2024-01-08 00:00:00.000000
+Sivasspor,Bodrum,1,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Bodrum,1,2,4,2024-01-22 00:00:00.000000
+Sivasspor,Bodrum,1,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Bodrum,2,0,6,2024-02-05 00:00:00.000000
+Sivasspor,Bodrum,4,0,7,2024-02-12 00:00:00.000000
+Sivasspor,Bodrum,1,1,8,2024-02-19 00:00:00.000000
+Sivasspor,Bodrum,2,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Bodrum,2,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Çaykur Rizespor,0,0,1,2024-01-01 00:00:00.000000
+Sivasspor,Çaykur Rizespor,1,0,2,2024-01-08 00:00:00.000000
+Sivasspor,Çaykur Rizespor,1,0,3,2024-01-15 00:00:00.000000
+Sivasspor,Çaykur Rizespor,0,3,4,2024-01-22 00:00:00.000000
+Sivasspor,Çaykur Rizespor,2,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Çaykur Rizespor,2,1,6,2024-02-05 00:00:00.000000
+Sivasspor,Çaykur Rizespor,3,1,7,2024-02-12 00:00:00.000000
+Sivasspor,Çaykur Rizespor,1,0,8,2024-02-19 00:00:00.000000
+Sivasspor,Çaykur Rizespor,2,0,9,2024-02-26 00:00:00.000000
+Sivasspor,Çaykur Rizespor,2,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Eyüpspor,4,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Eyüpspor,1,0,2,2024-01-08 00:00:00.000000
+Sivasspor,Eyüpspor,2,2,3,2024-01-15 00:00:00.000000
+Sivasspor,Eyüpspor,2,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Eyüpspor,0,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Eyüpspor,0,0,6,2024-02-05 00:00:00.000000
+Sivasspor,Eyüpspor,1,3,7,2024-02-12 00:00:00.000000
+Sivasspor,Eyüpspor,0,1,8,2024-02-19 00:00:00.000000
+Sivasspor,Eyüpspor,2,0,9,2024-02-26 00:00:00.000000
+Sivasspor,Eyüpspor,0,0,10,2024-03-04 00:00:00.000000
+Sivasspor,Fenerbahçe,0,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Fenerbahçe,0,2,2,2024-01-08 00:00:00.000000
+Sivasspor,Fenerbahçe,0,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Fenerbahçe,1,1,4,2024-01-22 00:00:00.000000
+Sivasspor,Fenerbahçe,2,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Fenerbahçe,2,1,6,2024-02-05 00:00:00.000000
+Sivasspor,Fenerbahçe,3,2,7,2024-02-12 00:00:00.000000
+Sivasspor,Fenerbahçe,2,0,8,2024-02-19 00:00:00.000000
+Sivasspor,Fenerbahçe,0,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Fenerbahçe,1,2,10,2024-03-04 00:00:00.000000
+Sivasspor,Galatasaray,1,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Galatasaray,1,2,2,2024-01-08 00:00:00.000000
+Sivasspor,Galatasaray,0,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Galatasaray,3,1,4,2024-01-22 00:00:00.000000
+Sivasspor,Galatasaray,0,2,5,2024-01-29 00:00:00.000000
+Sivasspor,Galatasaray,3,2,6,2024-02-05 00:00:00.000000
+Sivasspor,Galatasaray,2,2,7,2024-02-12 00:00:00.000000
+Sivasspor,Galatasaray,0,3,8,2024-02-19 00:00:00.000000
+Sivasspor,Galatasaray,0,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Galatasaray,0,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Gaziantep,2,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Gaziantep,3,0,2,2024-01-08 00:00:00.000000
+Sivasspor,Gaziantep,2,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Gaziantep,0,3,4,2024-01-22 00:00:00.000000
+Sivasspor,Gaziantep,1,0,5,2024-01-29 00:00:00.000000
+Sivasspor,Gaziantep,1,1,6,2024-02-05 00:00:00.000000
+Sivasspor,Gaziantep,1,0,7,2024-02-12 00:00:00.000000
+Sivasspor,Gaziantep,1,3,8,2024-02-19 00:00:00.000000
+Sivasspor,Gaziantep,1,3,9,2024-02-26 00:00:00.000000
+Sivasspor,Gaziantep,2,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Göztepe,1,0,1,2024-01-01 00:00:00.000000
+Sivasspor,Göztepe,2,1,2,2024-01-08 00:00:00.000000
+Sivasspor,Göztepe,1,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Göztepe,4,2,4,2024-01-22 00:00:00.000000
+Sivasspor,Göztepe,1,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Göztepe,4,4,6,2024-02-05 00:00:00.000000
+Sivasspor,Göztepe,2,0,7,2024-02-12 00:00:00.000000
+Sivasspor,Göztepe,1,1,8,2024-02-19 00:00:00.000000
+Sivasspor,Göztepe,1,0,9,2024-02-26 00:00:00.000000
+Sivasspor,Göztepe,4,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Hatayspor,2,4,1,2024-01-01 00:00:00.000000
+Sivasspor,Hatayspor,0,0,2,2024-01-08 00:00:00.000000
+Sivasspor,Hatayspor,2,0,3,2024-01-15 00:00:00.000000
+Sivasspor,Hatayspor,3,1,4,2024-01-22 00:00:00.000000
+Sivasspor,Hatayspor,1,0,5,2024-01-29 00:00:00.000000
+Sivasspor,Hatayspor,2,2,6,2024-02-05 00:00:00.000000
+Sivasspor,Hatayspor,0,1,7,2024-02-12 00:00:00.000000
+Sivasspor,Hatayspor,2,0,8,2024-02-19 00:00:00.000000
+Sivasspor,Hatayspor,2,0,9,2024-02-26 00:00:00.000000
+Sivasspor,Hatayspor,0,3,10,2024-03-04 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,4,0,1,2024-01-01 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,0,1,2,2024-01-08 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,3,1,3,2024-01-15 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,1,0,4,2024-01-22 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,0,4,5,2024-01-29 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,0,0,6,2024-02-05 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,2,0,7,2024-02-12 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,1,0,8,2024-02-19 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,2,2,9,2024-02-26 00:00:00.000000
+Sivasspor,İstanbul Başakşehir,0,4,10,2024-03-04 00:00:00.000000
+Sivasspor,Kasımpaşa,2,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Kasımpaşa,1,1,2,2024-01-08 00:00:00.000000
+Sivasspor,Kasımpaşa,2,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Kasımpaşa,1,2,4,2024-01-22 00:00:00.000000
+Sivasspor,Kasımpaşa,2,0,5,2024-01-29 00:00:00.000000
+Sivasspor,Kasımpaşa,1,3,6,2024-02-05 00:00:00.000000
+Sivasspor,Kasımpaşa,1,0,7,2024-02-12 00:00:00.000000
+Sivasspor,Kasımpaşa,2,0,8,2024-02-19 00:00:00.000000
+Sivasspor,Kasımpaşa,2,0,9,2024-02-26 00:00:00.000000
+Sivasspor,Kasımpaşa,0,0,10,2024-03-04 00:00:00.000000
+Sivasspor,Kayserispor,4,2,1,2024-01-01 00:00:00.000000
+Sivasspor,Kayserispor,0,2,2,2024-01-08 00:00:00.000000
+Sivasspor,Kayserispor,1,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Kayserispor,1,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Kayserispor,2,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Kayserispor,4,0,6,2024-02-05 00:00:00.000000
+Sivasspor,Kayserispor,1,2,7,2024-02-12 00:00:00.000000
+Sivasspor,Kayserispor,1,1,8,2024-02-19 00:00:00.000000
+Sivasspor,Kayserispor,3,2,9,2024-02-26 00:00:00.000000
+Sivasspor,Kayserispor,4,0,10,2024-03-04 00:00:00.000000
+Sivasspor,Konyaspor,0,0,1,2024-01-01 00:00:00.000000
+Sivasspor,Konyaspor,0,1,2,2024-01-08 00:00:00.000000
+Sivasspor,Konyaspor,2,2,3,2024-01-15 00:00:00.000000
+Sivasspor,Konyaspor,1,2,4,2024-01-22 00:00:00.000000
+Sivasspor,Konyaspor,3,2,5,2024-01-29 00:00:00.000000
+Sivasspor,Konyaspor,3,0,6,2024-02-05 00:00:00.000000
+Sivasspor,Konyaspor,1,3,7,2024-02-12 00:00:00.000000
+Sivasspor,Konyaspor,2,2,8,2024-02-19 00:00:00.000000
+Sivasspor,Konyaspor,0,0,9,2024-02-26 00:00:00.000000
+Sivasspor,Konyaspor,1,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Samsunspor,2,3,1,2024-01-01 00:00:00.000000
+Sivasspor,Samsunspor,4,0,2,2024-01-08 00:00:00.000000
+Sivasspor,Samsunspor,0,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Samsunspor,2,1,4,2024-01-22 00:00:00.000000
+Sivasspor,Samsunspor,0,2,5,2024-01-29 00:00:00.000000
+Sivasspor,Samsunspor,2,1,6,2024-02-05 00:00:00.000000
+Sivasspor,Samsunspor,1,1,7,2024-02-12 00:00:00.000000
+Sivasspor,Samsunspor,1,1,8,2024-02-19 00:00:00.000000
+Sivasspor,Samsunspor,3,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Samsunspor,1,1,10,2024-03-04 00:00:00.000000
+Sivasspor,Trabzonspor,1,0,1,2024-01-01 00:00:00.000000
+Sivasspor,Trabzonspor,3,1,2,2024-01-08 00:00:00.000000
+Sivasspor,Trabzonspor,2,1,3,2024-01-15 00:00:00.000000
+Sivasspor,Trabzonspor,1,0,4,2024-01-22 00:00:00.000000
+Sivasspor,Trabzonspor,1,1,5,2024-01-29 00:00:00.000000
+Sivasspor,Trabzonspor,0,2,6,2024-02-05 00:00:00.000000
+Sivasspor,Trabzonspor,1,2,7,2024-02-12 00:00:00.000000
+Sivasspor,Trabzonspor,3,2,8,2024-02-19 00:00:00.000000
+Sivasspor,Trabzonspor,1,1,9,2024-02-26 00:00:00.000000
+Sivasspor,Trabzonspor,4,2,10,2024-03-04 00:00:00.000000
+Trabzonspor,Adana Demirspor,0,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,Adana Demirspor,2,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Adana Demirspor,2,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,Adana Demirspor,4,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Adana Demirspor,2,1,5,2024-01-29 00:00:00.000000
+Trabzonspor,Adana Demirspor,4,1,6,2024-02-05 00:00:00.000000
+Trabzonspor,Adana Demirspor,3,2,7,2024-02-12 00:00:00.000000
+Trabzonspor,Adana Demirspor,1,3,8,2024-02-19 00:00:00.000000
+Trabzonspor,Adana Demirspor,1,2,9,2024-02-26 00:00:00.000000
+Trabzonspor,Adana Demirspor,3,0,10,2024-03-04 00:00:00.000000
+Trabzonspor,Alanyaspor,2,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,Alanyaspor,3,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Alanyaspor,2,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,Alanyaspor,2,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Alanyaspor,2,1,5,2024-01-29 00:00:00.000000
+Trabzonspor,Alanyaspor,1,0,6,2024-02-05 00:00:00.000000
+Trabzonspor,Alanyaspor,1,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Alanyaspor,2,0,8,2024-02-19 00:00:00.000000
+Trabzonspor,Alanyaspor,3,0,9,2024-02-26 00:00:00.000000
+Trabzonspor,Alanyaspor,3,2,10,2024-03-04 00:00:00.000000
+Trabzonspor,Antalyaspor,0,1,1,2024-01-01 00:00:00.000000
+Trabzonspor,Antalyaspor,1,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Antalyaspor,0,0,3,2024-01-15 00:00:00.000000
+Trabzonspor,Antalyaspor,4,2,4,2024-01-22 00:00:00.000000
+Trabzonspor,Antalyaspor,1,4,5,2024-01-29 00:00:00.000000
+Trabzonspor,Antalyaspor,2,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Antalyaspor,4,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Antalyaspor,2,0,8,2024-02-19 00:00:00.000000
+Trabzonspor,Antalyaspor,1,1,9,2024-02-26 00:00:00.000000
+Trabzonspor,Antalyaspor,3,2,10,2024-03-04 00:00:00.000000
+Trabzonspor,Beşiktaş,1,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,Beşiktaş,3,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Beşiktaş,0,0,3,2024-01-15 00:00:00.000000
+Trabzonspor,Beşiktaş,2,0,4,2024-01-22 00:00:00.000000
+Trabzonspor,Beşiktaş,2,2,5,2024-01-29 00:00:00.000000
+Trabzonspor,Beşiktaş,2,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Beşiktaş,2,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Beşiktaş,2,1,8,2024-02-19 00:00:00.000000
+Trabzonspor,Beşiktaş,1,3,9,2024-02-26 00:00:00.000000
+Trabzonspor,Beşiktaş,3,1,10,2024-03-04 00:00:00.000000
+Trabzonspor,Bodrum,2,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,Bodrum,0,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Bodrum,2,2,3,2024-01-15 00:00:00.000000
+Trabzonspor,Bodrum,0,2,4,2024-01-22 00:00:00.000000
+Trabzonspor,Bodrum,2,2,5,2024-01-29 00:00:00.000000
+Trabzonspor,Bodrum,1,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Bodrum,2,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Bodrum,4,2,8,2024-02-19 00:00:00.000000
+Trabzonspor,Bodrum,0,0,9,2024-02-26 00:00:00.000000
+Trabzonspor,Bodrum,2,2,10,2024-03-04 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,4,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,3,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,1,2,3,2024-01-15 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,2,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,1,1,5,2024-01-29 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,3,0,6,2024-02-05 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,2,1,7,2024-02-12 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,0,2,8,2024-02-19 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,2,2,9,2024-02-26 00:00:00.000000
+Trabzonspor,Çaykur Rizespor,1,3,10,2024-03-04 00:00:00.000000
+Trabzonspor,Eyüpspor,0,1,1,2024-01-01 00:00:00.000000
+Trabzonspor,Eyüpspor,3,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Eyüpspor,2,2,3,2024-01-15 00:00:00.000000
+Trabzonspor,Eyüpspor,2,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Eyüpspor,0,0,5,2024-01-29 00:00:00.000000
+Trabzonspor,Eyüpspor,0,1,6,2024-02-05 00:00:00.000000
+Trabzonspor,Eyüpspor,2,1,7,2024-02-12 00:00:00.000000
+Trabzonspor,Eyüpspor,3,1,8,2024-02-19 00:00:00.000000
+Trabzonspor,Eyüpspor,2,1,9,2024-02-26 00:00:00.000000
+Trabzonspor,Eyüpspor,1,2,10,2024-03-04 00:00:00.000000
+Trabzonspor,Fenerbahçe,1,1,1,2024-01-01 00:00:00.000000
+Trabzonspor,Fenerbahçe,0,3,2,2024-01-08 00:00:00.000000
+Trabzonspor,Fenerbahçe,4,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,Fenerbahçe,2,3,4,2024-01-22 00:00:00.000000
+Trabzonspor,Fenerbahçe,2,2,5,2024-01-29 00:00:00.000000
+Trabzonspor,Fenerbahçe,3,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Fenerbahçe,1,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Fenerbahçe,2,2,8,2024-02-19 00:00:00.000000
+Trabzonspor,Fenerbahçe,1,1,9,2024-02-26 00:00:00.000000
+Trabzonspor,Fenerbahçe,3,2,10,2024-03-04 00:00:00.000000
+Trabzonspor,Galatasaray,3,3,1,2024-01-01 00:00:00.000000
+Trabzonspor,Galatasaray,1,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Galatasaray,1,3,3,2024-01-15 00:00:00.000000
+Trabzonspor,Galatasaray,1,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Galatasaray,3,2,5,2024-01-29 00:00:00.000000
+Trabzonspor,Galatasaray,3,1,6,2024-02-05 00:00:00.000000
+Trabzonspor,Galatasaray,2,2,7,2024-02-12 00:00:00.000000
+Trabzonspor,Galatasaray,1,4,8,2024-02-19 00:00:00.000000
+Trabzonspor,Galatasaray,3,2,9,2024-02-26 00:00:00.000000
+Trabzonspor,Galatasaray,4,1,10,2024-03-04 00:00:00.000000
+Trabzonspor,Gaziantep,2,0,1,2024-01-01 00:00:00.000000
+Trabzonspor,Gaziantep,1,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Gaziantep,2,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,Gaziantep,3,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Gaziantep,2,1,5,2024-01-29 00:00:00.000000
+Trabzonspor,Gaziantep,2,0,6,2024-02-05 00:00:00.000000
+Trabzonspor,Gaziantep,0,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Gaziantep,0,0,8,2024-02-19 00:00:00.000000
+Trabzonspor,Gaziantep,1,3,9,2024-02-26 00:00:00.000000
+Trabzonspor,Gaziantep,0,1,10,2024-03-04 00:00:00.000000
+Trabzonspor,Göztepe,2,1,1,2024-01-01 00:00:00.000000
+Trabzonspor,Göztepe,2,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Göztepe,0,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,Göztepe,2,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Göztepe,1,1,5,2024-01-29 00:00:00.000000
+Trabzonspor,Göztepe,1,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Göztepe,0,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Göztepe,3,2,8,2024-02-19 00:00:00.000000
+Trabzonspor,Göztepe,2,2,9,2024-02-26 00:00:00.000000
+Trabzonspor,Göztepe,2,1,10,2024-03-04 00:00:00.000000
+Trabzonspor,Hatayspor,4,0,1,2024-01-01 00:00:00.000000
+Trabzonspor,Hatayspor,4,3,2,2024-01-08 00:00:00.000000
+Trabzonspor,Hatayspor,2,0,3,2024-01-15 00:00:00.000000
+Trabzonspor,Hatayspor,2,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Hatayspor,3,0,5,2024-01-29 00:00:00.000000
+Trabzonspor,Hatayspor,2,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Hatayspor,2,3,7,2024-02-12 00:00:00.000000
+Trabzonspor,Hatayspor,1,2,8,2024-02-19 00:00:00.000000
+Trabzonspor,Hatayspor,2,1,9,2024-02-26 00:00:00.000000
+Trabzonspor,Hatayspor,1,1,10,2024-03-04 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,2,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,2,0,2,2024-01-08 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,0,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,2,0,4,2024-01-22 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,2,3,5,2024-01-29 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,1,0,6,2024-02-05 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,2,1,7,2024-02-12 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,1,1,8,2024-02-19 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,2,0,9,2024-02-26 00:00:00.000000
+Trabzonspor,İstanbul Başakşehir,1,4,10,2024-03-04 00:00:00.000000
+Trabzonspor,Kasımpaşa,2,0,1,2024-01-01 00:00:00.000000
+Trabzonspor,Kasımpaşa,2,2,2,2024-01-08 00:00:00.000000
+Trabzonspor,Kasımpaşa,1,0,3,2024-01-15 00:00:00.000000
+Trabzonspor,Kasımpaşa,1,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Kasımpaşa,1,0,5,2024-01-29 00:00:00.000000
+Trabzonspor,Kasımpaşa,1,1,6,2024-02-05 00:00:00.000000
+Trabzonspor,Kasımpaşa,2,1,7,2024-02-12 00:00:00.000000
+Trabzonspor,Kasımpaşa,2,2,8,2024-02-19 00:00:00.000000
+Trabzonspor,Kasımpaşa,2,0,9,2024-02-26 00:00:00.000000
+Trabzonspor,Kasımpaşa,4,0,10,2024-03-04 00:00:00.000000
+Trabzonspor,Kayserispor,1,2,1,2024-01-01 00:00:00.000000
+Trabzonspor,Kayserispor,3,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Kayserispor,2,0,3,2024-01-15 00:00:00.000000
+Trabzonspor,Kayserispor,3,0,4,2024-01-22 00:00:00.000000
+Trabzonspor,Kayserispor,3,2,5,2024-01-29 00:00:00.000000
+Trabzonspor,Kayserispor,2,1,6,2024-02-05 00:00:00.000000
+Trabzonspor,Kayserispor,3,2,7,2024-02-12 00:00:00.000000
+Trabzonspor,Kayserispor,2,0,8,2024-02-19 00:00:00.000000
+Trabzonspor,Kayserispor,4,0,9,2024-02-26 00:00:00.000000
+Trabzonspor,Kayserispor,1,0,10,2024-03-04 00:00:00.000000
+Trabzonspor,Konyaspor,2,3,1,2024-01-01 00:00:00.000000
+Trabzonspor,Konyaspor,0,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Konyaspor,2,2,3,2024-01-15 00:00:00.000000
+Trabzonspor,Konyaspor,3,1,4,2024-01-22 00:00:00.000000
+Trabzonspor,Konyaspor,2,0,5,2024-01-29 00:00:00.000000
+Trabzonspor,Konyaspor,4,4,6,2024-02-05 00:00:00.000000
+Trabzonspor,Konyaspor,2,2,7,2024-02-12 00:00:00.000000
+Trabzonspor,Konyaspor,3,1,8,2024-02-19 00:00:00.000000
+Trabzonspor,Konyaspor,2,0,9,2024-02-26 00:00:00.000000
+Trabzonspor,Konyaspor,4,4,10,2024-03-04 00:00:00.000000
+Trabzonspor,Samsunspor,3,1,1,2024-01-01 00:00:00.000000
+Trabzonspor,Samsunspor,1,0,2,2024-01-08 00:00:00.000000
+Trabzonspor,Samsunspor,1,0,3,2024-01-15 00:00:00.000000
+Trabzonspor,Samsunspor,2,2,4,2024-01-22 00:00:00.000000
+Trabzonspor,Samsunspor,1,0,5,2024-01-29 00:00:00.000000
+Trabzonspor,Samsunspor,3,2,6,2024-02-05 00:00:00.000000
+Trabzonspor,Samsunspor,1,0,7,2024-02-12 00:00:00.000000
+Trabzonspor,Samsunspor,2,0,8,2024-02-19 00:00:00.000000
+Trabzonspor,Samsunspor,0,2,9,2024-02-26 00:00:00.000000
+Trabzonspor,Samsunspor,2,1,10,2024-03-04 00:00:00.000000
+Trabzonspor,Sivasspor,1,1,1,2024-01-01 00:00:00.000000
+Trabzonspor,Sivasspor,0,1,2,2024-01-08 00:00:00.000000
+Trabzonspor,Sivasspor,3,1,3,2024-01-15 00:00:00.000000
+Trabzonspor,Sivasspor,1,2,4,2024-01-22 00:00:00.000000
+Trabzonspor,Sivasspor,2,0,5,2024-01-29 00:00:00.000000
+Trabzonspor,Sivasspor,0,1,6,2024-02-05 00:00:00.000000
+Trabzonspor,Sivasspor,1,2,7,2024-02-12 00:00:00.000000
+Trabzonspor,Sivasspor,1,0,8,2024-02-19 00:00:00.000000
+Trabzonspor,Sivasspor,2,2,9,2024-02-26 00:00:00.000000
+Trabzonspor,Sivasspor,0,2,10,2024-03-04 00:00:00.000000

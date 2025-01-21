@@ -1,0 +1,59 @@
+{% extends "base.html" %} {% block content %}
+<div class="card">
+  <div class="card-header">
+    <h2 class="mb-0">Maç Skoru Tahmin Et</h2>
+  </div>
+  <div class="card-body">
+    <form method="POST">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label class="form-label">Ev Sahibi Takım</label>
+            <select name="home_team" class="form-select" required>
+              <option value="">Takım Seçin</option>
+              {% for team in teams %}
+              <option value="{{ team.id }}">{{ team.team_name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label class="form-label">Deplasman Takımı</label>
+            <select name="away_team" class="form-select" required>
+              <option value="">Takım Seçin</option>
+              {% for team in teams %}
+              <option value="{{ team.id }}">{{ team.team_name }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Skor Tahmin Et</button>
+    </form>
+
+    {% if prediction_made %}
+    <div class="mt-4">
+      <div class="card">
+        <div class="card-header bg-primary text-white">
+          <h3 class="mb-0">
+            Maç Tahmin Sonuçları: {{ home_team.team_name }} vs {{
+            away_team.team_name }}
+          </h3>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-12">
+              <h4 class="text-center mb-4">
+                Tahmini Skor: {{ home_team.team_name }} {{ home_goals }} - {{
+                away_goals }} {{ away_team.team_name }}
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
